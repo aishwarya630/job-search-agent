@@ -85,7 +85,7 @@ def search_jobs(keyword, location="United States"):
             f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
             f"?keywords={keyword_encoded}"
             f"&location={location_encoded}"
-            f"&f_TPR=900"  # past hour
+            f"&f_TPR=900"  # past 15 min
             f"&f_E=2%2C3"    # entry + associate level
             f"&sortBy=DD"    # newest first
             f"&start=0"
@@ -123,7 +123,13 @@ def search_jobs(keyword, location="United States"):
             company = companies[i] if i < len(companies) else "Unknown Company"
             location_str = locations[i] if i < len(locations) else location
             job_url = f"https://www.linkedin.com/jobs/view/{job_id}/"
-            
+
+            # Skip jobs already in tracker
+            from tracker import load_seen_jobs
+            seen = load_seen_jobs()
+            if job_url in seen:
+                continue
+       
             # Fetch full description
             description = get_job_description(job_id)
             
