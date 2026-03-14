@@ -63,5 +63,40 @@
     "count": 1,
     "first_seen": "2026-03-14",
     "last_seen": "2026-03-14"
+  },
+  "gcp": {
+    "count": 3,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "specific experience with github actions": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "specific experience with security": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "scalability": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "reliability": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "specific experience with iac tools": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "certain devops practices": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
   }
 }
