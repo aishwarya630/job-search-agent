@@ -28,6 +28,8 @@ STRICT EXCLUSION RULES — discard any job that mentions:
 - "US citizen only", "must be authorized to work", "no sponsorship"
 - "5+ years", "7+ years", "10+ years" of experience required
 - part-time, contract-to-hire, gig work
+- EXCLUDE jobs posted more than 30 days ago — only include recent postings
+- If the description mentions a very old date, skip it
 
 SCORING RULES:
 - Score based on how well the candidate's resume matches the job requirements

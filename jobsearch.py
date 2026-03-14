@@ -129,6 +129,12 @@ def search_jobs(keyword, location="United States"):
             seen = load_seen_jobs()
             if job_url in seen:
                 continue
+            
+            # Skip jobs already in tracker
+            from tracker import load_seen_jobs
+            seen = load_seen_jobs()
+            if job_url in seen:
+                continue
        
             # Fetch full description
             description = get_job_description(job_id)
