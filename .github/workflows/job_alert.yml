@@ -2,7 +2,7 @@ name: Job Alert Agent
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # every 30 minutes
+    - cron: '*/15 * * * *'  # every 30 minutes
   workflow_dispatch:          # allows manual trigger from GitHub UI
 
 jobs:
