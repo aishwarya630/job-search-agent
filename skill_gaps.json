@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -390,7 +390,7 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -710,6 +710,66 @@
     "last_seen": "2026-03-15"
   },
   "programming languages required for the role": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific devops tools like jenkins": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or ansible not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific data engineering skills required for the role": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific skills required for the role are not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "frontend development experience": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific full stack skills": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "backend development experience": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific skills required for the role": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "machine learning skills": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with ai technologies": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "react.js": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "typescript": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
