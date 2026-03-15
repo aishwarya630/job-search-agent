@@ -310,7 +310,7 @@
     "last_seen": "2026-03-15"
   },
   "experience with google cloud platform (gcp)": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -400,7 +400,7 @@
     "last_seen": "2026-03-15"
   },
   "experience with ibm-specific tools like ibm cloud pak": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -555,6 +555,21 @@
     "last_seen": "2026-03-15"
   },
   "experience with palantir's software platform": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with amazon-specific tools like aws codepipeline": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "google-specific tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific data integration tools": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
