@@ -20,9 +20,9 @@
     "last_seen": "2026-03-14"
   },
   "pytorch": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-15"
   },
   "gpu provisioning": {
     "count": 1,
@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-15"
   },
   "django": {
     "count": 1,
@@ -65,9 +65,9 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 3,
+    "count": 7,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-15"
   },
   "specific experience with github actions": {
     "count": 1,
@@ -99,7 +99,577 @@
     "first_seen": "2026-03-14",
     "last_seen": "2026-03-14"
   },
-  "specific backend framework or technology required by the job": {
+  "jenkins": {
+    "count": 3,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-15"
+  },
+  "github actions": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "bash": {
+    "count": 3,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-15"
+  },
+  "ansible": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "powershell": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "specific experience with test automation": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "performance/security monitoring": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "agile product delivery": {
+    "count": 1,
+    "first_seen": "2026-03-14",
+    "last_seen": "2026-03-14"
+  },
+  "git/gitlab": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "git projects": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "branching strategies": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with ai-native workflows": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with energy storage operations": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "real-time trading tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with deep learning models": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with production-grade ml infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "gpu workloads": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "infrastructure as code tools (pulumi)": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "monitoring": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "observability tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "bedrock": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "sagemaker": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "aws glue": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "pyspark": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "arm templates": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with voice ai": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "emotion understanding": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or voice superintelligence": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with network engineering": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "custom hardware": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "firmware": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with large scale data generation": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "etl workflows": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "model optimization tools (onnx": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "tensorrt": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "tflite)": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with model inference optimization": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "quantization": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with fullstack development": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or automation": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "model optimization tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with amazon-specific tools like aws cloudformation": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with google cloud platform (gcp)": {
+    "count": 5,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "google-specific tools like google kubernetes engine (gke)": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "agile safe": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "legacy systems": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "no specific mention of required skills missing": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "but notion's tech stack includes react": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "which is not mentioned in the candidate's resume": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "but fieldguide's tech stack includes technologies like kubernetes": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "docker": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "which are not extensively mentioned in the candidate's resume": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific software": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "tools": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific tools like ibm cloud private": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with apple's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "such as swift or objective-c": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with large-scale data infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "java": {
+    "count": 3,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "crossplane": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific tools like ibm cloud pak": {
+    "count": 4,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "groovy": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "dynatrace": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "splunk": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "datadog": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific tools like palantir foundry": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with airbnb-specific tools like airbnb's data warehouse": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "angularjs": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or vue.js": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "mysql": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "postgresql": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or mongodb": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "full-stack javascript": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ai": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "modern software development": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "rancher": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "openshift": {
+    "count": 3,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "apache beam": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific google technologies": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific frontend technologies": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "visual/interaction design experience": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "bash scripting": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "spark": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "hadoop": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with google-specific tools like google cloud platform": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with large-scale distributed systems": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with hashicorp-specific tools like vault": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific cloud services": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with google cloud platform": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific google tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with netflix's specific tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir's software platform": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with amazon-specific tools like aws codepipeline": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "google-specific tools": {
+    "count": 3,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific data integration tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm cloud": {
+    "count": 3,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir's software stack": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific tools like foundry": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with large-scale data integration": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "ibm watson": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific tools like ibm cloud": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "vpc": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "rds": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "iam": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "aws cloudformation": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "encryption": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "logging": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "ibm cloud experience": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "docker swarm": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "consul": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "google cloud platform": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with specific distributed systems technologies like apache cassandra": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with containerization using docker": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "software": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
