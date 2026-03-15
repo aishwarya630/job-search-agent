@@ -475,12 +475,12 @@
     "last_seen": "2026-03-15"
   },
   "rancher": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
   "openshift": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -500,6 +500,31 @@
     "last_seen": "2026-03-15"
   },
   "visual/interaction design experience": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "bash scripting": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "spark": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "hadoop": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with google-specific tools like google cloud platform": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with large-scale distributed systems": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
