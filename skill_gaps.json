@@ -65,7 +65,7 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-14",
     "last_seen": "2026-03-15"
   },
@@ -100,9 +100,9 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-15"
   },
   "github actions": {
     "count": 1,
@@ -300,6 +300,101 @@
     "last_seen": "2026-03-15"
   },
   "model optimization tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with amazon-specific tools like aws cloudformation": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with google cloud platform (gcp)": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "google-specific tools like google kubernetes engine (gke)": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "agile safe": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "legacy systems": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "no specific mention of required skills missing": {
+    "count": 2,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "but notion's tech stack includes react": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "which is not mentioned in the candidate's resume": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "but fieldguide's tech stack includes technologies like kubernetes": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "docker": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "which are not extensively mentioned in the candidate's resume": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific software": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "tools": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific tools like ibm cloud private": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific experience with apple's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "such as swift or objective-c": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with large-scale data infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "java": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "crossplane": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
