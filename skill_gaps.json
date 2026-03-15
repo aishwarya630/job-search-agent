@@ -510,12 +510,12 @@
     "last_seen": "2026-03-15"
   },
   "spark": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
   "hadoop": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -600,6 +600,41 @@
     "last_seen": "2026-03-15"
   },
   "experience with ibm-specific tools like ibm cloud": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "vpc": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "rds": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "iam": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "aws cloudformation": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "encryption": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "logging": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "ibm cloud experience": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
