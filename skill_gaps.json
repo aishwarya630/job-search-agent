@@ -390,7 +390,7 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -400,7 +400,7 @@
     "last_seen": "2026-03-15"
   },
   "experience with ibm-specific tools like ibm cloud pak": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -470,6 +470,36 @@
     "last_seen": "2026-03-15"
   },
   "modern software development": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "rancher": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "openshift": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "apache beam": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific google technologies": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific frontend technologies": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "visual/interaction design experience": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
