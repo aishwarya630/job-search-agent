@@ -1,3 +1,8 @@
 .env
 __pycache__/
 *.pyc
+resume_index.faiss
+resume_chunks.pkl
+chroma_db/
+*.bin
+*.safetensors

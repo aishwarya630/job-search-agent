@@ -3,90 +3,121 @@ load_dotenv()
 
 import os
 import json
-from google import genai
+import time
+import requests
 from groq import Groq
 
-gemini_client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
-def build_prompt(jobs_text, resume_text):
-    return f"""You are a job matching assistant helping an international student on OPT visa in the US.
+def build_prompt(jobs, resume_chunks):
+    jobs_text = ""
+    for i, job in enumerate(jobs):
+        jobs_text += f"""
+JOB {i+1}:
+Title: {job['title']}
+Company: {job['company']}
+Location: {job['location']}
+URL: {job['apply_url']}
+Description: {job.get('description', 'No description available')[:800]}
+---
+"""
+    return f"""You are a job matching assistant for an international student on OPT visa.
 
-Here is the candidate's resume:
-{resume_text[:2000]}
+Relevant resume sections:
+{resume_chunks}
 
-Here are the job listings with full descriptions:
-{jobs_text[:4000]}
+REAL JOB LISTINGS (score ONLY these {len(jobs)} jobs, do not add or invent any others):
+{jobs_text}
+
+EXCLUSION RULES:
+- EXCLUDE: "security clearance", "TS/SCI", "US citizen only", "no sponsorship", "5+ years", "7+ years"
+- EXCLUDE: part-time, contract-to-hire, outside USA
 
 LOCATION RULES:
-- Include all US locations — candidate is open to relocation anywhere in the US
+- Include all US locations, candidate is open to relocation anywhere in the US
 - Include remote, hybrid and onsite roles
-- Only exclude jobs outside the US
 
-STRICT EXCLUSION RULES — discard any job that mentions:
-- "security clearance", "TS/SCI", "polygraph"
-- "US citizen only", "must be authorized to work", "no sponsorship"
-- "5+ years", "7+ years", "10+ years" of experience required
-- part-time, contract-to-hire, gig work
-- EXCLUDE jobs posted more than 30 days ago — only include recent postings
-- If the description mentions a very old date, skip it
+SCORING (be strict and honest):
+- 9-10: 80%+ required skills present in resume
+- 7-8: 60-80% match
+- 6: 40-60% match, stretch role
+- Below 6: exclude
 
-SCORING RULES:
-- Score based on how well the candidate's resume matches the job requirements
-- 9-10: Strong match, most required skills present
-- 7-8: Good match, minor gaps
-- 6: Decent match, some gaps but worth applying
-- Below 6: Do not include
-
-For each suitable job return a JSON array:
+Return a JSON array scoring ONLY the {len(jobs)} jobs listed above.
+Do NOT add any jobs not in this list.
 [
   {{
-    "title": "job title",
-    "company": "company name",
-    "location": "location",
-    "apply_url": "url",
+    "title": "exact title from job listing",
+    "company": "exact company from job listing",
+    "location": "exact location from job listing",
+    "apply_url": "exact url from job listing",
     "score": 7,
-    "what_fits": "specific skills from the candidate resume that match the job requirements",
-    "whats_missing": "specific skills or tools listed as REQUIRED in the job description that are NOT in the candidate resume — be specific e.g. 'Java, Go, Rancher' not vague",
-    "why_apply": "one specific reason based on the job description, not generic",
-    "visa_note": "copy exact text from job posting about sponsorship/OPT/citizenship if mentioned, else write 'not mentioned'"
+    "what_fits": "specific matching skills from resume",
+    "whats_missing": "specific required skills NOT in resume",
+    "why_apply": "one specific reason from job description",
+    "visa_note": "exact sponsorship text or not mentioned"
   }}
 ]
 
-Only include jobs scoring 6 or above.
-Return ONLY valid JSON array, no extra text, no markdown backticks.
+Return ONLY valid JSON array. No extra text. No markdown.
 """
 
 def parse_response(text):
     text = text.strip().replace("```json", "").replace("```", "").strip()
     return json.loads(text)
 
-def match_with_gemini(prompt):
-    print("Trying Gemini...")
-    response = gemini_client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=prompt
-    )
-    return parse_response(response.text)
-
 def match_with_groq(prompt):
-    import time
-    time.sleep(3)  # avoid Groq rate limiting
-    print("Trying Groq...")
+    time.sleep(2)
     response = groq_client.chat.completions.create(
         model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3,
-        max_tokens=2000  # add this to ensure full response
+        max_tokens=2000
     )
-    text = response.choices[0].message.content
-    print(f"  Groq matched {len(json.loads(text.strip().replace('```json','').replace('```','')))} jobs")    
-    return parse_response(text)
+    return parse_response(response.choices[0].message.content)
 
-def match_jobs(jobs_text, resume_text):
-    prompt = build_prompt(jobs_text, resume_text)
+def match_with_huggingface(prompt):
+    print("Trying HuggingFace fallback...")
+    hf_token = os.environ.get("HF_TOKEN", "")
+    API_URL = "https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {hf_token}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "model": "mistralai/Mistral-7B-Instruct-v0.3",
+        "messages": [{"role": "user", "content": prompt[:3000]}],
+        "max_tokens": 2000,
+        "temperature": 0.3
+    }
+    response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+    result = response.json()
+    if "choices" in result:
+        text = result["choices"][0]["message"]["content"]
+        return parse_response(text)
+    raise Exception(f"HF error: {result}")
+
+def match_jobs(jobs, resume_text):
+    if not jobs:
+        return []
+
+    try:
+        from rag import get_relevant_resume_chunks
+        resume_chunks = get_relevant_resume_chunks(
+            " ".join([f"{j['title']} {j.get('description','')[:200]}" for j in jobs])
+        )
+    except Exception as e:
+        print(f"RAG failed, using full resume: {e}")
+        resume_chunks = resume_text[:2000]
+
+    prompt = build_prompt(jobs, resume_chunks)
+
     try:
         return match_with_groq(prompt)
     except Exception as e:
         print(f"Groq failed: {e}")
-        return []
+        try:
+            return match_with_huggingface(prompt)
+        except Exception as e2:
+            print(f"HuggingFace failed: {e2}")
+            return []

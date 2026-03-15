@@ -1,0 +1,13 @@
+httpx
+groq
+google-genai
+pdfplumber
+python-dotenv
+selenium
+webdriver-manager
+beautifulsoup4
+faiss-cpu
+sentence-transformers
+rank-bm25
+requests
+schedule

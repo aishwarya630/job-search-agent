@@ -12,20 +12,27 @@ import json
 from skill_tracker import track_missing_skills, get_skill_recommendations
 
 def search_and_match(keyword, location, resume_text):
-    """Single unit of work — search + match for one keyword/location pair"""
     print(f"  Starting: {keyword} in {location}...")
-    jobs_text = search_jobs(keyword, location)
 
-    if not jobs_text:
+    # Step 1 — scrape (pure Python, no AI)
+    jobs = search_jobs(keyword, location)
+
+    if not jobs:
         return keyword, location, [], "blocked"
 
-    matched = match_jobs(jobs_text, resume_text)
+    # Step 2 — deduplicate
+    new_jobs = filter_new_jobs(jobs)
+
+    if not new_jobs:
+        return keyword, location, [], "already_seen"
+
+    # Step 3 — AI matching (only on real scraped jobs)
+    matched = match_jobs(new_jobs, resume_text)
 
     if not matched:
         return keyword, location, [], "no_matches"
 
-    new_only = filter_new_jobs(matched)
-    return keyword, location, new_only, "ok"
+    return keyword, location, matched, "ok"
 
 def run():
     resume_text = extract_resume_text(RESUME_PATH)
