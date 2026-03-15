@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-15"
   },
   "django": {
     "count": 1,
@@ -110,9 +110,9 @@
     "last_seen": "2026-03-14"
   },
   "bash": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-15"
   },
   "ansible": {
     "count": 1,
@@ -395,6 +395,81 @@
     "last_seen": "2026-03-15"
   },
   "crossplane": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific tools like ibm cloud pak": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "groovy": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "dynatrace": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "splunk": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "datadog": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with palantir-specific tools like palantir foundry": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with airbnb-specific tools like airbnb's data warehouse": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "angularjs": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or vue.js": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "mysql": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "postgresql": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "or mongodb": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "full-stack javascript": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ai": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "modern software development": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
