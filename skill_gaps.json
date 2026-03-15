@@ -365,7 +365,7 @@
     "last_seen": "2026-03-15"
   },
   "tools": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -530,6 +530,21 @@
     "last_seen": "2026-03-15"
   },
   "experience with hashicorp-specific tools like vault": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with ibm-specific cloud services": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "experience with google cloud platform": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "specific google tools": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
