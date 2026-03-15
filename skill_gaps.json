@@ -528,5 +528,10 @@
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
+  },
+  "experience with hashicorp-specific tools like vault": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
   }
 }
