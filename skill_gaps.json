@@ -480,7 +480,7 @@
     "last_seen": "2026-03-15"
   },
   "openshift": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
   },
@@ -635,6 +635,11 @@
     "last_seen": "2026-03-15"
   },
   "ibm cloud experience": {
+    "count": 1,
+    "first_seen": "2026-03-15",
+    "last_seen": "2026-03-15"
+  },
+  "docker swarm": {
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
