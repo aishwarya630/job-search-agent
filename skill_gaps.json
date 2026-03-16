@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "django": {
     "count": 1,
@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "specific full stack skills": {
     "count": 1,
@@ -1011,6 +1011,31 @@
   },
   "field engineering skills": {
     "count": 2,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "relevant engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "knowledge of steam": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "electric plants": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "networking skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "experience with network protocols": {
+    "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   }
