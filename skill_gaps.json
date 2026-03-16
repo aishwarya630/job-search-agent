@@ -365,9 +365,9 @@
     "last_seen": "2026-03-15"
   },
   "tools": {
-    "count": 2,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "experience with ibm-specific tools like ibm cloud private": {
     "count": 2,
@@ -745,9 +745,9 @@
     "last_seen": "2026-03-15"
   },
   "backend development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "specific skills required for the role": {
     "count": 1,
@@ -795,9 +795,9 @@
     "last_seen": "2026-03-16"
   },
   "security clearance": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "us citizenship": {
     "count": 1,
@@ -955,9 +955,9 @@
     "last_seen": "2026-03-15"
   },
   "game development experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "unity or other game engines": {
     "count": 1,
@@ -1015,7 +1015,7 @@
     "last_seen": "2026-03-16"
   },
   "relevant engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
@@ -1125,6 +1125,76 @@
     "last_seen": "2026-03-16"
   },
   "front-end development skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific data engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "data warehousing": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific sre tools": {
+    "count": 2,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "technologies": {
+    "count": 2,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific capabilities mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific sre experience": {
+    "count": 3,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific latam requirements": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific perception skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "computer vision": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "part-time": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific trajectory requirements": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "javascript experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "network security skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "optical system design skills": {
     "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
