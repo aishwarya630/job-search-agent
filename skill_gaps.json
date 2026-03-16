@@ -790,9 +790,9 @@
     "last_seen": "2026-03-15"
   },
   "testing frameworks": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "security clearance": {
     "count": 1,
@@ -968,5 +968,30 @@
     "count": 1,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-15"
+  },
+  "qa specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "full stack": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "frontend": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "or backend development experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific skillbridge program requirements": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
   }
 }
