@@ -715,7 +715,7 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -995,12 +995,12 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
   "unable to determine exact missing skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
@@ -1155,7 +1155,7 @@
     "last_seen": "2026-03-16"
   },
   "specific sre experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
@@ -1510,6 +1510,61 @@
     "last_seen": "2026-03-16"
   },
   "specific programming languages for web development": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "docker expertise": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific experience with haystack's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "expertise in distributed systems": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific experience with systems engineering in a similar industry": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific ai-related skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "machine learning experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "embedded software development": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "systems engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "mechanical engineering": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "maintenance": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "reliability experience": {
     "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
