@@ -20,9 +20,9 @@
     "last_seen": "2026-03-14"
   },
   "pytorch": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "gpu provisioning": {
     "count": 1,
@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "or ansible not mentioned in the resume": {
     "count": 1,
@@ -755,9 +755,9 @@
     "last_seen": "2026-03-15"
   },
   "machine learning skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "specific experience with ai technologies": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering skills": {
-    "count": 2,
+    "count": 7,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
@@ -1285,6 +1285,106 @@
     "last_seen": "2026-03-16"
   },
   "electrical engineering background": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "deep learning frameworks like tensorflow": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "no specific backend framework mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific skills required for the role not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "gitlab": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific cloud security skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "no specific full-stack framework mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific r&d experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "senior-level experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "leadership skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "no specific api framework mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "data science specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "statistical modeling": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "no specific frontend framework or css experience mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "no specific java experience mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "no specific frontend framework or experience mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "electronic trading platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific trading systems skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "machine learning specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "deep learning frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "security related skills": {
     "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
