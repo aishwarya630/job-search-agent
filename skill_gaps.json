@@ -685,7 +685,7 @@
     "last_seen": "2026-03-15"
   },
   "specific software development skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -790,7 +790,7 @@
     "last_seen": "2026-03-15"
   },
   "testing frameworks": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -1746,6 +1746,56 @@
   },
   "all technical skills listed in the resume": {
     "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific system engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "system administration": {
+    "count": 2,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific qa": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "platform reliability skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "such as proficiency in a particular programming language or framework": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific healthcare industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific software validation skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "rail systems engineering experience": {
+    "count": 2,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "relevant technical skills": {
+    "count": 2,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   }
