@@ -790,7 +790,7 @@
     "last_seen": "2026-03-15"
   },
   "testing frameworks": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -1055,7 +1055,7 @@
     "last_seen": "2026-03-16"
   },
   "quality assurance experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
@@ -1105,6 +1105,26 @@
     "last_seen": "2026-03-16"
   },
   "specific hardware skills": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "golang": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific details about the job requirements are not provided": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "web development framework experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "front-end development skills": {
     "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
