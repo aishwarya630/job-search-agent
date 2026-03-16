@@ -685,7 +685,7 @@
     "last_seen": "2026-03-15"
   },
   "specific software development skills": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -750,9 +750,9 @@
     "last_seen": "2026-03-16"
   },
   "specific skills required for the role": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "machine learning skills": {
     "count": 2,
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-16"
   },
   "security clearance": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -930,14 +930,14 @@
     "last_seen": "2026-03-15"
   },
   "specific backend development experience with playsaurus technology stack": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "specific data science experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-16"
   },
   "machine learning expertise": {
     "count": 1,
@@ -955,7 +955,7 @@
     "last_seen": "2026-03-15"
   },
   "game development experience": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-16"
   },
@@ -1750,7 +1750,7 @@
     "last_seen": "2026-03-16"
   },
   "specific system engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   },
@@ -1796,6 +1796,56 @@
   },
   "relevant technical skills": {
     "count": 2,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific security clearance or us citizenship requirements not mentioned in provided job details": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "but potential missing skills include specific software engineering skills or domain expertise": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "agile methodology": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "knowledge of machine learning frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "networking knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "reactjs": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific knowledge of game development frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific quality assurance experience": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "knowledge of testing frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16"
+  },
+  "specific knowledge of unity": {
+    "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
   }
