@@ -795,7 +795,7 @@
     "last_seen": "2026-03-17"
   },
   "security clearance": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -1130,7 +1130,7 @@
     "last_seen": "2026-03-16"
   },
   "specific data engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1235,9 +1235,9 @@
     "last_seen": "2026-03-17"
   },
   "specific programming languages required for the role": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific systems engineering skills": {
     "count": 14,
@@ -1665,9 +1665,9 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering experience": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "ios development experience": {
     "count": 1,
@@ -1725,9 +1725,9 @@
     "last_seen": "2026-03-16"
   },
   "specific programming languages": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "cloud provider expertise": {
     "count": 1,
@@ -1750,9 +1750,9 @@
     "last_seen": "2026-03-16"
   },
   "specific system engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "system administration": {
     "count": 2,
@@ -2725,6 +2725,61 @@
     "last_seen": "2026-03-17"
   },
   "field service experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "linux administration experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with datapatrol's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "software development methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with atlas technica's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with big data": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific fullstack development experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "react or angular": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "hardware experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "cybersecurity experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "chemical engineering background": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "semiconductor process experience": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
