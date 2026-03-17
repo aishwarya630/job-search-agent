@@ -1035,9 +1035,9 @@
     "last_seen": "2026-03-16"
   },
   "experience with network protocols": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific programming languages required for the role (not mentioned in job description)": {
     "count": 1,
@@ -1580,9 +1580,9 @@
     "last_seen": "2026-03-16"
   },
   "data engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific technology stack used by xpherium": {
     "count": 1,
@@ -2081,6 +2081,66 @@
   },
   "experience with industrial systems": {
     "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific snowflake skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific aurora technologies": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "quartz experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific dematic technologies": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "supply chain systems experience": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific technologies": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "quantitative risk estimation experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific financial knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific network engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "architectures": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific functional safety engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with safety-critical systems": {
+    "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   }
