@@ -1155,7 +1155,7 @@
     "last_seen": "2026-03-16"
   },
   "specific sre experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1220,9 +1220,9 @@
     "last_seen": "2026-03-16"
   },
   "specific security certifications": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "most technical skills": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-17"
   },
   "specific systems engineering skills": {
-    "count": 15,
+    "count": 17,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1330,9 +1330,9 @@
     "last_seen": "2026-03-17"
   },
   "leadership skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "no specific api framework mentioned in the resume": {
     "count": 1,
@@ -1880,7 +1880,7 @@
     "last_seen": "2026-03-17"
   },
   "compliance knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -2830,6 +2830,91 @@
     "last_seen": "2026-03-17"
   },
   "fast api": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific senior-level experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific software engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific digitalocean platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific linux engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "on-call expectations": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with fetchjobs.co technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific security experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific web development skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with website building tools": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific java skills": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with required technologies": {
+    "count": 4,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "cybersecurity expertise": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific desktop support skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "linux expertise": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "mobile application development skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "firmware development skills": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
