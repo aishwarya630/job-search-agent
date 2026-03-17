@@ -795,7 +795,7 @@
     "last_seen": "2026-03-17"
   },
   "security clearance": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -995,7 +995,7 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 5,
+    "count": 7,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -2160,7 +2160,7 @@
     "last_seen": "2026-03-17"
   },
   "domain expertise": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -2285,7 +2285,7 @@
     "last_seen": "2026-03-17"
   },
   "compliance": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -2965,6 +2965,46 @@
     "last_seen": "2026-03-17"
   },
   "experience in care management or healthcare": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific skills in cloud security": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "unable to determine missing skills": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "do-178 specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "aerospace domain expertise": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience in continuous improvement": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "manufacturing or process engineering": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "sales engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "business development experience": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
