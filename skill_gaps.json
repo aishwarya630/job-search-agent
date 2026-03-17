@@ -790,17 +790,17 @@
     "last_seen": "2026-03-15"
   },
   "testing frameworks": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
   "security clearance": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
   "us citizenship": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -970,9 +970,9 @@
     "last_seen": "2026-03-15"
   },
   "qa specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "full stack": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering skills": {
-    "count": 12,
+    "count": 14,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 8,
+    "count": 11,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -2676,6 +2676,56 @@
   },
   "including java expertise": {
     "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific technology stacks or tools used by aditi consulting": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "but implies us citizenship or green card": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific ml skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "e.g. machine learning frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific healthcare technology experience or knowledge of zus health's platform": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "voice systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific telecom experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "top secret clearance": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "all required skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "field service experience": {
+    "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   }
