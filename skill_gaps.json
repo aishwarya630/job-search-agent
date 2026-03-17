@@ -1155,9 +1155,9 @@
     "last_seen": "2026-03-16"
   },
   "specific sre experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific latam requirements": {
     "count": 1,
@@ -1230,9 +1230,9 @@
     "last_seen": "2026-03-16"
   },
   "specific industry experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific programming languages required for the role": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering skills": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1875,7 +1875,7 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -2515,7 +2515,7 @@
     "last_seen": "2026-03-17"
   },
   "specific engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -2596,6 +2596,86 @@
   },
   "qa testing skills": {
     "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific azure infra skills not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "arcgis enterprise experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific backend technologies like node.js or ruby on rails": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific platform engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "linux administration": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific details about the tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "required skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "compliance experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "cloud & infrastructure experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "dev ops & monitoring skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific insurance industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "systems engineering expertise": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "vision systems": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "electrical engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "most of the required skills": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "including java expertise": {
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   }
