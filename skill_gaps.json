@@ -830,9 +830,9 @@
     "last_seen": "2026-03-15"
   },
   "all required skills for the nursing position": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-17"
   },
   "specific devops tools used by northrop grumman": {
     "count": 1,
@@ -995,9 +995,9 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "unable to determine exact missing skills": {
     "count": 2,
@@ -1921,6 +1921,51 @@
   },
   "autonomous driving": {
     "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific data engineering tools or technologies": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific details about the required expertise": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific ad-related technologies": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific forward deployed engineering skills or experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific food or supplement testing industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific requirements not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "potential need for more senior skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific sdet requirements or senior skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "unable to determine required skills": {
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   }
