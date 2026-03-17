@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering skills": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 6,
+    "count": 12,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1685,9 +1685,9 @@
     "last_seen": "2026-03-16"
   },
   "agile development": {
-    "count": 1,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "pharma or biopharma industry experience": {
     "count": 1,
@@ -2175,6 +2175,46 @@
     "last_seen": "2026-03-17"
   },
   "mechanical engineering background": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "not enough information in job description to determine missing skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with cloudflare products": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific q2 technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific turing technology stack": {
+    "count": 4,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific devops skills": {
+    "count": 7,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific data platform engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific cloud or infrastructure skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "hardware knowledge": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
