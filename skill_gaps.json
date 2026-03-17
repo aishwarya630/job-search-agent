@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -715,7 +715,7 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -1325,9 +1325,9 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "leadership skills": {
     "count": 1,
@@ -1900,7 +1900,7 @@
     "last_seen": "2026-03-17"
   },
   "machine learning frameworks": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -1985,7 +1985,7 @@
     "last_seen": "2026-03-17"
   },
   "specific sre skills like service monitoring": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   },
@@ -2215,6 +2215,106 @@
     "last_seen": "2026-03-17"
   },
   "hardware knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific platform engineering skills like system design": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific software engineer skills": {
+    "count": 4,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific software developer skills": {
+    "count": 3,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific ai infrastructure skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "ai/ml experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with software development in test": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "fleet response's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "sensor platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "quantitative developer experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "ai implementation experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific skills": {
+    "count": 3,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with cyberark": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "security engineering": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "compliance": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with systems engineering": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "logistics": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "lsi's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "embedded software engineer experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "research scientist experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "robotics experience": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
