@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -1260,9 +1260,9 @@
     "last_seen": "2026-03-17"
   },
   "network engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "lan focus": {
     "count": 1,
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 6,
+    "count": 8,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -2525,6 +2525,61 @@
     "last_seen": "2026-03-17"
   },
   "relevant mechanical engineering or maintenance experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific associate cloud engineer job requirements not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific cloud engineer job requirements not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific ai/ml skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "natural language processing experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with logistics or supply chain management": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific mlops skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "machine learning framework experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with containerization (docker": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "kubernetes)": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with agile methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "networking protocols": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
