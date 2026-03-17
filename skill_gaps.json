@@ -680,12 +680,12 @@
     "last_seen": "2026-03-15"
   },
   "experience with certain technologies": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific full stack skills": {
     "count": 1,
@@ -745,9 +745,9 @@
     "last_seen": "2026-03-15"
   },
   "backend development experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific skills required for the role": {
     "count": 2,
@@ -995,14 +995,14 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
   "unable to determine exact missing skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "network cabling installation experience": {
     "count": 2,
@@ -1255,9 +1255,9 @@
     "last_seen": "2026-03-16"
   },
   "specific technical skills required for the role": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "network engineering skills": {
     "count": 2,
@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 12,
+    "count": 14,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1435,14 +1435,14 @@
     "last_seen": "2026-03-16"
   },
   "kotlin": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "android apis": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific technology stack": {
     "count": 12,
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -2460,6 +2460,71 @@
     "last_seen": "2026-03-17"
   },
   "experience as administrative assistant": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "e.g. proficiency in a particular programming language": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific cloud platform (aws/azure) not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific ai experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "certain automation tools": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "oracle cloud fusion": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific skills not mentioned in resume": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific application development skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific testing experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "certain engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "android sdk experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific engineering skills": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "genesys contact center experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "relevant mechanical engineering or maintenance experience": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
