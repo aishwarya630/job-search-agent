@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -795,14 +795,14 @@
     "last_seen": "2026-03-17"
   },
   "security clearance": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "us citizenship": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-17"
   },
   "sales experience": {
     "count": 1,
@@ -1060,9 +1060,9 @@
     "last_seen": "2026-03-16"
   },
   "specific testing frameworks": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "robotics-specific skills": {
     "count": 1,
@@ -1130,9 +1130,9 @@
     "last_seen": "2026-03-16"
   },
   "specific data engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "data warehousing": {
     "count": 1,
@@ -2580,6 +2580,21 @@
     "last_seen": "2026-03-17"
   },
   "networking protocols": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "data warehousing experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "potentially team collaboration tools": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "qa testing skills": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
