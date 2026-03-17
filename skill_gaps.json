@@ -790,9 +790,9 @@
     "last_seen": "2026-03-15"
   },
   "testing frameworks": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "security clearance": {
     "count": 3,
@@ -1445,9 +1445,9 @@
     "last_seen": "2026-03-16"
   },
   "specific technology stack": {
-    "count": 7,
+    "count": 11,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific experience in propulsion simulation": {
     "count": 1,
@@ -1715,9 +1715,9 @@
     "last_seen": "2026-03-16"
   },
   "cloud platforms": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific ai or machine learning experience": {
     "count": 1,
@@ -2140,6 +2140,41 @@
     "last_seen": "2026-03-17"
   },
   "experience with safety-critical systems": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with devops tools": {
+    "count": 6,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific software commissioning skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with logistics systems": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "domain expertise": {
+    "count": 3,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific quality engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "thermal protection systems expertise": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "mechanical engineering background": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
