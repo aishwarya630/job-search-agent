@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-15"
   },
   "specific software development skills": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-17"
   },
@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "or ansible not mentioned in the resume": {
     "count": 1,
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -1640,9 +1640,9 @@
     "last_seen": "2026-03-16"
   },
   "relevant certifications": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "such as machine learning frameworks or natural language processing": {
     "count": 1,
@@ -1966,6 +1966,56 @@
   },
   "unable to determine required skills": {
     "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "seems like a good fit": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific details about required skills not mentioned in job description": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "agile methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific sre skills like service monitoring": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "incident response": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "cloud & infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "dev ops & monitoring": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific details about required skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "rail structures engineering experience": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "vehicle test engineering experience": {
+    "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
   }
