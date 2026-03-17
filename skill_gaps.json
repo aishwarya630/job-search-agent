@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-17"
   },
   "specific systems engineering skills": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1540,9 +1540,9 @@
     "last_seen": "2026-03-16"
   },
   "machine learning experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "embedded software development": {
     "count": 1,
@@ -1695,7 +1695,7 @@
     "last_seen": "2026-03-16"
   },
   "ai-specific skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -1750,7 +1750,7 @@
     "last_seen": "2026-03-16"
   },
   "specific system engineering skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-17"
   },
@@ -2780,6 +2780,56 @@
     "last_seen": "2026-03-17"
   },
   "semiconductor process experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with systems reliability engineering": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "not explicitly mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific technology stack used by wiraa": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "space technology specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with veracross technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with amentum's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with laboratory systems": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific experience with cloud development": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "python": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "fast api": {
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
