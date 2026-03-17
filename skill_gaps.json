@@ -685,9 +685,9 @@
     "last_seen": "2026-03-15"
   },
   "specific software development skills": {
-    "count": 6,
+    "count": 10,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "experience with specific technologies": {
     "count": 1,
@@ -1240,9 +1240,9 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering skills": {
-    "count": 8,
+    "count": 10,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific infrastructure engineer skills like network architecture": {
     "count": 1,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "mobile development experience": {
     "count": 3,
@@ -1695,9 +1695,9 @@
     "last_seen": "2026-03-16"
   },
   "ai-specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-17"
   },
   "specific data infrastructure skills like data warehousing": {
     "count": 1,
@@ -1848,5 +1848,80 @@
     "count": 1,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-16"
+  },
+  "linux-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "detailed knowledge of linux system administration": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "cloud experience": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with chewy's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "vulnerability management": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "security-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "compliance knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with optimum's tech stack": {
+    "count": 2,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with systems design": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "implementation": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "machine learning frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "specific adas vision systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "experience with computer vision": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "machine learning": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
+  },
+  "autonomous driving": {
+    "count": 1,
+    "first_seen": "2026-03-17",
+    "last_seen": "2026-03-17"
   }
 }
