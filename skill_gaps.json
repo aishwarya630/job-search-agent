@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -1015,9 +1015,9 @@
     "last_seen": "2026-03-16"
   },
   "relevant engineering experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "knowledge of steam": {
     "count": 1,
@@ -1060,9 +1060,9 @@
     "last_seen": "2026-03-16"
   },
   "specific testing frameworks": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "robotics-specific skills": {
     "count": 2,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-17"
   },
   "specific systems engineering skills": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -1560,9 +1560,9 @@
     "last_seen": "2026-03-16"
   },
   "maintenance": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "reliability experience": {
     "count": 1,
@@ -2160,9 +2160,9 @@
     "last_seen": "2026-03-17"
   },
   "domain expertise": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific quality engineering skills": {
     "count": 1,
@@ -2190,9 +2190,9 @@
     "last_seen": "2026-03-17"
   },
   "specific q2 technology stack": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific turing technology stack": {
     "count": 4,
@@ -3950,6 +3950,51 @@
     "last_seen": "2026-03-18"
   },
   "specific experience with us tech solutions' tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific banking or finance industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific servicetrade technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "load balancing": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "high availability": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific leidos technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with microservices": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "message queues": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "ar/vr experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "reliability skills": {
     "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
