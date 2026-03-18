@@ -995,9 +995,9 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "unable to determine exact missing skills": {
     "count": 4,
@@ -1485,9 +1485,9 @@
     "last_seen": "2026-03-16"
   },
   "specific axon product knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "certain software development methodologies": {
     "count": 1,
@@ -1695,9 +1695,9 @@
     "last_seen": "2026-03-16"
   },
   "ai-specific skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific data infrastructure skills like data warehousing": {
     "count": 1,
@@ -1915,9 +1915,9 @@
     "last_seen": "2026-03-17"
   },
   "machine learning": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "autonomous driving": {
     "count": 1,
@@ -3155,6 +3155,21 @@
     "last_seen": "2026-03-18"
   },
   "specific front-end frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "direct experience with axon technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "unable to determine exact required skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "deep learning": {
     "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
