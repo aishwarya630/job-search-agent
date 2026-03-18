@@ -10,9 +10,9 @@
     "last_seen": "2026-03-14"
   },
   "migration": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-18"
   },
   "cost optimization": {
     "count": 1,
@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -715,7 +715,7 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -795,14 +795,14 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 28,
+    "count": 29,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
   "us citizenship": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "sales experience": {
     "count": 1,
@@ -1080,9 +1080,9 @@
     "last_seen": "2026-03-16"
   },
   "specific machine learning skills": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "experience with bioinformatics": {
     "count": 1,
@@ -1705,9 +1705,9 @@
     "last_seen": "2026-03-16"
   },
   "etl": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "specific development skills": {
     "count": 1,
@@ -1900,9 +1900,9 @@
     "last_seen": "2026-03-17"
   },
   "machine learning frameworks": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific adas vision systems engineering skills": {
     "count": 1,
@@ -3570,7 +3570,7 @@
     "last_seen": "2026-03-18"
   },
   "specific industry knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   },
@@ -3845,6 +3845,51 @@
     "last_seen": "2026-03-18"
   },
   "hardware development experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "none significant": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific data platform skills like data warehousing": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific ai solutions skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific cloud engineer skills like cloud architecture": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific artifactory skills like repository management": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "artifact storage": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "model-based systems engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific medical systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "healthcare industry knowledge": {
     "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
