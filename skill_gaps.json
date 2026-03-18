@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -1310,7 +1310,7 @@
     "last_seen": "2026-03-16"
   },
   "specific cloud security skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -1875,7 +1875,7 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-18"
   },
@@ -2180,9 +2180,9 @@
     "last_seen": "2026-03-18"
   },
   "not enough information in job description to determine missing skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific experience with cloudflare products": {
     "count": 1,
@@ -2665,9 +2665,9 @@
     "last_seen": "2026-03-17"
   },
   "electrical engineering skills": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "most of the required skills": {
     "count": 2,
@@ -3470,7 +3470,7 @@
     "last_seen": "2026-03-18"
   },
   "experience with security tools": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   },
@@ -3631,6 +3631,41 @@
   },
   "rotating equipment experience": {
     "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "e.g. java": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "c++": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  ".net": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "c# development experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific component-based software development skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "substation experience": {
+    "count": 2,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
