@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "django": {
     "count": 1,
@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 4,
+    "count": 7,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-18"
   },
   "crossplane": {
     "count": 1,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -740,9 +740,9 @@
     "last_seen": "2026-03-18"
   },
   "specific full stack skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-18"
   },
   "backend development experience": {
     "count": 3,
@@ -2875,9 +2875,9 @@
     "last_seen": "2026-03-17"
   },
   "specific web development skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "experience with website building tools": {
     "count": 1,
@@ -3850,7 +3850,7 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   },
@@ -4125,6 +4125,96 @@
     "last_seen": "2026-03-18"
   },
   "experience with hvac systems": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "most required skills are present in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific programming languages like java": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "python experience in non-aws cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific data engineering tools like apache beam or apache spark": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with aws": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "azure": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "or other cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "programming languages like java or python": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific software engineering skills like agile development or containerization": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "spring boot": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "significant experience with software development": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific junior developer skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific technical training skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "software engineering expertise": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "most technical skills required for the role": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "including security clearance": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "all skills required for the job": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "all technical skills required for the role": {
     "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
