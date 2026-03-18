@@ -685,9 +685,9 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "experience with specific technologies": {
     "count": 1,
@@ -795,9 +795,9 @@
     "last_seen": "2026-03-17"
   },
   "security clearance": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "us citizenship": {
     "count": 3,
@@ -1065,9 +1065,9 @@
     "last_seen": "2026-03-17"
   },
   "robotics-specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "mechanical engineering knowledge": {
     "count": 1,
@@ -1550,9 +1550,9 @@
     "last_seen": "2026-03-16"
   },
   "systems engineering experience": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "mechanical engineering": {
     "count": 1,
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -1875,9 +1875,9 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "compliance knowledge": {
     "count": 2,
@@ -2360,9 +2360,9 @@
     "last_seen": "2026-03-17"
   },
   "experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific programming languages required by the job": {
     "count": 1,
@@ -3068,5 +3068,85 @@
     "count": 1,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-17"
+  },
+  "specific lensa technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific lensa technologies": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific klik holdings technologies": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific ai product development experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific site reliability engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with optimum's technology stack": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific technical staff experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "certifications": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with agile development methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with lockheed martin's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "mission systems specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "electro-optical experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with software testing methodologies": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with test automation frameworks": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "gis": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
   }
 }
