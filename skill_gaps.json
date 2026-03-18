@@ -955,9 +955,9 @@
     "last_seen": "2026-03-15"
   },
   "game development experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "unity or other game engines": {
     "count": 1,
@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -4236,6 +4236,56 @@
   },
   "specific technology stack mentioned in the job description": {
     "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific axiros technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific mention of amentum's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific mention of playsaurus's backend tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with yield engineering systems' technology stack": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with garmin's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with connect iq": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with apex systems' technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific game development skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with software quality assurance": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with terran orbital corporation's technology stack": {
+    "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
