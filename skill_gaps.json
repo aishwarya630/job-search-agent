@@ -795,7 +795,7 @@
     "last_seen": "2026-03-17"
   },
   "security clearance": {
-    "count": 9,
+    "count": 17,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -1240,9 +1240,9 @@
     "last_seen": "2026-03-17"
   },
   "specific systems engineering skills": {
-    "count": 17,
+    "count": 19,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific infrastructure engineer skills like network architecture": {
     "count": 1,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "mobile development experience": {
     "count": 3,
@@ -1795,9 +1795,9 @@
     "last_seen": "2026-03-16"
   },
   "relevant technical skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "specific security clearance or us citizenship requirements not mentioned in provided job details": {
     "count": 1,
@@ -2755,9 +2755,9 @@
     "last_seen": "2026-03-17"
   },
   "specific fullstack development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "react or angular": {
     "count": 1,
@@ -3181,6 +3181,61 @@
   },
   "etl tools": {
     "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific raytheon technologies": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "exact platform engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with aerospace systems": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "relevant programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with developer tools": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "cloud infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific embedded software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with large-scale systems": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with automotive systems": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "embedded software": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "relevant experience": {
+    "count": 8,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
