@@ -795,7 +795,7 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 27,
+    "count": 28,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -995,14 +995,14 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
   "unable to determine exact missing skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "network cabling installation experience": {
     "count": 2,
@@ -1330,7 +1330,7 @@
     "last_seen": "2026-03-18"
   },
   "leadership skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -1665,9 +1665,9 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "ios development experience": {
     "count": 1,
@@ -3740,6 +3740,36 @@
     "last_seen": "2026-03-18"
   },
   "experience with hirenza technologies": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific financial systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific linux administration skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with linux automation": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "model-based software systems experience": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "project management certification": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with project management tools": {
     "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
