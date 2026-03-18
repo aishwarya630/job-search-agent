@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 17,
+    "count": 25,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -1170,9 +1170,9 @@
     "last_seen": "2026-03-16"
   },
   "computer vision": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "part-time": {
     "count": 1,
@@ -2540,9 +2540,9 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "natural language processing experience": {
     "count": 1,
@@ -3296,6 +3296,116 @@
   },
   "industry knowledge": {
     "count": 4,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with platform engineering": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "containerization": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in kyndryl's industry": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with kyndryl's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in travel industry": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with expedia's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with government services": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in aerospace industry": {
+    "count": 3,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with lockheed martin's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in finance industry": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with dragonfly's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in hyra's industry": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with hyra's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with servicenow platform": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in cloud computing": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with blue origin's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "path planning": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "autonomous vehicle experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with synopsys' tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific skills in embedded systems": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with stryker's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific security skills": {
+    "count": 8,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
