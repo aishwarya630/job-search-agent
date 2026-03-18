@@ -795,7 +795,7 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 25,
+    "count": 26,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-18"
   },
@@ -1095,9 +1095,9 @@
     "last_seen": "2026-03-16"
   },
   "embedded systems experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "asic verification experience": {
     "count": 1,
@@ -1220,9 +1220,9 @@
     "last_seen": "2026-03-16"
   },
   "specific security certifications": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "most technical skills": {
     "count": 1,
@@ -1230,9 +1230,9 @@
     "last_seen": "2026-03-16"
   },
   "specific industry experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "specific programming languages required for the role": {
     "count": 2,
@@ -1310,9 +1310,9 @@
     "last_seen": "2026-03-16"
   },
   "specific cloud security skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "no specific full-stack framework mentioned in the resume": {
     "count": 1,
@@ -1725,9 +1725,9 @@
     "last_seen": "2026-03-16"
   },
   "specific programming languages": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "cloud provider expertise": {
     "count": 1,
@@ -3406,6 +3406,101 @@
   },
   "specific security skills": {
     "count": 8,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific resiliency experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "deploy at scale": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific devops tools like ansible": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "puppet": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "software development experience": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific growth engineering skills": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with cloudflare products": {
+    "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "aem": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "adobe experience manager": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "mean stack experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific front-end development skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "nuclear energy knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with security tools": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "senior-level skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "thermal protection systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "materials": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "processes knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "paving crew experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "laborer skills": {
+    "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
