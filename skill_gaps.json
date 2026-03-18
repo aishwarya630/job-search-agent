@@ -785,14 +785,14 @@
     "last_seen": "2026-03-15"
   },
   "specific qa experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-18"
   },
   "testing frameworks": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "security clearance": {
     "count": 17,
@@ -1325,14 +1325,14 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "leadership skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "no specific api framework mentioned in the resume": {
     "count": 1,
@@ -2380,9 +2380,9 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "web application development": {
     "count": 1,
@@ -3236,6 +3236,66 @@
   },
   "relevant experience": {
     "count": 8,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific cloud platform expertise beyond azure": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "aws": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "frontend framework expertise": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific full-stack development expertise": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with nike's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "product development": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific rad experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "full-stack development": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific endur experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "energy trading knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific engineering experience": {
+    "count": 4,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "industry knowledge": {
+    "count": 4,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
