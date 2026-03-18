@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-18"
   },
   "or ansible not mentioned in the resume": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-17"
   },
   "specific systems engineering skills": {
-    "count": 20,
+    "count": 22,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -1305,9 +1305,9 @@
     "last_seen": "2026-03-16"
   },
   "gitlab": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-18"
   },
   "specific cloud security skills": {
     "count": 3,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 18,
+    "count": 22,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-18"
   },
@@ -2540,7 +2540,7 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-18"
   },
@@ -3666,6 +3666,81 @@
   },
   "substation experience": {
     "count": 2,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific api infrastructure skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "detailed knowledge of cloud-native applications": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific cloud architecture": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "migration experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with palo alto networks products": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "security-focused cloud engineering": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "post-training experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with kforce inc technologies": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with morgan stanley technologies": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific experience with aws distributed sql": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "software development for large-scale databases": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "c++ expertise": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "web development": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "design skills": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "experience with hirenza technologies": {
+    "count": 1,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
