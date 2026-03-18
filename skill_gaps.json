@@ -770,9 +770,9 @@
     "last_seen": "2026-03-15"
   },
   "typescript": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-18"
   },
   "specific experience with enterprise systems design": {
     "count": 1,
@@ -4216,6 +4216,26 @@
   },
   "all technical skills required for the role": {
     "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific software development skills for microchip technology": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "such as embedded systems or chip design": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "nodejs experience": {
+    "count": 1,
+    "first_seen": "2026-03-18",
+    "last_seen": "2026-03-18"
+  },
+  "specific technology stack mentioned in the job description": {
+    "count": 2,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18"
   }
