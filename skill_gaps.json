@@ -805,7 +805,7 @@
     "last_seen": "2026-03-19"
   },
   "sales experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -2540,7 +2540,7 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-19"
   },
@@ -3295,7 +3295,7 @@
     "last_seen": "2026-03-18"
   },
   "industry knowledge": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-19"
   },
@@ -4315,7 +4315,7 @@
     "last_seen": "2026-03-19"
   },
   "experience with ai platforms": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
   },
@@ -4830,6 +4830,41 @@
     "last_seen": "2026-03-19"
   },
   "aerospace experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "strong match with resume skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with sightline systems' technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific details about the job requirements": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific software integration": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "test engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific product knowledge": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
