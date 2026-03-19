@@ -795,7 +795,7 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 33,
+    "count": 34,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
@@ -1130,9 +1130,9 @@
     "last_seen": "2026-03-16"
   },
   "specific data engineering skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "data warehousing": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-19"
   },
   "specific systems engineering skills": {
-    "count": 24,
+    "count": 25,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1670,9 +1670,9 @@
     "last_seen": "2026-03-18"
   },
   "ios development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "swift": {
     "count": 1,
@@ -2045,9 +2045,9 @@
     "last_seen": "2026-03-17"
   },
   "specific testing skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "software test engineering experience": {
     "count": 1,
@@ -2665,9 +2665,9 @@
     "last_seen": "2026-03-17"
   },
   "electrical engineering skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "most of the required skills": {
     "count": 3,
@@ -2765,9 +2765,9 @@
     "last_seen": "2026-03-17"
   },
   "hardware experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "cybersecurity experience": {
     "count": 1,
@@ -2855,9 +2855,9 @@
     "last_seen": "2026-03-17"
   },
   "specific linux engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "on-call expectations": {
     "count": 1,
@@ -4345,7 +4345,7 @@
     "last_seen": "2026-03-19"
   },
   "propulsion engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
   },
@@ -4590,6 +4590,31 @@
     "last_seen": "2026-03-19"
   },
   "scala": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific proliant technologies": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with trading systems": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "swift or objective-c skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "fluid systems": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with energy infrastructure": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
