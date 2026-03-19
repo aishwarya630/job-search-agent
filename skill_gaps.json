@@ -365,9 +365,9 @@
     "last_seen": "2026-03-15"
   },
   "tools": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "experience with ibm-specific tools like ibm cloud private": {
     "count": 2,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-19"
   },
   "specific software development skills": {
-    "count": 28,
+    "count": 29,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
@@ -2740,9 +2740,9 @@
     "last_seen": "2026-03-17"
   },
   "software development methodologies": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "experience with atlas technica's tech stack": {
     "count": 1,
@@ -4865,6 +4865,101 @@
     "last_seen": "2026-03-19"
   },
   "specific product knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific devops tools like jenkins or gitlab ci/cd": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with esri products": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "geospatial technologies": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with evolve group's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with node.js": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with fintech industry": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "cybersecurity skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with specific security tools": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with specific frameworks or libraries": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with web development frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with uline's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with embedded systems": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with relevant programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "most of the required skills are not present in the resume": {
+    "count": 3,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "including specific systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "including specific systems engineering": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "dod skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "including care management": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "healthcare skills": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
