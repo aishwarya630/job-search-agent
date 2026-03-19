@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-19"
   },
   "specific systems engineering skills": {
-    "count": 27,
+    "count": 29,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1380,9 +1380,9 @@
     "last_seen": "2026-03-16"
   },
   "deep learning frameworks": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "security related skills": {
     "count": 1,
@@ -1535,9 +1535,9 @@
     "last_seen": "2026-03-16"
   },
   "specific ai-related skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "machine learning experience": {
     "count": 3,
@@ -1755,7 +1755,7 @@
     "last_seen": "2026-03-18"
   },
   "system administration": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -2160,9 +2160,9 @@
     "last_seen": "2026-03-17"
   },
   "domain expertise": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific quality engineering skills": {
     "count": 1,
@@ -2720,7 +2720,7 @@
     "last_seen": "2026-03-17"
   },
   "all required skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-19"
   },
@@ -4780,6 +4780,56 @@
     "last_seen": "2026-03-19"
   },
   "experience in software engineering": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with machine learning": {
+    "count": 2,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "data science": {
+    "count": 2,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific data infrastructure skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific data infrastructure reliability skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with large-scale data systems": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with investor solutions": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "financial domain expertise": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with required technologies": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "including mechanical engineering": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "aerospace experience": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
