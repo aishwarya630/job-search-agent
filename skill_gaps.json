@@ -685,9 +685,9 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 21,
+    "count": 27,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "experience with specific technologies": {
     "count": 1,
@@ -795,9 +795,9 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 29,
+    "count": 31,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "us citizenship": {
     "count": 4,
@@ -1235,9 +1235,9 @@
     "last_seen": "2026-03-18"
   },
   "specific programming languages required for the role": {
-    "count": 2,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "specific systems engineering skills": {
     "count": 24,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "mobile development experience": {
     "count": 3,
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -1630,14 +1630,14 @@
     "last_seen": "2026-03-16"
   },
   "nursing degree": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "medical experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "relevant certifications": {
     "count": 4,
@@ -1655,9 +1655,9 @@
     "last_seen": "2026-03-16"
   },
   "specific infrastructure engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "specific system engineering experience": {
     "count": 1,
@@ -3405,9 +3405,9 @@
     "last_seen": "2026-03-18"
   },
   "specific security skills": {
-    "count": 8,
+    "count": 10,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific resiliency experience": {
     "count": 1,
@@ -4300,6 +4300,31 @@
     "last_seen": "2026-03-19"
   },
   "administration": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific jr devops engineer requirements not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with nvidia technologies": {
+    "count": 2,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with ai platforms": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "relevant system protection experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific skills in system protection": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
