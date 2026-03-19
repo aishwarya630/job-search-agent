@@ -1095,9 +1095,9 @@
     "last_seen": "2026-03-16"
   },
   "embedded systems experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "asic verification experience": {
     "count": 1,
@@ -1325,9 +1325,9 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 6,
+    "count": 11,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "leadership skills": {
     "count": 4,
@@ -1445,9 +1445,9 @@
     "last_seen": "2026-03-17"
   },
   "specific technology stack": {
-    "count": 12,
+    "count": 17,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "specific experience in propulsion simulation": {
     "count": 1,
@@ -2540,9 +2540,9 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "natural language processing experience": {
     "count": 1,
@@ -2670,9 +2670,9 @@
     "last_seen": "2026-03-18"
   },
   "most of the required skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "including java expertise": {
     "count": 2,
@@ -4565,6 +4565,31 @@
     "last_seen": "2026-03-19"
   },
   "computational geometry skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific tech stack": {
+    "count": 4,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "architecture skills": {
+    "count": 5,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "crypto": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "cross domain solutions expertise": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "scala": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
