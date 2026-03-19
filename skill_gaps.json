@@ -1140,9 +1140,9 @@
     "last_seen": "2026-03-16"
   },
   "specific sre tools": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "technologies": {
     "count": 2,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-19"
   },
   "specific systems engineering skills": {
-    "count": 25,
+    "count": 26,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 23,
+    "count": 24,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -2360,9 +2360,9 @@
     "last_seen": "2026-03-19"
   },
   "experience": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific programming languages required by the job": {
     "count": 1,
@@ -4615,6 +4615,21 @@
     "last_seen": "2026-03-19"
   },
   "experience with energy infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific power platform skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "azure app gateway": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "aks experience not directly mentioned in the resume": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
