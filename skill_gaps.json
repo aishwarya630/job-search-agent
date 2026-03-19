@@ -685,7 +685,7 @@
     "last_seen": "2026-03-17"
   },
   "specific software development skills": {
-    "count": 27,
+    "count": 28,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
@@ -795,19 +795,19 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 31,
+    "count": 33,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
   "us citizenship": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "sales experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-19"
   },
   "account management skills": {
     "count": 1,
@@ -2615,9 +2615,9 @@
     "last_seen": "2026-03-17"
   },
   "specific platform engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "linux administration": {
     "count": 1,
@@ -3145,9 +3145,9 @@
     "last_seen": "2026-03-18"
   },
   "engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "full-stack development experience": {
     "count": 1,
@@ -3295,9 +3295,9 @@
     "last_seen": "2026-03-18"
   },
   "industry knowledge": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific experience with platform engineering": {
     "count": 1,
@@ -4440,6 +4440,116 @@
     "last_seen": "2026-03-19"
   },
   "development skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific ai/ml experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "forward deployed engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "data governance specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "platform engineering expertise": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "refrigeration systems knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific graduate program requirements": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific healthcare-related skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "detailed software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific refrigeration systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "hardware development skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "carwash industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific defense industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "onsite requirement": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific systems administration experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "mechatronics engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "development experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "manufacturing systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "operations knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "simulation testing skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "sigmanest programming skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "manufacturing-related experience": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
