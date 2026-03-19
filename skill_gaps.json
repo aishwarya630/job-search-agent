@@ -205,9 +205,9 @@
     "last_seen": "2026-03-15"
   },
   "sagemaker": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-19"
   },
   "aws glue": {
     "count": 1,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-19"
   },
   "specific software development skills": {
-    "count": 29,
+    "count": 31,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
@@ -1305,9 +1305,9 @@
     "last_seen": "2026-03-16"
   },
   "gitlab": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific cloud security skills": {
     "count": 4,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 28,
+    "count": 29,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1875,14 +1875,14 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 4,
+    "count": 11,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "compliance knowledge": {
-    "count": 2,
+    "count": 9,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "experience with optimum's tech stack": {
     "count": 2,
@@ -1915,7 +1915,7 @@
     "last_seen": "2026-03-17"
   },
   "machine learning": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-19"
   },
@@ -2555,9 +2555,9 @@
     "last_seen": "2026-03-17"
   },
   "specific mlops skills": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "machine learning framework experience": {
     "count": 1,
@@ -2850,9 +2850,9 @@
     "last_seen": "2026-03-19"
   },
   "specific digitalocean platform experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "specific linux engineering skills": {
     "count": 2,
@@ -3090,9 +3090,9 @@
     "last_seen": "2026-03-18"
   },
   "specific site reliability engineering experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific experience with optimum's technology stack": {
     "count": 2,
@@ -3850,9 +3850,9 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific data platform skills like data warehousing": {
     "count": 1,
@@ -4961,6 +4961,31 @@
   },
   "healthcare skills": {
     "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific eplansoft technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific company technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "llm-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "cloud platform expertise": {
+    "count": 2,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "security engineering skills": {
+    "count": 3,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
   }
