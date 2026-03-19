@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 25,
+    "count": 26,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1725,9 +1725,9 @@
     "last_seen": "2026-03-16"
   },
   "specific programming languages": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "cloud provider expertise": {
     "count": 1,
@@ -2840,14 +2840,14 @@
     "last_seen": "2026-03-17"
   },
   "specific software engineering experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-19"
   },
   "programming languages": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "specific digitalocean platform experience": {
     "count": 1,
@@ -2975,9 +2975,9 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "do-178 specific skills": {
     "count": 1,
@@ -3460,9 +3460,9 @@
     "last_seen": "2026-03-18"
   },
   "specific front-end development skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "nuclear energy knowledge": {
     "count": 1,
@@ -4685,6 +4685,41 @@
     "last_seen": "2026-03-19"
   },
   "specific industry expertise": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "job description is not provided": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific amazon technologies": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "1+ year of software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with customer-facing applications": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "2+ years of software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "c++ skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "ios development skills": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
