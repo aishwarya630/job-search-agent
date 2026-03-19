@@ -1260,9 +1260,9 @@
     "last_seen": "2026-03-18"
   },
   "network engineering skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "lan focus": {
     "count": 1,
@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 30,
+    "count": 32,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1705,9 +1705,9 @@
     "last_seen": "2026-03-16"
   },
   "etl": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific development skills": {
     "count": 1,
@@ -2240,9 +2240,9 @@
     "last_seen": "2026-03-19"
   },
   "ai/ml experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "specific experience with software development in test": {
     "count": 1,
@@ -5165,6 +5165,16 @@
     "last_seen": "2026-03-19"
   },
   "experience with lab infrastructure support": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific data engineering skills like data warehousing": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "data modeling": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
