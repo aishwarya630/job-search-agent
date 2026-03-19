@@ -1125,12 +1125,12 @@
     "last_seen": "2026-03-16"
   },
   "front-end development skills": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "specific data engineering skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 29,
+    "count": 30,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -2290,9 +2290,9 @@
     "last_seen": "2026-03-17"
   },
   "specific experience with systems engineering": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "logistics": {
     "count": 1,
@@ -2440,9 +2440,9 @@
     "last_seen": "2026-03-17"
   },
   "java expertise": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "specific java-based technologies": {
     "count": 1,
@@ -4060,9 +4060,9 @@
     "last_seen": "2026-03-18"
   },
   "systems engineering": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "oracle erp cloud development skills": {
     "count": 1,
@@ -5060,6 +5060,56 @@
     "last_seen": "2026-03-19"
   },
   "endpoint security experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with workgenius systems or technologies": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "data pipeline experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with imaging systems or related technologies": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific mern/mean stack experience": {
+    "count": 2,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with java-based systems": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific full-stack framework experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "networking": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "cybersecurity": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with medical devices": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "regulatory compliance": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
