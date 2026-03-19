@@ -1115,9 +1115,9 @@
     "last_seen": "2026-03-16"
   },
   "specific details about the job requirements are not provided": {
-    "count": 8,
+    "count": 12,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-19"
   },
   "web development framework experience": {
     "count": 1,
@@ -1145,9 +1145,9 @@
     "last_seen": "2026-03-19"
   },
   "technologies": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "specific capabilities mentioned in the job description": {
     "count": 1,
@@ -2355,7 +2355,7 @@
     "last_seen": "2026-03-17"
   },
   "all technical skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-19"
   },
@@ -4730,6 +4730,56 @@
     "last_seen": "2026-03-19"
   },
   "specific java software engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with financial services or efinancialcareers' technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with mastercard's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience in treasury infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "algo trading": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with trace3's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "on-site work requirements": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific experience with bio-rad's systems": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "asic ip verification experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "hardware description languages": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience in software engineering": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
