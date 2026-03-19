@@ -1030,7 +1030,7 @@
     "last_seen": "2026-03-16"
   },
   "networking skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -2975,7 +2975,7 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-19"
   },
@@ -4690,7 +4690,7 @@
     "last_seen": "2026-03-19"
   },
   "job description is not provided": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
   },
@@ -5155,6 +5155,16 @@
     "last_seen": "2026-03-19"
   },
   "consulting experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific storage": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with lab infrastructure support": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
