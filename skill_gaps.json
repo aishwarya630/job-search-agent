@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific full stack skills": {
     "count": 2,
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-18"
   },
   "security clearance": {
-    "count": 34,
+    "count": 35,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-19"
   },
@@ -1030,9 +1030,9 @@
     "last_seen": "2026-03-16"
   },
   "networking skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "experience with network protocols": {
     "count": 2,
@@ -1055,9 +1055,9 @@
     "last_seen": "2026-03-16"
   },
   "quality assurance experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-19"
   },
   "specific testing frameworks": {
     "count": 4,
@@ -1230,7 +1230,7 @@
     "last_seen": "2026-03-16"
   },
   "specific industry experience": {
-    "count": 4,
+    "count": 13,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -1630,12 +1630,12 @@
     "last_seen": "2026-03-16"
   },
   "nursing degree": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
   "medical experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-19"
   },
@@ -3545,9 +3545,9 @@
     "last_seen": "2026-03-18"
   },
   "web development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   "specific web technologies": {
     "count": 1,
@@ -3640,14 +3640,14 @@
     "last_seen": "2026-03-18"
   },
   "c++": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-19"
   },
   "specific software development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-19"
   },
   ".net": {
     "count": 1,
@@ -4995,6 +4995,71 @@
     "last_seen": "2026-03-19"
   },
   "full stack development experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "some programming languages": {
+    "count": 7,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific hpc": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "ai/ml skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with ford motor company's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "specific security": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "experience with palo alto networks products": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "ux design skills": {
+    "count": 2,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "testing skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "frontend skills": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "ui development experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "5+ years of experience": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "linux": {
+    "count": 1,
+    "first_seen": "2026-03-19",
+    "last_seen": "2026-03-19"
+  },
+  "endpoint security experience": {
     "count": 1,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-19"
