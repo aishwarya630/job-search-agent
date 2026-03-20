@@ -115,9 +115,9 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-20"
   },
   "powershell": {
     "count": 1,
@@ -205,9 +205,9 @@
     "last_seen": "2026-03-15"
   },
   "sagemaker": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "aws glue": {
     "count": 1,
@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "crossplane": {
     "count": 1,
@@ -650,9 +650,9 @@
     "last_seen": "2026-03-15"
   },
   "google cloud platform": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-20"
   },
   "experience with specific distributed systems technologies like apache cassandra": {
     "count": 1,
@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "or ansible not mentioned in the resume": {
     "count": 1,
@@ -795,9 +795,9 @@
     "last_seen": "2026-03-20"
   },
   "security clearance": {
-    "count": 35,
+    "count": 36,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "us citizenship": {
     "count": 5,
@@ -1145,9 +1145,9 @@
     "last_seen": "2026-03-19"
   },
   "technologies": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific capabilities mentioned in the job description": {
     "count": 1,
@@ -1305,9 +1305,9 @@
     "last_seen": "2026-03-16"
   },
   "gitlab": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific cloud security skills": {
     "count": 4,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 33,
+    "count": 35,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-20"
   },
@@ -1915,9 +1915,9 @@
     "last_seen": "2026-03-17"
   },
   "machine learning": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "autonomous driving": {
     "count": 1,
@@ -3175,9 +3175,9 @@
     "last_seen": "2026-03-18"
   },
   "data engineering specific skills like data warehousing": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "etl tools": {
     "count": 1,
@@ -5125,9 +5125,9 @@
     "last_seen": "2026-03-19"
   },
   "specific backend skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific technology stack used by bepc inc.": {
     "count": 1,
@@ -5281,6 +5281,61 @@
   },
   "quality assurance skills": {
     "count": 3,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific research experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "generative ai skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific automation tools like ansible": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "actimize specific tools": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific go-to-market skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "backend experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "google cloud platform specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "java certification": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "windows infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "pki": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific windows administration skills": {
+    "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
   }
