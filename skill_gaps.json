@@ -790,7 +790,7 @@
     "last_seen": "2026-03-18"
   },
   "testing frameworks": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-20"
   },
@@ -1170,7 +1170,7 @@
     "last_seen": "2026-03-16"
   },
   "computer vision": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-20"
   },
@@ -1505,7 +1505,7 @@
     "last_seen": "2026-03-16"
   },
   "web development skills": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-20"
   },
@@ -5405,6 +5405,46 @@
     "last_seen": "2026-03-20"
   },
   "open-source engineering expertise": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific skills related to mma services": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "financial industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific ai frameworks or tools": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific visual intelligence skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific verification skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific frameworks": {
+    "count": 2,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "linux engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "ts/sci security clearance": {
     "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
