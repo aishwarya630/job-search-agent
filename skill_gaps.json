@@ -795,7 +795,7 @@
     "last_seen": "2026-03-20"
   },
   "security clearance": {
-    "count": 36,
+    "count": 37,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-20"
   },
@@ -1060,7 +1060,7 @@
     "last_seen": "2026-03-19"
   },
   "specific testing frameworks": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-20"
   },
@@ -1130,9 +1130,9 @@
     "last_seen": "2026-03-20"
   },
   "specific data engineering skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "data warehousing": {
     "count": 1,
@@ -1310,9 +1310,9 @@
     "last_seen": "2026-03-20"
   },
   "specific cloud security skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "no specific full-stack framework mentioned in the resume": {
     "count": 1,
@@ -3545,9 +3545,9 @@
     "last_seen": "2026-03-18"
   },
   "web development experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific web technologies": {
     "count": 1,
@@ -3645,9 +3645,9 @@
     "last_seen": "2026-03-19"
   },
   "specific software development experience": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   ".net": {
     "count": 1,
@@ -4645,9 +4645,9 @@
     "last_seen": "2026-03-19"
   },
   "specific platform engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific linux distribution experience": {
     "count": 1,
@@ -5780,6 +5780,46 @@
     "last_seen": "2026-03-20"
   },
   "beaconfire's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "front office development experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific finance domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "experience with aws data services": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "sdet experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "data streaming knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific software integration skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "system engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific web development frameworks": {
     "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
