@@ -790,9 +790,9 @@
     "last_seen": "2026-03-18"
   },
   "testing frameworks": {
-    "count": 9,
+    "count": 12,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "security clearance": {
     "count": 35,
@@ -3570,9 +3570,9 @@
     "last_seen": "2026-03-18"
   },
   "specific industry knowledge": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "specific vision system deployment experience": {
     "count": 1,
@@ -3850,9 +3850,9 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific data platform skills like data warehousing": {
     "count": 1,
@@ -5241,6 +5241,46 @@
   },
   "detailed network architecture knowledge": {
     "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "but specific industry knowledge might be required": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific cloud ops skills like cost optimization": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "cloud formation": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific data platform skills such as data warehousing or etl": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific flight software development skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific software development skills in dsbc": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "digital twin development experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "quality assurance skills": {
+    "count": 3,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
   }
