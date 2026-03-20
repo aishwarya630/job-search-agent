@@ -1065,9 +1065,9 @@
     "last_seen": "2026-03-18"
   },
   "robotics-specific skills": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "mechanical engineering knowledge": {
     "count": 1,
@@ -1170,9 +1170,9 @@
     "last_seen": "2026-03-16"
   },
   "computer vision": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-20"
   },
   "part-time": {
     "count": 1,
@@ -5335,6 +5335,26 @@
     "last_seen": "2026-03-20"
   },
   "specific windows administration skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific experience with calpers technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific security or compliance skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific experience with cgi technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "leadership experience in a large team": {
     "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
