@@ -1250,7 +1250,7 @@
     "last_seen": "2026-03-16"
   },
   "leadership experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-20"
   },
@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-20"
   },
@@ -5085,9 +5085,9 @@
     "last_seen": "2026-03-19"
   },
   "specific experience with java-based systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "specific full-stack framework experience": {
     "count": 1,
@@ -5360,7 +5360,7 @@
     "last_seen": "2026-03-20"
   },
   "specific experience with data engineering": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
   },
@@ -5725,6 +5725,61 @@
     "last_seen": "2026-03-20"
   },
   "systems expertise": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific microsoft cloud support experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific experience with plaid's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific experience with release engineering tools": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific experience with identity infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "openai's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific back-end development experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "cloud infrastructure knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific product development skills": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific experience with prompt engineering": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "financial industry knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "beaconfire's tech stack": {
     "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
