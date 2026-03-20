@@ -685,7 +685,7 @@
     "last_seen": "2026-03-19"
   },
   "specific software development skills": {
-    "count": 36,
+    "count": 37,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-20"
   },
@@ -2560,9 +2560,9 @@
     "last_seen": "2026-03-19"
   },
   "machine learning framework experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-20"
   },
   "specific experience with containerization (docker": {
     "count": 1,
@@ -4420,9 +4420,9 @@
     "last_seen": "2026-03-19"
   },
   "sales": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "presales experience": {
     "count": 1,
@@ -4655,9 +4655,9 @@
     "last_seen": "2026-03-19"
   },
   "cloud": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-20"
   },
   "devops": {
     "count": 1,
@@ -6105,6 +6105,31 @@
     "last_seen": "2026-03-20"
   },
   "scientific instruments": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific cloud engineer job requirements not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "devops experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific software engineer job requirements": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "account management experience": {
+    "count": 1,
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-03-20"
+  },
+  "specific job requirements": {
     "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
