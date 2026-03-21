@@ -1460,9 +1460,9 @@
     "last_seen": "2026-03-16"
   },
   "embedded software development experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-21"
   },
   "specific experience with database reliability engineering": {
     "count": 1,
@@ -1505,9 +1505,9 @@
     "last_seen": "2026-03-16"
   },
   "web development skills": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "specific programming languages for web development": {
     "count": 1,
@@ -7071,6 +7071,21 @@
   },
   "specific aws cloud systems engineer skills not mentioned in resume": {
     "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific programming languages or technologies required for the founding engineer role": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific programming languages or technologies required for the web developer role": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific embedded systems skills": {
+    "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
   }
