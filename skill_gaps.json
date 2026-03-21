@@ -995,7 +995,7 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -1540,7 +1540,7 @@
     "last_seen": "2026-03-19"
   },
   "machine learning experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -2975,7 +2975,7 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -7060,6 +7060,11 @@
     "last_seen": "2026-03-21"
   },
   "d&r engineering": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific data science skills": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
