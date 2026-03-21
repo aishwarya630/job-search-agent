@@ -1200,9 +1200,9 @@
     "last_seen": "2026-03-16"
   },
   "specific backend framework experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-21"
   },
   "specific middleware platform experience": {
     "count": 1,
@@ -3645,7 +3645,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development experience": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-21"
   },
@@ -6835,6 +6835,46 @@
     "last_seen": "2026-03-21"
   },
   "experience with mechanical systems": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific skills related to data annotation": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "e.g. django or flask": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "e.g. agile methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with monetization systems": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ai-related technologies": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with design systems": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "front-end development": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ui/ux": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
