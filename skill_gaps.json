@@ -205,9 +205,9 @@
     "last_seen": "2026-03-15"
   },
   "sagemaker": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "aws glue": {
     "count": 1,
@@ -685,9 +685,9 @@
     "last_seen": "2026-03-19"
   },
   "specific software development skills": {
-    "count": 38,
+    "count": 43,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "experience with specific technologies": {
     "count": 3,
@@ -795,14 +795,14 @@
     "last_seen": "2026-03-20"
   },
   "security clearance": {
-    "count": 41,
+    "count": 42,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "us citizenship": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "sales experience": {
     "count": 3,
@@ -1080,9 +1080,9 @@
     "last_seen": "2026-03-16"
   },
   "specific machine learning skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "experience with bioinformatics": {
     "count": 1,
@@ -1305,9 +1305,9 @@
     "last_seen": "2026-03-16"
   },
   "gitlab": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "specific cloud security skills": {
     "count": 6,
@@ -1540,9 +1540,9 @@
     "last_seen": "2026-03-19"
   },
   "machine learning experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-21"
   },
   "embedded software development": {
     "count": 1,
@@ -1860,9 +1860,9 @@
     "last_seen": "2026-03-17"
   },
   "cloud experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "experience with chewy's tech stack": {
     "count": 1,
@@ -3245,9 +3245,9 @@
     "last_seen": "2026-03-18"
   },
   "aws": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "frontend framework expertise": {
     "count": 1,
@@ -4155,9 +4155,9 @@
     "last_seen": "2026-03-18"
   },
   "azure": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "or other cloud platforms": {
     "count": 1,
@@ -4655,9 +4655,9 @@
     "last_seen": "2026-03-19"
   },
   "cloud": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "devops": {
     "count": 1,
@@ -4790,9 +4790,9 @@
     "last_seen": "2026-03-19"
   },
   "data science": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-21"
   },
   "specific data infrastructure skills": {
     "count": 1,
@@ -6213,5 +6213,45 @@
     "count": 1,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-20"
+  },
+  "specific cloud infrastructure experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific lensa tech stack": {
+    "count": 5,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "aws experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "nestjs": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific cloud platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with lensa's tech stack": {
+    "count": 5,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ai experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "security-related skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
   }
 }
