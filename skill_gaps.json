@@ -785,12 +785,12 @@
     "last_seen": "2026-03-15"
   },
   "specific qa experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "testing frameworks": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-21"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 51,
+    "count": 54,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -2515,9 +2515,9 @@
     "last_seen": "2026-03-17"
   },
   "specific engineering skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "genesys contact center experience": {
     "count": 1,
@@ -2670,9 +2670,9 @@
     "last_seen": "2026-03-19"
   },
   "most of the required skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "including java expertise": {
     "count": 2,
@@ -4445,9 +4445,9 @@
     "last_seen": "2026-03-21"
   },
   "specific ai/ml experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "forward deployed engineering skills": {
     "count": 1,
@@ -6990,6 +6990,51 @@
     "last_seen": "2026-03-21"
   },
   "experience with cadence products": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with ampere's technology": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with sparkflow framework": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific design engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with healthcare industry": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "fhir experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "healthcare domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "servicenow experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with automotive industry": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "including specific desktop engineering experience": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
