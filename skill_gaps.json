@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 48,
+    "count": 49,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -6900,6 +6900,16 @@
     "last_seen": "2026-03-21"
   },
   "cloud infrastructure experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific devops engineer 2 requirements not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "dataannotation platform experience": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
