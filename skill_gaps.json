@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "django": {
     "count": 1,
@@ -6625,7 +6625,7 @@
     "last_seen": "2026-03-21"
   },
   "angular": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
   },
@@ -7085,6 +7085,11 @@
     "last_seen": "2026-03-21"
   },
   "specific embedded systems skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "other frontend skills": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
