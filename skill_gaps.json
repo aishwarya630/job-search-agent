@@ -745,9 +745,9 @@
     "last_seen": "2026-03-18"
   },
   "backend development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-21"
   },
   "specific skills required for the role": {
     "count": 2,
@@ -1435,9 +1435,9 @@
     "last_seen": "2026-03-16"
   },
   "kotlin": {
-    "count": 5,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-21"
   },
   "android apis": {
     "count": 5,
@@ -6695,6 +6695,36 @@
     "last_seen": "2026-03-21"
   },
   "expertise in cloud providers other than aws": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "elasticsearch": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific requirements not mentioned in job description": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with data platforms": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "data engineering tools": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with platform infrastructure engineering": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "management": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
