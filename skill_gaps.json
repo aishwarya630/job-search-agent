@@ -1875,7 +1875,7 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 13,
+    "count": 15,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -6795,6 +6795,46 @@
     "last_seen": "2026-03-21"
   },
   "solutions engineering knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific mention of azure administrator associate (az-104) certification not required": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "but experience with cloud infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "devops tools is": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with mission technologies' tech stack not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with nmi's tech stack not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience not mentioned in the resume": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "electromechanical systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with mechanical systems": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
