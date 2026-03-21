@@ -790,7 +790,7 @@
     "last_seen": "2026-03-18"
   },
   "testing frameworks": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-21"
   },
@@ -1060,9 +1060,9 @@
     "last_seen": "2026-03-20"
   },
   "specific testing frameworks": {
-    "count": 8,
+    "count": 10,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "robotics-specific skills": {
     "count": 4,
@@ -2725,9 +2725,9 @@
     "last_seen": "2026-03-20"
   },
   "field service experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-21"
   },
   "linux administration experience": {
     "count": 1,
@@ -5630,9 +5630,9 @@
     "last_seen": "2026-03-20"
   },
   "frontend development skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "experience with ai observability": {
     "count": 1,
@@ -5650,9 +5650,9 @@
     "last_seen": "2026-03-20"
   },
   "specific technical skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "experience with real estate": {
     "count": 1,
@@ -6435,6 +6435,61 @@
     "last_seen": "2026-03-21"
   },
   "specific quantum software engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with software development for semiconductor industry": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific framework requirements": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific linux/windows administration skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with financial platforms": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with software verification": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "hardware testing experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "shipbuilding industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "structural engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "building design experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "formwork design experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "civil engineering skills": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
