@@ -685,7 +685,7 @@
     "last_seen": "2026-03-19"
   },
   "specific software development skills": {
-    "count": 44,
+    "count": 45,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-21"
   },
@@ -2540,7 +2540,7 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -2575,7 +2575,7 @@
     "last_seen": "2026-03-17"
   },
   "experience with agile methodologies": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -6920,6 +6920,61 @@
     "last_seen": "2026-03-21"
   },
   "advanced data engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific data engineering experience": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with integration technologies": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "expertise in sme": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "enterprise ai experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with instrument verification": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "validation": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "expertise in medical devices": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with semiconductor devices": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "expertise in device engineering": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific experience with emi/emc analysis": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "expertise in space exploration avionics systems": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
