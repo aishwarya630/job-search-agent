@@ -790,7 +790,7 @@
     "last_seen": "2026-03-18"
   },
   "testing frameworks": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-21"
   },
@@ -2165,7 +2165,7 @@
     "last_seen": "2026-03-19"
   },
   "specific quality engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -4105,9 +4105,9 @@
     "last_seen": "2026-03-18"
   },
   "specific frontend development skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "specific experience with intellectt inc's technology stack": {
     "count": 1,
@@ -6640,6 +6640,26 @@
     "last_seen": "2026-03-21"
   },
   "specific marketplace skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific frontend or backend development skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "details about the tech stack used by two dots": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with frontend frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "details about the tech stack used by mercor": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
