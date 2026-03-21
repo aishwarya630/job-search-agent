@@ -1875,9 +1875,9 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "compliance knowledge": {
     "count": 9,
@@ -2380,7 +2380,7 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 8,
+    "count": 10,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -3105,9 +3105,9 @@
     "last_seen": "2026-03-18"
   },
   "certifications": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "experience with agile development methodologies": {
     "count": 2,
@@ -6760,6 +6760,16 @@
     "last_seen": "2026-03-21"
   },
   "state farm-specific technologies": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific cisco product knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ai glasses technology": {
     "count": 2,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
