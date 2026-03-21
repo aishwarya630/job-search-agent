@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 46,
+    "count": 47,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -1685,9 +1685,9 @@
     "last_seen": "2026-03-16"
   },
   "agile development": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-21"
   },
   "pharma or biopharma industry experience": {
     "count": 1,
@@ -2380,9 +2380,9 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 6,
+    "count": 8,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "web application development": {
     "count": 1,
@@ -2540,7 +2540,7 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 9,
+    "count": 11,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-21"
   },
@@ -3045,9 +3045,9 @@
     "last_seen": "2026-03-17"
   },
   "front-end development experience": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-21"
   },
   "specific functional testing expertise": {
     "count": 1,
@@ -3635,19 +3635,19 @@
     "last_seen": "2026-03-18"
   },
   "e.g. java": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "specific software development experience": {
-    "count": 4,
+    "count": 8,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   ".net": {
     "count": 1,
@@ -6445,7 +6445,7 @@
     "last_seen": "2026-03-21"
   },
   "specific framework requirements": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
   },
@@ -6726,6 +6726,41 @@
   },
   "management": {
     "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific infrastructure development experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "semgrep-specific technologies": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "cisco-specific technologies": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ge healthcare-specific technologies": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with ai glasses technology": {
+    "count": 2,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "anduril-specific technologies": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "state farm-specific technologies": {
+    "count": 2,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
   }
