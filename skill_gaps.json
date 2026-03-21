@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "crossplane": {
     "count": 1,
@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "specific full stack skills": {
     "count": 2,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-19"
   },
   "specific systems engineering skills": {
-    "count": 38,
+    "count": 39,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -3150,9 +3150,9 @@
     "last_seen": "2026-03-19"
   },
   "full-stack development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "specific front-end frameworks": {
     "count": 1,
@@ -6590,6 +6590,56 @@
     "last_seen": "2026-03-21"
   },
   "specific experience with ai solutions architecture": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific mention of fellow experience or similar program": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific cloudflare product knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific hardware or firmware experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific mercor product knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific lbs experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "java/angular skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "angular": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific perception": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ai skills": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific marketplace skills": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
