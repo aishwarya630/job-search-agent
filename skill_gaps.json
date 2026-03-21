@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 50,
+    "count": 51,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -6975,6 +6975,21 @@
     "last_seen": "2026-03-21"
   },
   "expertise in space exploration avionics systems": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with azure data engineering or specific data engineering tools": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "specific cloud engineer certifications or experience with other cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "experience with cadence products": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
