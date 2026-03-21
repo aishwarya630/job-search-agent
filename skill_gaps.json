@@ -1230,9 +1230,9 @@
     "last_seen": "2026-03-16"
   },
   "specific industry experience": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-21"
   },
   "specific programming languages required for the role": {
     "count": 6,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 49,
+    "count": 50,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -1685,7 +1685,7 @@
     "last_seen": "2026-03-16"
   },
   "agile development": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-21"
   },
@@ -5420,9 +5420,9 @@
     "last_seen": "2026-03-20"
   },
   "specific ai frameworks or tools": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-21"
   },
   "specific visual intelligence skills": {
     "count": 1,
@@ -6910,6 +6910,16 @@
     "last_seen": "2026-03-21"
   },
   "dataannotation platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "ai development experience": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "advanced data engineering skills": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
