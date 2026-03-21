@@ -4090,9 +4090,9 @@
     "last_seen": "2026-03-18"
   },
   "specific sre skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-21"
   },
   "specific mcdonald's technology stack": {
     "count": 1,
@@ -6690,6 +6690,11 @@
     "last_seen": "2026-03-21"
   },
   "specific experience with software quality simulation": {
+    "count": 1,
+    "first_seen": "2026-03-21",
+    "last_seen": "2026-03-21"
+  },
+  "expertise in cloud providers other than aws": {
     "count": 1,
     "first_seen": "2026-03-21",
     "last_seen": "2026-03-21"
