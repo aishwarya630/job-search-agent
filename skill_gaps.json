@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-22"
   },
   "crossplane": {
     "count": 1,
@@ -1065,7 +1065,7 @@
     "last_seen": "2026-03-22"
   },
   "robotics-specific skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -7730,6 +7730,31 @@
     "last_seen": "2026-03-22"
   },
   "e.g. experience with particular hardware or software systems": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "experience with robotics software development": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "spring": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "messaging": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "camel": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific experience with these technologies": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
