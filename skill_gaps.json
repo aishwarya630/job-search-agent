@@ -1130,7 +1130,7 @@
     "last_seen": "2026-03-20"
   },
   "specific data engineering skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -1705,9 +1705,9 @@
     "last_seen": "2026-03-16"
   },
   "etl": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-22"
   },
   "specific development skills": {
     "count": 1,
@@ -3640,7 +3640,7 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-22"
   },
@@ -7450,7 +7450,7 @@
     "last_seen": "2026-03-22"
   },
   "specific epic software skills": {
-    "count": 5,
+    "count": 12,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
   },
@@ -7566,6 +7566,41 @@
   },
   "instrument integration": {
     "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "e.g. data warehousing": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific programming languages or technologies required by claritrex": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific epic software experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific software development skills in java": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "or other programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific healthcare or medical software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "healthcare industry experience": {
+    "count": 7,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
   }
