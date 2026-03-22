@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -2160,9 +2160,9 @@
     "last_seen": "2026-03-17"
   },
   "domain expertise": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-22"
   },
   "specific quality engineering skills": {
     "count": 3,
@@ -3545,9 +3545,9 @@
     "last_seen": "2026-03-18"
   },
   "web development experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-22"
   },
   "specific web technologies": {
     "count": 1,
@@ -7645,6 +7645,26 @@
     "last_seen": "2026-03-22"
   },
   "drafting knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific neurolynx technologies": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific software development skills in java or other languages": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific hirenza technologies": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "php programming skills": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
