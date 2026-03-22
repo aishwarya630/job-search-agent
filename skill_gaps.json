@@ -685,7 +685,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 47,
+    "count": 48,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-22"
   },
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-22"
   },
   "security clearance": {
-    "count": 43,
+    "count": 45,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-22"
   },
@@ -895,9 +895,9 @@
     "last_seen": "2026-03-15"
   },
   "specific engineering technician skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-22"
   },
   "technical certifications": {
     "count": 1,
@@ -3405,9 +3405,9 @@
     "last_seen": "2026-03-18"
   },
   "specific security skills": {
-    "count": 10,
+    "count": 12,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-22"
   },
   "specific resiliency experience": {
     "count": 1,
@@ -6175,7 +6175,7 @@
     "last_seen": "2026-03-20"
   },
   "e.g. proficiency in a particular programming language or framework": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-20",
     "last_seen": "2026-03-22"
   },
@@ -7725,6 +7725,11 @@
     "last_seen": "2026-03-22"
   },
   "testing methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "e.g. experience with particular hardware or software systems": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
