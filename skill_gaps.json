@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 61,
+    "count": 62,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -3790,9 +3790,9 @@
     "last_seen": "2026-03-18"
   },
   "banking domain knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-22"
   },
   "specific central bank technologies": {
     "count": 1,
@@ -7520,6 +7520,11 @@
     "last_seen": "2026-03-22"
   },
   "mobile development skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific skills related to altivum's technology stack not mentioned in the resume": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
