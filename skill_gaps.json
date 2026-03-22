@@ -995,12 +995,12 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 28,
+    "count": 31,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
   "unable to determine exact missing skills": {
-    "count": 7,
+    "count": 10,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -7695,6 +7695,36 @@
     "last_seen": "2026-03-22"
   },
   "bare metal infrastructure experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific sap technologies": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "experience with abap": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific experience with job posting platforms": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "data scraping": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific experience with qa frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "testing methodologies": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
