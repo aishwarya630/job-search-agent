@@ -820,7 +820,7 @@
     "last_seen": "2026-03-22"
   },
   "network engineering specific skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-22"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 64,
+    "count": 65,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -2130,9 +2130,9 @@
     "last_seen": "2026-03-17"
   },
   "architectures": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-22"
   },
   "specific functional safety engineering skills": {
     "count": 1,
@@ -7601,6 +7601,51 @@
   },
   "healthcare industry experience": {
     "count": 7,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "programming languages other than python": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific deployment site experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "network protocols": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific test engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "hardware testing knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "flight test engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "aerospace engineering knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "autocad experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "drafting knowledge": {
+    "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
   }
