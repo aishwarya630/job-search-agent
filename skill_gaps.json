@@ -4005,9 +4005,9 @@
     "last_seen": "2026-03-18"
   },
   "methodologies": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-22"
   },
   "specific skills in electromagnetic systems": {
     "count": 1,
@@ -7190,6 +7190,56 @@
     "last_seen": "2026-03-22"
   },
   "all the required skills for an electronics engineer role": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific ai-driven agentic software skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "fullstack development experience": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific skills related to software testing frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific skills related to embedded systems": {
+    "count": 2,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "software development for aerospace": {
+    "count": 2,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "defense": {
+    "count": 2,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "required security clearance": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "vehicle controls": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "communications stack": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "automotive industry experience": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
