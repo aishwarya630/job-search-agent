@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-19"
   },
   "specific systems engineering skills": {
-    "count": 41,
+    "count": 42,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-22"
   },
@@ -1430,9 +1430,9 @@
     "last_seen": "2026-03-22"
   },
   "mobile development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-22"
   },
   "kotlin": {
     "count": 7,
@@ -1460,9 +1460,9 @@
     "last_seen": "2026-03-16"
   },
   "embedded software development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-22"
   },
   "specific experience with database reliability engineering": {
     "count": 1,
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-22"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -1725,9 +1725,9 @@
     "last_seen": "2026-03-16"
   },
   "specific programming languages": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-22"
   },
   "cloud provider expertise": {
     "count": 1,
@@ -1750,14 +1750,14 @@
     "last_seen": "2026-03-22"
   },
   "specific system engineering skills": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-22"
   },
   "system administration": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-22"
   },
   "specific qa": {
     "count": 2,
@@ -1890,9 +1890,9 @@
     "last_seen": "2026-03-17"
   },
   "experience with systems design": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-22"
   },
   "implementation": {
     "count": 1,
@@ -2380,7 +2380,7 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 12,
+    "count": 14,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-22"
   },
@@ -3020,9 +3020,9 @@
     "last_seen": "2026-03-17"
   },
   "specific backend development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-22"
   },
   "latam region expertise": {
     "count": 2,
@@ -3220,9 +3220,9 @@
     "last_seen": "2026-03-18"
   },
   "experience with large-scale systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-22"
   },
   "specific experience with automotive systems": {
     "count": 1,
@@ -3640,9 +3640,9 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-22"
   },
   "specific software development experience": {
     "count": 9,
@@ -7385,6 +7385,46 @@
     "last_seen": "2026-03-22"
   },
   "specific directory services skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific agilegrid technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific verisk technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific experience with starlink network": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific privacy infrastructure skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "experience with privacy-related technologies": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "framework requirements": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific mobile-related skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "skills required for embedded systems": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
