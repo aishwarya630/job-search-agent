@@ -3805,9 +3805,9 @@
     "last_seen": "2026-03-18"
   },
   "specific networking skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-22"
   },
   "us tax knowledge": {
     "count": 1,
@@ -7675,6 +7675,26 @@
     "last_seen": "2026-03-22"
   },
   "network architecture": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific azure development skills not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific software development skills in azure": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific requirements not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "bare metal infrastructure experience": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
