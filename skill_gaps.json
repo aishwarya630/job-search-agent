@@ -820,9 +820,9 @@
     "last_seen": "2026-03-15"
   },
   "network engineering specific skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-22"
   },
   "cloud network architecture": {
     "count": 1,
@@ -7155,6 +7155,41 @@
     "last_seen": "2026-03-21"
   },
   "specific iam sailpoint skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "specific ai workflow automation skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "most of the required skills are not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "but based on the title": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "it seems that programming skills are required": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "however": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "the job description does not provide enough information to determine the required skills": {
+    "count": 1,
+    "first_seen": "2026-03-22",
+    "last_seen": "2026-03-22"
+  },
+  "all the required skills for an electronics engineer role": {
     "count": 1,
     "first_seen": "2026-03-22",
     "last_seen": "2026-03-22"
