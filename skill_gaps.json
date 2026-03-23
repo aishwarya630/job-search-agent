@@ -1010,9 +1010,9 @@
     "last_seen": "2026-03-16"
   },
   "field engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-23"
   },
   "relevant engineering experience": {
     "count": 6,
@@ -1185,9 +1185,9 @@
     "last_seen": "2026-03-16"
   },
   "javascript experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-23"
   },
   "network security skills": {
     "count": 1,
@@ -1460,9 +1460,9 @@
     "last_seen": "2026-03-16"
   },
   "embedded software development experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "specific experience with database reliability engineering": {
     "count": 1,
@@ -8355,6 +8355,81 @@
     "last_seen": "2026-03-23"
   },
   "or other technologies not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific financial product development experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with arcfield's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with amazon's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "services": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific industrial iot experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "knowledge of dassault syst\u00e8mes products": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with tdi technologies' tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "industry": {
+    "count": 2,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with dassault syst\u00e8mes' tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific knowledge of aurora's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with rdf modeling": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "ai software development": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "rippling's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "game development skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific technical requirements": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
