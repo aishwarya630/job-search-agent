@@ -995,12 +995,12 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 32,
+    "count": 33,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-23"
   },
   "unable to determine exact missing skills": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-23"
   },
@@ -1390,9 +1390,9 @@
     "last_seen": "2026-03-16"
   },
   "none notable": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-23"
   },
   "most required skills are present": {
     "count": 1,
@@ -8090,6 +8090,11 @@
     "last_seen": "2026-03-23"
   },
   "network security experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific sre tools like puppet or ansible": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
