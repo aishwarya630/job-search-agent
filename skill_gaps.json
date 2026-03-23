@@ -815,9 +815,9 @@
     "last_seen": "2026-03-15"
   },
   "specific details not provided in job description": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "network engineering specific skills": {
     "count": 5,
@@ -7995,6 +7995,16 @@
     "last_seen": "2026-03-23"
   },
   "plant systems knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific devops tools like ansible or puppet": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "security-specific skills like compliance or vulnerability assessment": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
