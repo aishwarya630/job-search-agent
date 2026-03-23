@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -2395,9 +2395,9 @@
     "last_seen": "2026-03-17"
   },
   "specific java software engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-23"
   },
   "high-level java development experience": {
     "count": 1,
@@ -2440,9 +2440,9 @@
     "last_seen": "2026-03-17"
   },
   "java expertise": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-23"
   },
   "specific java-based technologies": {
     "count": 1,
@@ -8290,6 +8290,41 @@
     "last_seen": "2026-03-23"
   },
   "system requirements engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific cloud engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific platform operations skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "experience with certain tools not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific skills required for the role not mentioned in the resume": {
+    "count": 2,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "teaching experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "expertise in mechanical engineering systems": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "experience with circuits": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
