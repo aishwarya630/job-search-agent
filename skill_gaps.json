@@ -795,7 +795,7 @@
     "last_seen": "2026-03-22"
   },
   "security clearance": {
-    "count": 47,
+    "count": 48,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-23"
   },
@@ -1000,9 +1000,9 @@
     "last_seen": "2026-03-23"
   },
   "unable to determine exact missing skills": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "network cabling installation experience": {
     "count": 2,
@@ -1665,9 +1665,9 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-23"
   },
   "ios development experience": {
     "count": 2,
@@ -3620,7 +3620,7 @@
     "last_seen": "2026-03-18"
   },
   "mechanical engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-23"
   },
@@ -3850,9 +3850,9 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-23"
   },
   "specific data platform skills like data warehousing": {
     "count": 1,
@@ -3905,9 +3905,9 @@
     "last_seen": "2026-03-18"
   },
   "aws iam": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-23"
   },
   "specific experience with menlo innovations' tech stack": {
     "count": 1,
@@ -4690,9 +4690,9 @@
     "last_seen": "2026-03-19"
   },
   "job description is not provided": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "specific amazon technologies": {
     "count": 1,
@@ -6705,9 +6705,9 @@
     "last_seen": "2026-03-21"
   },
   "specific requirements not mentioned in job description": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-23"
   },
   "specific experience with data platforms": {
     "count": 1,
@@ -7935,6 +7935,16 @@
     "last_seen": "2026-03-23"
   },
   "power engineering background": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific aws services like aws cloudformation": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "uav systems engineering experience": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
