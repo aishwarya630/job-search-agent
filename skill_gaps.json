@@ -5090,9 +5090,9 @@
     "last_seen": "2026-03-20"
   },
   "specific full-stack framework experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-23"
   },
   "networking": {
     "count": 1,
@@ -8255,6 +8255,26 @@
     "last_seen": "2026-03-23"
   },
   "security clearance required": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "cloud services skills not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with machine learning or ai": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "java development skills not highlighted in the resume": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
