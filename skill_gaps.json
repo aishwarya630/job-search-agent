@@ -685,9 +685,9 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 48,
+    "count": 49,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "experience with specific technologies": {
     "count": 3,
@@ -3200,9 +3200,9 @@
     "last_seen": "2026-03-18"
   },
   "relevant programming languages": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-23"
   },
   "specific experience with developer tools": {
     "count": 2,
@@ -6585,9 +6585,9 @@
     "last_seen": "2026-03-21"
   },
   "ai/ml expertise": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-23"
   },
   "specific experience with ai solutions architecture": {
     "count": 1,
@@ -7860,6 +7860,36 @@
     "last_seen": "2026-03-23"
   },
   "epic systems knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with applied inference": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific programming languages required": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with forward deployed systems": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with robotics": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "thermal systems engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "relevant degree": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
