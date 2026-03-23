@@ -1875,9 +1875,9 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 15,
+    "count": 17,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-23"
   },
   "compliance knowledge": {
     "count": 9,
@@ -7450,9 +7450,9 @@
     "last_seen": "2026-03-22"
   },
   "specific epic software skills": {
-    "count": 12,
+    "count": 16,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "bare metal support": {
     "count": 1,
@@ -8050,6 +8050,46 @@
     "last_seen": "2026-03-23"
   },
   "electronics design experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "not specified in the provided job description": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific l4 requirements": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "possibly leadership or advanced skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific systems engineer iii requirements not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "testing-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "possibly test automation frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "cloud security experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "network security experience": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
