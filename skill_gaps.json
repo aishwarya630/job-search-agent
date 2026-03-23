@@ -1230,9 +1230,9 @@
     "last_seen": "2026-03-16"
   },
   "specific industry experience": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-23"
   },
   "specific programming languages required for the role": {
     "count": 6,
@@ -7835,6 +7835,31 @@
     "last_seen": "2026-03-23"
   },
   "html/css": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "autocad skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific mention of oasys technologies or products": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific aerospace or defense industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific healthcare experience": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "epic systems knowledge": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
