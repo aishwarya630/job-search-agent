@@ -1550,9 +1550,9 @@
     "last_seen": "2026-03-16"
   },
   "systems engineering experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "mechanical engineering": {
     "count": 1,
@@ -1750,9 +1750,9 @@
     "last_seen": "2026-03-22"
   },
   "specific system engineering skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "system administration": {
     "count": 6,
@@ -2620,9 +2620,9 @@
     "last_seen": "2026-03-19"
   },
   "linux administration": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-23"
   },
   "specific details about the tech stack": {
     "count": 1,
@@ -3850,7 +3850,7 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-23"
   },
@@ -8005,6 +8005,51 @@
     "last_seen": "2026-03-23"
   },
   "security-specific skills like compliance or vulnerability assessment": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with servicetrade's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with aktra inc's cloud platform": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific banking domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "experience with financial software development": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "experience with specific full-stack frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "experience with specific development methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific simulator development skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "audio systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "electronics design experience": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
