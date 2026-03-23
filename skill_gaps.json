@@ -1065,9 +1065,9 @@
     "last_seen": "2026-03-22"
   },
   "robotics-specific skills": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "mechanical engineering knowledge": {
     "count": 1,
@@ -3640,9 +3640,9 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-23"
   },
   "specific software development experience": {
     "count": 9,
@@ -7780,6 +7780,21 @@
     "last_seen": "2026-03-22"
   },
   "specific programming languages or technologies required for the role not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "specific experience with cooperative ai": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "possibly other ai-related technologies not mentioned in the resume": {
+    "count": 1,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-03-23"
+  },
+  "direct experience with ai": {
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
