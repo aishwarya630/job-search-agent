@@ -995,7 +995,7 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 35,
+    "count": 36,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 75,
+    "count": 76,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1665,7 +1665,7 @@
     "last_seen": "2026-03-16"
   },
   "specific systems engineering experience": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -2360,9 +2360,9 @@
     "last_seen": "2026-03-24"
   },
   "experience": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "specific programming languages required by the job": {
     "count": 1,
@@ -2975,7 +2975,7 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-24"
   },
@@ -3110,9 +3110,9 @@
     "last_seen": "2026-03-21"
   },
   "experience with agile development methodologies": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific experience with lockheed martin's technology stack": {
     "count": 1,
@@ -3645,9 +3645,9 @@
     "last_seen": "2026-03-23"
   },
   "specific software development experience": {
-    "count": 9,
+    "count": 11,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   ".net": {
     "count": 4,
@@ -5800,9 +5800,9 @@
     "last_seen": "2026-03-20"
   },
   "sdet experience": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "data streaming knowledge": {
     "count": 1,
@@ -8846,6 +8846,31 @@
   },
   "specific project engineering skills": {
     "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "mft specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific testing": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with turing's tech stack": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "expertise in machine learning or data science": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific analytics tools": {
+    "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
   }
