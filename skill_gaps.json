@@ -735,7 +735,7 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-24"
   },
@@ -895,9 +895,9 @@
     "last_seen": "2026-03-15"
   },
   "specific engineering technician skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "technical certifications": {
     "count": 1,
@@ -1200,9 +1200,9 @@
     "last_seen": "2026-03-16"
   },
   "specific backend framework experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific middleware platform experience": {
     "count": 1,
@@ -1750,7 +1750,7 @@
     "last_seen": "2026-03-22"
   },
   "specific system engineering skills": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -2045,9 +2045,9 @@
     "last_seen": "2026-03-17"
   },
   "specific testing skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "software test engineering experience": {
     "count": 1,
@@ -2285,9 +2285,9 @@
     "last_seen": "2026-03-17"
   },
   "compliance": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-24"
   },
   "specific experience with systems engineering": {
     "count": 2,
@@ -3150,9 +3150,9 @@
     "last_seen": "2026-03-19"
   },
   "full-stack development experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific front-end frameworks": {
     "count": 1,
@@ -5140,9 +5140,9 @@
     "last_seen": "2026-03-19"
   },
   "specific frontend skills": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "c# skills": {
     "count": 1,
@@ -5675,9 +5675,9 @@
     "last_seen": "2026-03-20"
   },
   "none mentioned in the job description": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "specific experience with azure app gateway": {
     "count": 2,
@@ -8915,6 +8915,66 @@
     "last_seen": "2026-03-24"
   },
   "healthcare experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of cloud security": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "or governance": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific skills required for the entry-level position": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific programming language requirements": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "billing": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "revenue platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific skills required for the position": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "cloud-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with cloud platforms like aws or azure": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "system integration": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "testing experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "metrology systems engineering": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
