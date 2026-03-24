@@ -4060,9 +4060,9 @@
     "last_seen": "2026-03-18"
   },
   "systems engineering": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "oracle erp cloud development skills": {
     "count": 1,
@@ -8255,9 +8255,9 @@
     "last_seen": "2026-03-23"
   },
   "security clearance required": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific infrastructure": {
     "count": 1,
@@ -8520,6 +8520,51 @@
     "last_seen": "2026-03-24"
   },
   "networking specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with snowflake database": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific data visualization skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with data visualization tools": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with senior software engineering roles": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific skills related to aerospace industry": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "potentially other required skills not mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with principal systems engineering roles": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "7+ years of experience required": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with test engineering": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
