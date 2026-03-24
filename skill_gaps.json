@@ -815,9 +815,9 @@
     "last_seen": "2026-03-15"
   },
   "specific details not provided in job description": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "network engineering specific skills": {
     "count": 6,
@@ -995,7 +995,7 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 37,
+    "count": 38,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -2440,9 +2440,9 @@
     "last_seen": "2026-03-24"
   },
   "java expertise": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific java-based technologies": {
     "count": 2,
@@ -2555,14 +2555,14 @@
     "last_seen": "2026-03-17"
   },
   "specific mlops skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-24"
   },
   "machine learning framework experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "specific experience with containerization (docker": {
     "count": 1,
@@ -4155,9 +4155,9 @@
     "last_seen": "2026-03-18"
   },
   "azure": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "or other cloud platforms": {
     "count": 1,
@@ -5115,9 +5115,9 @@
     "last_seen": "2026-03-19"
   },
   "unable to determine specific required skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific experience with hr software": {
     "count": 1,
@@ -5475,9 +5475,9 @@
     "last_seen": "2026-03-20"
   },
   "specific full stack development skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "specific software testing skills": {
     "count": 1,
@@ -6410,9 +6410,9 @@
     "last_seen": "2026-03-21"
   },
   "experience with defense industry": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "cloud migration": {
     "count": 1,
@@ -9160,6 +9160,56 @@
     "last_seen": "2026-03-24"
   },
   "specific details about required skills not provided in job description": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of cloud platforms other than aws": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of financial industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "knowledge of q2's products": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of experience with cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "devops tools": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of ota updates": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with automotive systems": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of testing methodologies": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific mention of gpu programming": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with graphics software development": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
