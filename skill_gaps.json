@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "crossplane": {
     "count": 1,
@@ -1375,9 +1375,9 @@
     "last_seen": "2026-03-16"
   },
   "machine learning specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-24"
   },
   "deep learning frameworks": {
     "count": 6,
@@ -2355,7 +2355,7 @@
     "last_seen": "2026-03-17"
   },
   "all technical skills": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-24"
   },
@@ -2725,9 +2725,9 @@
     "last_seen": "2026-03-20"
   },
   "field service experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "linux administration experience": {
     "count": 1,
@@ -3075,9 +3075,9 @@
     "last_seen": "2026-03-18"
   },
   "specific lensa technologies": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-24"
   },
   "specific klik holdings technologies": {
     "count": 1,
@@ -8460,6 +8460,56 @@
     "last_seen": "2026-03-24"
   },
   "infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific sre or production support experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific software development skills in java or c++": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific hackajob technologies": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "capabilities": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific verification engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "c#/.net": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "parametric experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "contract experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific software skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "mechanical or aerospace engineering skills": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
