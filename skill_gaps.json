@@ -115,9 +115,9 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "powershell": {
     "count": 1,
@@ -205,9 +205,9 @@
     "last_seen": "2026-03-15"
   },
   "sagemaker": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "aws glue": {
     "count": 1,
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-23"
   },
   "security clearance": {
-    "count": 58,
+    "count": 61,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-24"
   },
@@ -1305,12 +1305,12 @@
     "last_seen": "2026-03-16"
   },
   "gitlab": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific cloud security skills": {
-    "count": 8,
+    "count": 16,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1915,9 +1915,9 @@
     "last_seen": "2026-03-21"
   },
   "machine learning": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "autonomous driving": {
     "count": 1,
@@ -2240,9 +2240,9 @@
     "last_seen": "2026-03-19"
   },
   "ai/ml experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "specific experience with software development in test": {
     "count": 1,
@@ -2555,9 +2555,9 @@
     "last_seen": "2026-03-17"
   },
   "specific mlops skills": {
-    "count": 4,
+    "count": 7,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "machine learning framework experience": {
     "count": 2,
@@ -2620,9 +2620,9 @@
     "last_seen": "2026-03-19"
   },
   "linux administration": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific details about the tech stack": {
     "count": 1,
@@ -3245,9 +3245,9 @@
     "last_seen": "2026-03-18"
   },
   "aws": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "frontend framework expertise": {
     "count": 1,
@@ -3935,14 +3935,14 @@
     "last_seen": "2026-03-18"
   },
   "prometheus": {
-    "count": 1,
+    "count": 9,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-24"
   },
   "grafana": {
-    "count": 1,
+    "count": 9,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-24"
   },
   "experience with starship": {
     "count": 1,
@@ -4090,9 +4090,9 @@
     "last_seen": "2026-03-18"
   },
   "specific sre skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific mcdonald's technology stack": {
     "count": 1,
@@ -4925,9 +4925,9 @@
     "last_seen": "2026-03-19"
   },
   "specific experience with embedded systems": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "experience with relevant programming languages": {
     "count": 1,
@@ -9050,6 +9050,86 @@
     "last_seen": "2026-03-24"
   },
   "sme role": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "direct system administration experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with lockheed martin's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with web development for warfighters": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "helm": {
+    "count": 8,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with machine learning frameworks": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "voip experience": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with oil": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "gas industry software": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with construction industry software": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "decision logic": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "rules engine": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "direct linux administration": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "direct configuration management experience": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "direct systems engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "systems/sustainment engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "aerospace industry knowledge": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
