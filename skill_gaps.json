@@ -415,9 +415,9 @@
     "last_seen": "2026-03-15"
   },
   "splunk": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-24"
   },
   "datadog": {
     "count": 1,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 53,
+    "count": 54,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-24"
   },
@@ -1310,9 +1310,9 @@
     "last_seen": "2026-03-21"
   },
   "specific cloud security skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "no specific full-stack framework mentioned in the resume": {
     "count": 1,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 77,
+    "count": 78,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -2125,9 +2125,9 @@
     "last_seen": "2026-03-17"
   },
   "specific network engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-24"
   },
   "architectures": {
     "count": 2,
@@ -2185,9 +2185,9 @@
     "last_seen": "2026-03-22"
   },
   "specific experience with cloudflare products": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-24"
   },
   "specific q2 technology stack": {
     "count": 2,
@@ -3110,7 +3110,7 @@
     "last_seen": "2026-03-21"
   },
   "experience with agile development methodologies": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-24"
   },
@@ -3650,9 +3650,9 @@
     "last_seen": "2026-03-24"
   },
   ".net": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "c# development experience": {
     "count": 1,
@@ -5050,9 +5050,9 @@
     "last_seen": "2026-03-19"
   },
   "5+ years of experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "linux": {
     "count": 1,
@@ -5550,9 +5550,9 @@
     "last_seen": "2026-03-20"
   },
   "observability": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "evaluations platform experience": {
     "count": 1,
@@ -9005,6 +9005,51 @@
     "last_seen": "2026-03-24"
   },
   "waf": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "rhel": {
+    "count": 3,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with maximus tech stack": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with testing frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific release management tools": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "maps": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with specific technologies mentioned in the job description": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific linux skills": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "blazor": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "sme role": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
