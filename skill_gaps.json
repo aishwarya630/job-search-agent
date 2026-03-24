@@ -1375,7 +1375,7 @@
     "last_seen": "2026-03-16"
   },
   "machine learning specific skills": {
-    "count": 2,
+    "count": 5,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -2140,9 +2140,9 @@
     "last_seen": "2026-03-17"
   },
   "experience with safety-critical systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-24"
   },
   "specific experience with devops tools": {
     "count": 6,
@@ -6400,9 +6400,9 @@
     "last_seen": "2026-03-21"
   },
   "experience with system administration": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific perception engineering skills": {
     "count": 2,
@@ -8510,6 +8510,16 @@
     "last_seen": "2026-03-24"
   },
   "mechanical or aerospace engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "functional safety specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "networking specific skills": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
