@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "specific full stack skills": {
     "count": 2,
@@ -805,9 +805,9 @@
     "last_seen": "2026-03-21"
   },
   "sales experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "account management skills": {
     "count": 1,
@@ -1255,9 +1255,9 @@
     "last_seen": "2026-03-20"
   },
   "specific technical skills required for the role": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "network engineering skills": {
     "count": 5,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 72,
+    "count": 73,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1460,7 +1460,7 @@
     "last_seen": "2026-03-16"
   },
   "embedded software development experience": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -1975,9 +1975,9 @@
     "last_seen": "2026-03-17"
   },
   "specific details about required skills not mentioned in job description": {
-    "count": 2,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-24"
   },
   "agile methodologies": {
     "count": 2,
@@ -2435,9 +2435,9 @@
     "last_seen": "2026-03-17"
   },
   "product knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-24"
   },
   "java expertise": {
     "count": 4,
@@ -3545,14 +3545,14 @@
     "last_seen": "2026-03-18"
   },
   "web development experience": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific web technologies": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-24"
   },
   "ot network experience": {
     "count": 1,
@@ -8600,6 +8600,31 @@
     "last_seen": "2026-03-24"
   },
   "hardware background": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "direct ai/ml experience": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific required skills not mentioned in job description": {
+    "count": 4,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific skills related to accelerators systems engineering": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "such as knowledge of particle accelerators or radiation detection": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  ".net core experience": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
