@@ -685,7 +685,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 52,
+    "count": 53,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-24"
   },
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-23"
   },
   "security clearance": {
-    "count": 56,
+    "count": 58,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-24"
   },
@@ -1110,9 +1110,9 @@
     "last_seen": "2026-03-19"
   },
   "golang": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-24"
   },
   "specific details about the job requirements are not provided": {
     "count": 14,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 50,
+    "count": 52,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 23,
+    "count": 25,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -6635,9 +6635,9 @@
     "last_seen": "2026-03-21"
   },
   "ai skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-24"
   },
   "specific marketplace skills": {
     "count": 1,
@@ -7450,9 +7450,9 @@
     "last_seen": "2026-03-22"
   },
   "specific epic software skills": {
-    "count": 16,
+    "count": 22,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "bare metal support": {
     "count": 1,
@@ -8870,6 +8870,51 @@
     "last_seen": "2026-03-24"
   },
   "specific analytics tools": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "java development experience": {
+    "count": 2,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "fix engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific programming languages or technologies not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "epic-specific technologies": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "mongodb": {
+    "count": 3,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "large-scale system experience": {
+    "count": 6,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific analytics": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "contract role": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "healthcare experience": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
