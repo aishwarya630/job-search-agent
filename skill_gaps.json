@@ -1055,14 +1055,14 @@
     "last_seen": "2026-03-16"
   },
   "quality assurance experience": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "specific testing frameworks": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "robotics-specific skills": {
     "count": 9,
@@ -1535,9 +1535,9 @@
     "last_seen": "2026-03-16"
   },
   "specific ai-related skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "machine learning experience": {
     "count": 5,
@@ -1900,9 +1900,9 @@
     "last_seen": "2026-03-17"
   },
   "machine learning frameworks": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "specific adas vision systems engineering skills": {
     "count": 1,
@@ -2355,9 +2355,9 @@
     "last_seen": "2026-03-17"
   },
   "all technical skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-24"
   },
   "experience": {
     "count": 7,
@@ -3020,9 +3020,9 @@
     "last_seen": "2026-03-17"
   },
   "specific backend development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "latam region expertise": {
     "count": 2,
@@ -8433,5 +8433,35 @@
     "count": 1,
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23"
+  },
+  "specific swoon technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific model training experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific dassault syst\u00e8mes product knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "latin american market knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience in utilities": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
   }
 }
