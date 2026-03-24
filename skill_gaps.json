@@ -1145,9 +1145,9 @@
     "last_seen": "2026-03-23"
   },
   "technologies": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-24"
   },
   "specific capabilities mentioned in the job description": {
     "count": 1,
@@ -4860,9 +4860,9 @@
     "last_seen": "2026-03-19"
   },
   "test engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "specific product knowledge": {
     "count": 1,
@@ -8565,6 +8565,41 @@
     "last_seen": "2026-03-24"
   },
   "specific experience with test engineering": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with reevo's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with backend business systems": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific full-stack experience": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific radar integration": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "experience with relevant tools": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific experience with accelerators systems": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "hardware background": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
