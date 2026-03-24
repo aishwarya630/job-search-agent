@@ -1060,7 +1060,7 @@
     "last_seen": "2026-03-24"
   },
   "specific testing frameworks": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1375,7 +1375,7 @@
     "last_seen": "2026-03-16"
   },
   "machine learning specific skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-24"
   },
@@ -1745,9 +1745,9 @@
     "last_seen": "2026-03-16"
   },
   "all technical skills listed in the resume": {
-    "count": 4,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-24"
   },
   "specific system engineering skills": {
     "count": 10,
@@ -4820,9 +4820,9 @@
     "last_seen": "2026-03-19"
   },
   "specific experience with required technologies": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "including mechanical engineering": {
     "count": 1,
@@ -5145,9 +5145,9 @@
     "last_seen": "2026-03-24"
   },
   "c# skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-24"
   },
   "system engineering expertise": {
     "count": 1,
@@ -9135,6 +9135,31 @@
     "last_seen": "2026-03-24"
   },
   "specific mention of java or other required programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific details about required full stack skills": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "software verification tools": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "embedded device validation": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific software qa tools": {
+    "count": 1,
+    "first_seen": "2026-03-24",
+    "last_seen": "2026-03-24"
+  },
+  "specific details about required skills not provided in job description": {
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
