@@ -785,9 +785,9 @@
     "last_seen": "2026-03-15"
   },
   "specific qa experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "testing frameworks": {
     "count": 23,
@@ -1445,9 +1445,9 @@
     "last_seen": "2026-03-17"
   },
   "specific technology stack": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific experience in propulsion simulation": {
     "count": 1,
@@ -2720,9 +2720,9 @@
     "last_seen": "2026-03-20"
   },
   "all required skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-25"
   },
   "field service experience": {
     "count": 3,
@@ -3895,9 +3895,9 @@
     "last_seen": "2026-03-18"
   },
   "specific product development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-25"
   },
   "specific aws cloud engineer skills like aws cloudformation": {
     "count": 1,
@@ -6155,9 +6155,9 @@
     "last_seen": "2026-03-20"
   },
   "salesforce": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "healthcare ai specific skills": {
     "count": 1,
@@ -6490,9 +6490,9 @@
     "last_seen": "2026-03-21"
   },
   "civil engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "search experience": {
     "count": 2,
@@ -9305,6 +9305,26 @@
     "last_seen": "2026-03-25"
   },
   "experience as a solution architect": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific brio digital technologies or direct experience with their systems": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific lockheed martin technologies": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "direct experience with their systems": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "linear infrastructure experience": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
