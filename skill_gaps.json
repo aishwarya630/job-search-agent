@@ -20,9 +20,9 @@
     "last_seen": "2026-03-14"
   },
   "pytorch": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-25"
   },
   "gpu provisioning": {
     "count": 1,
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-25"
   },
@@ -715,7 +715,7 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-25"
   },
@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 13,
+    "count": 19,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific full stack skills": {
     "count": 2,
@@ -955,9 +955,9 @@
     "last_seen": "2026-03-15"
   },
   "game development experience": {
-    "count": 8,
+    "count": 11,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "unity or other game engines": {
     "count": 1,
@@ -1435,9 +1435,9 @@
     "last_seen": "2026-03-22"
   },
   "kotlin": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "android apis": {
     "count": 5,
@@ -1670,9 +1670,9 @@
     "last_seen": "2026-03-24"
   },
   "ios development experience": {
-    "count": 3,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "swift": {
     "count": 2,
@@ -3045,7 +3045,7 @@
     "last_seen": "2026-03-17"
   },
   "front-end development experience": {
-    "count": 4,
+    "count": 8,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-25"
   },
@@ -3645,9 +3645,9 @@
     "last_seen": "2026-03-25"
   },
   "specific software development experience": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   ".net": {
     "count": 5,
@@ -4995,9 +4995,9 @@
     "last_seen": "2026-03-19"
   },
   "full stack development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-25"
   },
   "some programming languages": {
     "count": 7,
@@ -7480,14 +7480,14 @@
     "last_seen": "2026-03-22"
   },
   "html": {
-    "count": 1,
+    "count": 7,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-25"
   },
   "css": {
-    "count": 1,
+    "count": 7,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-25"
   },
   "javascript": {
     "count": 2,
@@ -7825,9 +7825,9 @@
     "last_seen": "2026-03-23"
   },
   "specific technology stack used by the company": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "specific experience with ai models": {
     "count": 1,
@@ -8425,9 +8425,9 @@
     "last_seen": "2026-03-23"
   },
   "game development skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "specific technical requirements": {
     "count": 1,
@@ -9130,9 +9130,9 @@
     "last_seen": "2026-03-24"
   },
   "aerospace industry knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific mention of java or other required programming languages": {
     "count": 1,
@@ -9530,6 +9530,66 @@
     "last_seen": "2026-03-25"
   },
   "unclear job description": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "ai/ml specific skills like tensorflow": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific game engines": {
+    "count": 3,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with safran systems": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with raytheon systems": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "onsite work experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "swift programming language": {
+    "count": 4,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with modeling": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "simulation": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "analysis": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "raytheon systems knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific platform focus skills": {
+    "count": 4,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific game systems engineering experience": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
