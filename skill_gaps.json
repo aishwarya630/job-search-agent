@@ -685,14 +685,14 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 55,
+    "count": 58,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-25"
   },
   "experience with specific technologies": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-25"
   },
   "specific experience with embedded software": {
     "count": 1,
@@ -995,12 +995,12 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 39,
+    "count": 40,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
   "unable to determine exact missing skills": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 92,
+    "count": 93,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -9750,6 +9750,56 @@
     "last_seen": "2026-03-25"
   },
   "medical licensure": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific noc experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "detailed network knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "detailed knowledge of front-end development": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific full-stack engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "detailed knowledge of programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific java software development skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "direct ai experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "production ai system building": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific endpoint systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "detailed knowledge of network protocols": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
