@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 11,
+    "count": 13,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "crossplane": {
     "count": 1,
@@ -1380,9 +1380,9 @@
     "last_seen": "2026-03-24"
   },
   "deep learning frameworks": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "security related skills": {
     "count": 1,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 78,
+    "count": 84,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "mobile development experience": {
     "count": 4,
@@ -1685,9 +1685,9 @@
     "last_seen": "2026-03-24"
   },
   "agile development": {
-    "count": 9,
+    "count": 11,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "pharma or biopharma industry experience": {
     "count": 1,
@@ -2845,9 +2845,9 @@
     "last_seen": "2026-03-23"
   },
   "programming languages": {
-    "count": 3,
+    "count": 7,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-25"
   },
   "specific digitalocean platform experience": {
     "count": 2,
@@ -3640,7 +3640,7 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 11,
+    "count": 13,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-25"
   },
@@ -7950,9 +7950,9 @@
     "last_seen": "2026-03-23"
   },
   "not specified in the job description": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "specific technology stack used by ivo": {
     "count": 1,
@@ -9350,6 +9350,41 @@
     "last_seen": "2026-03-25"
   },
   "including programming languages": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "healthcare specific domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific software engineering skills for leidos projects": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "ai/ml specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "systems engineering specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "medical devices knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific network": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "ai security skills": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
