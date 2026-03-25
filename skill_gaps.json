@@ -1155,9 +1155,9 @@
     "last_seen": "2026-03-16"
   },
   "specific sre experience": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "specific latam requirements": {
     "count": 1,
@@ -1240,9 +1240,9 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 52,
+    "count": 54,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific infrastructure engineer skills like network architecture": {
     "count": 1,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 84,
+    "count": 88,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -1695,9 +1695,9 @@
     "last_seen": "2026-03-16"
   },
   "ai-specific skills": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-25"
   },
   "specific data infrastructure skills like data warehousing": {
     "count": 1,
@@ -1750,9 +1750,9 @@
     "last_seen": "2026-03-24"
   },
   "specific system engineering skills": {
-    "count": 10,
+    "count": 12,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "system administration": {
     "count": 7,
@@ -1900,9 +1900,9 @@
     "last_seen": "2026-03-17"
   },
   "machine learning frameworks": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific adas vision systems engineering skills": {
     "count": 1,
@@ -3640,7 +3640,7 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-25"
   },
@@ -5055,9 +5055,9 @@
     "last_seen": "2026-03-24"
   },
   "linux": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-25"
   },
   "endpoint security experience": {
     "count": 1,
@@ -6925,9 +6925,9 @@
     "last_seen": "2026-03-21"
   },
   "specific data engineering experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "specific experience with integration technologies": {
     "count": 1,
@@ -9385,6 +9385,21 @@
     "last_seen": "2026-03-25"
   },
   "ai security skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific lensa technologies or products": {
+    "count": 6,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific forward deployed engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "multi-threaded programming": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
