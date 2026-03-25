@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "or ansible not mentioned in the resume": {
     "count": 4,
@@ -1915,9 +1915,9 @@
     "last_seen": "2026-03-21"
   },
   "machine learning": {
-    "count": 13,
+    "count": 16,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "autonomous driving": {
     "count": 1,
@@ -9266,6 +9266,26 @@
   },
   "specific integration platform skills not mentioned in the resume": {
     "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "or ansible": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific skills in banking or finance industry": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "autonomous vehicle software development experience": {
+    "count": 3,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific skills in computer vision": {
+    "count": 3,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
   }
