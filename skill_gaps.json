@@ -1860,7 +1860,7 @@
     "last_seen": "2026-03-17"
   },
   "cloud experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-25"
   },
@@ -3545,9 +3545,9 @@
     "last_seen": "2026-03-18"
   },
   "web development experience": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific web technologies": {
     "count": 2,
@@ -10001,6 +10001,41 @@
   },
   "image processing": {
     "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with book of the month's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific edkey tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with flight software": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "starlink": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with build reliability engineering": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific smartasset tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific rhodes tech stack": {
+    "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
   }
