@@ -10,9 +10,9 @@
     "last_seen": "2026-03-14"
   },
   "migration": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "cost optimization": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 54,
+    "count": 55,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 88,
+    "count": 90,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -1915,7 +1915,7 @@
     "last_seen": "2026-03-21"
   },
   "machine learning": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-25"
   },
@@ -3865,9 +3865,9 @@
     "last_seen": "2026-03-18"
   },
   "specific cloud engineer skills like cloud architecture": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-25"
   },
   "specific artifactory skills like repository management": {
     "count": 1,
@@ -9440,6 +9440,51 @@
     "last_seen": "2026-03-25"
   },
   "web development expertise": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific it system engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific networking or observability skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "financial domain knowledge": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "no clear mention of cloud platforms used": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "security-specific skills like compliance": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "threat analysis": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "security protocols": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific security or networking skills": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific qa automation skills": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
