@@ -995,14 +995,14 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 38,
+    "count": 39,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "unable to determine exact missing skills": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "network cabling installation experience": {
     "count": 2,
@@ -5145,9 +5145,9 @@
     "last_seen": "2026-03-24"
   },
   "c# skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "system engineering expertise": {
     "count": 1,
@@ -9213,5 +9213,10 @@
     "count": 1,
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24"
+  },
+  "software engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
   }
 }
