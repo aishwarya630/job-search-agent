@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 95,
+    "count": 97,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -2080,9 +2080,9 @@
     "last_seen": "2026-03-17"
   },
   "experience with industrial systems": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-25"
   },
   "specific snowflake skills": {
     "count": 1,
@@ -2670,7 +2670,7 @@
     "last_seen": "2026-03-19"
   },
   "most of the required skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-25"
   },
@@ -2720,7 +2720,7 @@
     "last_seen": "2026-03-20"
   },
   "all required skills": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-25"
   },
@@ -3180,9 +3180,9 @@
     "last_seen": "2026-03-20"
   },
   "etl tools": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-25"
   },
   "specific raytheon technologies": {
     "count": 1,
@@ -3645,7 +3645,7 @@
     "last_seen": "2026-03-25"
   },
   "specific software development experience": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-25"
   },
@@ -4145,9 +4145,9 @@
     "last_seen": "2026-03-18"
   },
   "specific data engineering tools like apache beam or apache spark": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-25"
   },
   "specific experience with aws": {
     "count": 1,
@@ -9860,6 +9860,56 @@
     "last_seen": "2026-03-25"
   },
   "system design experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with data warehousing": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "cloud architecture knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with controls software": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "industrial systems": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "strong java programming skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with java development": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "strong c++ programming skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with c++ development": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "contract position may not be suitable for opt visa": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "structural engineering experience": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
