@@ -9288,5 +9288,25 @@
     "count": 3,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
+  },
+  "specific ai/llm experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "agentic ai infrastructure knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific google cloud skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "experience as a solution architect": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
   }
 }
