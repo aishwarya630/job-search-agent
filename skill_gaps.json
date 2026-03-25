@@ -2360,9 +2360,9 @@
     "last_seen": "2026-03-24"
   },
   "experience": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific programming languages required by the job": {
     "count": 1,
@@ -9216,6 +9216,41 @@
   },
   "software engineering experience": {
     "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific cloud systems engineer skills not mentioned in resume": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific yaml experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "skills": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific pre-sales experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific ai modeling skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "network deployment": {
+    "count": 2,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific network protocols": {
+    "count": 2,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
   }
