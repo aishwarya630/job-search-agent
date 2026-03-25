@@ -800,14 +800,14 @@
     "last_seen": "2026-03-25"
   },
   "us citizenship": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-25"
   },
   "sales experience": {
-    "count": 5,
+    "count": 7,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "account management skills": {
     "count": 1,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 90,
+    "count": 92,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-25"
   },
@@ -1780,9 +1780,9 @@
     "last_seen": "2026-03-16"
   },
   "specific healthcare industry experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "specific software validation skills": {
     "count": 1,
@@ -3305,9 +3305,9 @@
     "last_seen": "2026-03-18"
   },
   "containerization": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-25"
   },
   "specific skills in kyndryl's industry": {
     "count": 1,
@@ -4660,9 +4660,9 @@
     "last_seen": "2026-03-22"
   },
   "devops": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-25"
   },
   "controls systems": {
     "count": 1,
@@ -9070,9 +9070,9 @@
     "last_seen": "2026-03-24"
   },
   "helm": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-25"
   },
   "experience with machine learning frameworks": {
     "count": 2,
@@ -9675,6 +9675,81 @@
     "last_seen": "2026-03-25"
   },
   "specific experience with cgi's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "no specific mention of cloud": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "or distributed systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "network focused skills": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "product development experience": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "specific experience with food industry software": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "no specific mention of experience with kubernetes": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "or specific data streaming technologies": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "application security expertise": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "no specific mention of experience with cloud providers": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "or specific devops tools": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "vehicle control": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "ts/sci clearance": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "retail knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "medical degree": {
+    "count": 1,
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25"
+  },
+  "medical licensure": {
     "count": 1,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25"
