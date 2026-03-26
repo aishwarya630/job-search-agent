@@ -15,9 +15,9 @@
     "last_seen": "2026-03-25"
   },
   "cost optimization": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-26"
   },
   "pytorch": {
     "count": 5,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 63,
+    "count": 64,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
@@ -1140,12 +1140,12 @@
     "last_seen": "2026-03-23"
   },
   "specific sre tools": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
   "technologies": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 63,
+    "count": 64,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 116,
+    "count": 117,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -2515,9 +2515,9 @@
     "last_seen": "2026-03-17"
   },
   "specific engineering skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-26"
   },
   "genesys contact center experience": {
     "count": 1,
@@ -2845,9 +2845,9 @@
     "last_seen": "2026-03-26"
   },
   "programming languages": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific digitalocean platform experience": {
     "count": 2,
@@ -8920,9 +8920,9 @@
     "last_seen": "2026-03-25"
   },
   "specific mention of cloud security": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "or governance": {
     "count": 1,
@@ -9510,9 +9510,9 @@
     "last_seen": "2026-03-25"
   },
   "insurance domain expertise": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific full-stack framework skills": {
     "count": 1,
@@ -10800,6 +10800,26 @@
     "last_seen": "2026-03-26"
   },
   "specific san diego climate week technologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific mention of leadership experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific mention of frontend development experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "geospatial technology experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with manufacturing systems": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
