@@ -685,14 +685,14 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 58,
+    "count": 59,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "experience with specific technologies": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific experience with embedded software": {
     "count": 1,
@@ -805,9 +805,9 @@
     "last_seen": "2026-03-26"
   },
   "sales experience": {
-    "count": 9,
+    "count": 11,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "account management skills": {
     "count": 1,
@@ -1110,9 +1110,9 @@
     "last_seen": "2026-03-19"
   },
   "golang": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "specific details about the job requirements are not provided": {
     "count": 15,
@@ -2630,9 +2630,9 @@
     "last_seen": "2026-03-17"
   },
   "required skills": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-26"
   },
   "compliance experience": {
     "count": 1,
@@ -3150,9 +3150,9 @@
     "last_seen": "2026-03-19"
   },
   "full-stack development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "specific front-end frameworks": {
     "count": 2,
@@ -8895,9 +8895,9 @@
     "last_seen": "2026-03-24"
   },
   "mongodb": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "large-scale system experience": {
     "count": 6,
@@ -9820,9 +9820,9 @@
     "last_seen": "2026-03-25"
   },
   "tech stack": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "salesforce experience": {
     "count": 1,
@@ -10071,6 +10071,46 @@
   },
   "specific software engineering skills for energy trading": {
     "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific cloud support skills": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific details about the project": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific safety experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "details about the tech stack used by discord": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific technical engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with healthcare technology": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "technical sales skills": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with engineered solutions": {
+    "count": 2,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
   }
