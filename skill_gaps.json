@@ -2540,7 +2540,7 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 15,
+    "count": 17,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-26"
   },
@@ -2720,9 +2720,9 @@
     "last_seen": "2026-03-20"
   },
   "all required skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "field service experience": {
     "count": 3,
@@ -4825,9 +4825,9 @@
     "last_seen": "2026-03-24"
   },
   "including mechanical engineering": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-26"
   },
   "aerospace experience": {
     "count": 1,
@@ -10075,7 +10075,7 @@
     "last_seen": "2026-03-26"
   },
   "specific cloud support skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
   },
@@ -10350,6 +10350,81 @@
     "last_seen": "2026-03-26"
   },
   "systems engineering experience in a related field": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "data/ai/intelligent systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "github specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "data lake development experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific aws data services": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "mlops experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific ai/intelligent systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific wsi skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with v2x technology": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "alibaba cloud specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "site reliability engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "support engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific senior software engineer skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "detailed architecture": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "design experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "space systems experience": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
