@@ -1695,9 +1695,9 @@
     "last_seen": "2026-03-16"
   },
   "ai-specific skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific data infrastructure skills like data warehousing": {
     "count": 1,
@@ -10045,6 +10045,21 @@
     "last_seen": "2026-03-26"
   },
   "react experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "exact job requirements not provided": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific iv&v skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "software analysis experience": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
