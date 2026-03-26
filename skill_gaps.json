@@ -685,7 +685,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 59,
+    "count": 60,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-23"
   },
   "security clearance": {
-    "count": 73,
+    "count": 74,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
@@ -995,12 +995,12 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 41,
+    "count": 43,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
   "unable to determine exact missing skills": {
-    "count": 16,
+    "count": 18,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1240,9 +1240,9 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 58,
+    "count": 62,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific infrastructure engineer skills like network architecture": {
     "count": 1,
@@ -1400,14 +1400,14 @@
     "last_seen": "2026-03-16"
   },
   "specific mention of docker": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-26"
   },
   "but general containerization experience is present": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-26"
   },
   "experience with azure app gateway": {
     "count": 2,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 102,
+    "count": 104,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -2045,9 +2045,9 @@
     "last_seen": "2026-03-17"
   },
   "specific testing skills": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "software test engineering experience": {
     "count": 1,
@@ -2240,9 +2240,9 @@
     "last_seen": "2026-03-19"
   },
   "ai/ml experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "specific experience with software development in test": {
     "count": 1,
@@ -2540,7 +2540,7 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-26"
   },
@@ -3045,9 +3045,9 @@
     "last_seen": "2026-03-17"
   },
   "front-end development experience": {
-    "count": 8,
+    "count": 11,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific functional testing expertise": {
     "count": 1,
@@ -9645,9 +9645,9 @@
     "last_seen": "2026-03-25"
   },
   "systems engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific technology stacks or frameworks not mentioned in the resume": {
     "count": 2,
@@ -9825,9 +9825,9 @@
     "last_seen": "2026-03-26"
   },
   "salesforce experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific cloud platform skills": {
     "count": 1,
@@ -10425,6 +10425,41 @@
     "last_seen": "2026-03-26"
   },
   "space systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "full-stack experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific mention of site reliability engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "deep learning experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific cloud platform engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "gaming industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific ui/ux skills": {
+    "count": 3,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "qa experience": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
