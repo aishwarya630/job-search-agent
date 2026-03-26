@@ -1260,7 +1260,7 @@
     "last_seen": "2026-03-24"
   },
   "network engineering skills": {
-    "count": 6,
+    "count": 10,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 26,
+    "count": 28,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1590,9 +1590,9 @@
     "last_seen": "2026-03-16"
   },
   "kubernetes": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "terraform": {
     "count": 6,
@@ -1625,9 +1625,9 @@
     "last_seen": "2026-03-16"
   },
   "most technical skills mentioned in the resume": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-26"
   },
   "nursing degree": {
     "count": 3,
@@ -2580,9 +2580,9 @@
     "last_seen": "2026-03-24"
   },
   "networking protocols": {
-    "count": 3,
+    "count": 7,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-26"
   },
   "data warehousing experience": {
     "count": 1,
@@ -3640,9 +3640,9 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific software development experience": {
     "count": 13,
@@ -3735,9 +3735,9 @@
     "last_seen": "2026-03-18"
   },
   "design skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-26"
   },
   "experience with hirenza technologies": {
     "count": 1,
@@ -5055,9 +5055,9 @@
     "last_seen": "2026-03-24"
   },
   "linux": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "endpoint security experience": {
     "count": 1,
@@ -10175,6 +10175,31 @@
     "last_seen": "2026-03-26"
   },
   "environmental systems": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific simulation infrastructure experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "distributed systems": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "terraform experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "mcu apps experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "creative experience": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
