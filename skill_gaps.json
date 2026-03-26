@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific full stack skills": {
     "count": 2,
@@ -770,9 +770,9 @@
     "last_seen": "2026-03-22"
   },
   "typescript": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-26"
   },
   "specific experience with enterprise systems design": {
     "count": 1,
@@ -2360,9 +2360,9 @@
     "last_seen": "2026-03-25"
   },
   "experience": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific programming languages required by the job": {
     "count": 1,
@@ -2440,7 +2440,7 @@
     "last_seen": "2026-03-24"
   },
   "java expertise": {
-    "count": 6,
+    "count": 8,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-26"
   },
@@ -3020,9 +3020,9 @@
     "last_seen": "2026-03-17"
   },
   "specific backend development experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "latam region expertise": {
     "count": 2,
@@ -10615,6 +10615,46 @@
     "last_seen": "2026-03-26"
   },
   "controls engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "other required skills": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific java-related skills": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific api development experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific skills required for the job are not mentioned": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "but likely include a wide range of technologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "other specific frontend skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "java experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "other specific skills required for the job": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
