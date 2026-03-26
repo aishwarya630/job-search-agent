@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 18,
+    "count": 20,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "or ansible not mentioned in the resume": {
     "count": 4,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 110,
+    "count": 114,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1660,9 +1660,9 @@
     "last_seen": "2026-03-19"
   },
   "specific system engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-26"
   },
   "specific systems engineering experience": {
     "count": 13,
@@ -1750,7 +1750,7 @@
     "last_seen": "2026-03-24"
   },
   "specific system engineering skills": {
-    "count": 14,
+    "count": 17,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -2380,9 +2380,9 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-26"
   },
   "web application development": {
     "count": 1,
@@ -3425,9 +3425,9 @@
     "last_seen": "2026-03-18"
   },
   "puppet": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-26"
   },
   "software development experience": {
     "count": 8,
@@ -4650,9 +4650,9 @@
     "last_seen": "2026-03-20"
   },
   "specific linux distribution experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-26"
   },
   "cloud": {
     "count": 5,
@@ -8890,9 +8890,9 @@
     "last_seen": "2026-03-24"
   },
   "epic-specific technologies": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "mongodb": {
     "count": 4,
@@ -9785,9 +9785,9 @@
     "last_seen": "2026-03-25"
   },
   "direct ai experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "production ai system building": {
     "count": 1,
@@ -9825,14 +9825,14 @@
     "last_seen": "2026-03-26"
   },
   "salesforce experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-26"
   },
   "specific cloud platform skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific ai engineering skills": {
     "count": 1,
@@ -10250,7 +10250,7 @@
     "last_seen": "2026-03-26"
   },
   "html/css skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
   },
@@ -10545,6 +10545,76 @@
     "last_seen": "2026-03-26"
   },
   "specific skills related to spacecraft engineering": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific experience with motorola solutions' technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific experience with healthcare systems": {
+    "count": 3,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "java skills": {
+    "count": 3,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific cloud provider experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific experience with financial systems": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "data analysis skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific experience with aws connect": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "golang programming language": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "cloud platform skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "corprex technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "epic technology stack": {
+    "count": 4,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "email-specific technologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "requirements engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "controls engineering experience": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
