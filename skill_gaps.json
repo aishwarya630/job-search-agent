@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -715,7 +715,7 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
@@ -1795,9 +1795,9 @@
     "last_seen": "2026-03-16"
   },
   "relevant technical skills": {
-    "count": 5,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-26"
   },
   "specific security clearance or us citizenship requirements not mentioned in provided job details": {
     "count": 1,
@@ -3850,7 +3850,7 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-26"
   },
@@ -10900,6 +10900,106 @@
     "last_seen": "2026-03-26"
   },
   "specific experience with certain technologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific experience with cnn's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct experience with software development for media industry": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct experience with cognizant's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with specific software development methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific data engineering tools like apache beam or apache spark (although pyspark is mentioned)": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct experience with agricultural technology": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with embedded systems": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct experience with game development": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with playsaurus's tech stack": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct experience with software development": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with climate-related projects": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific cybersecurity skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with security clearance (excluded due to rule": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "but might be a requirement)": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific programming languages or technologies required for the role": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct experience with embedded systems": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with aerospace industry": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience in industrial systems technology": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "mechatronics engineering technology": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience in power systems electrical engineering": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
