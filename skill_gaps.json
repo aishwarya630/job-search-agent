@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "crossplane": {
     "count": 1,
@@ -1140,9 +1140,9 @@
     "last_seen": "2026-03-23"
   },
   "specific sre tools": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-26"
   },
   "technologies": {
     "count": 8,
@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 114,
+    "count": 116,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -2875,9 +2875,9 @@
     "last_seen": "2026-03-17"
   },
   "specific web development skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-26"
   },
   "experience with website building tools": {
     "count": 1,
@@ -3640,14 +3640,14 @@
     "last_seen": "2026-03-21"
   },
   "c++": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-26"
   },
   "specific software development experience": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   ".net": {
     "count": 7,
@@ -5815,9 +5815,9 @@
     "last_seen": "2026-03-20"
   },
   "system engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-26"
   },
   "specific web development frameworks": {
     "count": 3,
@@ -7480,14 +7480,14 @@
     "last_seen": "2026-03-22"
   },
   "html": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "css": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "javascript": {
     "count": 2,
@@ -7740,9 +7740,9 @@
     "last_seen": "2026-03-22"
   },
   "spring": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-26"
   },
   "messaging": {
     "count": 1,
@@ -7970,9 +7970,9 @@
     "last_seen": "2026-03-23"
   },
   "technologies not mentioned in the resume": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-26"
   },
   "specific programming languages required by wiraa": {
     "count": 1,
@@ -9230,9 +9230,9 @@
     "last_seen": "2026-03-25"
   },
   "skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific pre-sales experience": {
     "count": 1,
@@ -10705,6 +10705,51 @@
     "last_seen": "2026-03-26"
   },
   "housekeeping experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "cloud platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific web development experience": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "aviation domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific automotive electronics-validation experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "windows-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific java software development experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "hibernate": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "algorithmic trading experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific financial domain knowledge": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
