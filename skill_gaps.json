@@ -995,14 +995,14 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 40,
+    "count": 41,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "unable to determine exact missing skills": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "network cabling installation experience": {
     "count": 2,
@@ -1330,9 +1330,9 @@
     "last_seen": "2026-03-25"
   },
   "leadership skills": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-26"
   },
   "no specific api framework mentioned in the resume": {
     "count": 1,
@@ -2835,9 +2835,9 @@
     "last_seen": "2026-03-17"
   },
   "specific senior-level experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-26"
   },
   "specific software engineering experience": {
     "count": 6,
@@ -10136,6 +10136,46 @@
   },
   "aerospace engineering skills": {
     "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific space technology experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "environmental equipment engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "industrial systems knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "chemical engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with chemical processes": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "utilities equipment engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with industrial utilities": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "environmental systems": {
+    "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
   }
