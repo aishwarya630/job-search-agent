@@ -1145,9 +1145,9 @@
     "last_seen": "2026-03-23"
   },
   "technologies": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "specific capabilities mentioned in the job description": {
     "count": 1,
@@ -1260,9 +1260,9 @@
     "last_seen": "2026-03-24"
   },
   "network engineering skills": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-26"
   },
   "lan focus": {
     "count": 1,
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 25,
+    "count": 26,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -3265,9 +3265,9 @@
     "last_seen": "2026-03-18"
   },
   "product development": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-26"
   },
   "specific rad experience": {
     "count": 1,
@@ -5650,9 +5650,9 @@
     "last_seen": "2026-03-20"
   },
   "specific technical skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-26"
   },
   "experience with real estate": {
     "count": 1,
@@ -9250,9 +9250,9 @@
     "last_seen": "2026-03-25"
   },
   "specific network protocols": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "help desk experience": {
     "count": 1,
@@ -10110,6 +10110,31 @@
     "last_seen": "2026-03-26"
   },
   "experience with engineered solutions": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific web development frameworks or technologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "financial services": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "fluid mechanics": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "mechanical design": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "aerospace engineering skills": {
     "count": 2,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
