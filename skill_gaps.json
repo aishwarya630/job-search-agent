@@ -685,12 +685,12 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 60,
+    "count": 63,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
   "experience with specific technologies": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
@@ -955,9 +955,9 @@
     "last_seen": "2026-03-15"
   },
   "game development experience": {
-    "count": 11,
+    "count": 13,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "unity or other game engines": {
     "count": 1,
@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 104,
+    "count": 105,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1540,9 +1540,9 @@
     "last_seen": "2026-03-24"
   },
   "machine learning experience": {
-    "count": 6,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "embedded software development": {
     "count": 1,
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 28,
+    "count": 29,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1590,7 +1590,7 @@
     "last_seen": "2026-03-16"
   },
   "kubernetes": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-26"
   },
@@ -1670,9 +1670,9 @@
     "last_seen": "2026-03-26"
   },
   "ios development experience": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "swift": {
     "count": 2,
@@ -1750,9 +1750,9 @@
     "last_seen": "2026-03-24"
   },
   "specific system engineering skills": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "system administration": {
     "count": 7,
@@ -2620,9 +2620,9 @@
     "last_seen": "2026-03-19"
   },
   "linux administration": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "specific details about the tech stack": {
     "count": 1,
@@ -3545,9 +3545,9 @@
     "last_seen": "2026-03-18"
   },
   "web development experience": {
-    "count": 9,
+    "count": 16,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific web technologies": {
     "count": 2,
@@ -3650,9 +3650,9 @@
     "last_seen": "2026-03-25"
   },
   ".net": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "c# development experience": {
     "count": 1,
@@ -4345,9 +4345,9 @@
     "last_seen": "2026-03-19"
   },
   "propulsion engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-26"
   },
   "engine systems knowledge": {
     "count": 1,
@@ -5630,9 +5630,9 @@
     "last_seen": "2026-03-20"
   },
   "frontend development skills": {
-    "count": 4,
+    "count": 11,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "experience with ai observability": {
     "count": 1,
@@ -7220,9 +7220,9 @@
     "last_seen": "2026-03-22"
   },
   "defense": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-26"
   },
   "required security clearance": {
     "count": 1,
@@ -9045,9 +9045,9 @@
     "last_seen": "2026-03-24"
   },
   "blazor": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "sme role": {
     "count": 1,
@@ -9560,9 +9560,9 @@
     "last_seen": "2026-03-25"
   },
   "swift programming language": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "specific experience with modeling": {
     "count": 1,
@@ -10460,6 +10460,76 @@
     "last_seen": "2026-03-26"
   },
   "qa experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific experience with azure cloud developer role": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific systems engineering skills for the company's domain": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific programming languages or cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific systems engineering skills for aerospace": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific skills related to space systems or platforms engineering": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with cloud infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "or security clearance": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific game systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "c++ programming language": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "rf signal": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "sensor modeling engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with specific systems engineering tools": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with engine systems": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
