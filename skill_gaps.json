@@ -795,7 +795,7 @@
     "last_seen": "2026-03-23"
   },
   "security clearance": {
-    "count": 74,
+    "count": 75,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-26"
   },
@@ -1030,9 +1030,9 @@
     "last_seen": "2026-03-16"
   },
   "networking skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-26"
   },
   "experience with network protocols": {
     "count": 2,
@@ -1875,9 +1875,9 @@
     "last_seen": "2026-03-17"
   },
   "security-specific skills": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-26"
   },
   "compliance knowledge": {
     "count": 9,
@@ -3850,7 +3850,7 @@
     "last_seen": "2026-03-18"
   },
   "none significant": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-26"
   },
@@ -3880,9 +3880,9 @@
     "last_seen": "2026-03-18"
   },
   "model-based systems engineering experience": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-26"
   },
   "specific medical systems experience": {
     "count": 1,
@@ -10750,6 +10750,56 @@
     "last_seen": "2026-03-26"
   },
   "specific financial domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific software automation skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "experience with axonne's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "cybersecurity-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific leidos technologies": {
+    "count": 3,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct software development experience": {
+    "count": 4,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific critical infrastructure experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific modeling tools": {
+    "count": 2,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "direct web development experience": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific bridgeway technologies": {
+    "count": 1,
+    "first_seen": "2026-03-26",
+    "last_seen": "2026-03-26"
+  },
+  "specific san diego climate week technologies": {
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
