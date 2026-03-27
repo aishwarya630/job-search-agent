@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 76,
+    "count": 82,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "or ansible not mentioned in the resume": {
     "count": 4,
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-27"
   },
   "security clearance": {
-    "count": 82,
+    "count": 83,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -1060,9 +1060,9 @@
     "last_seen": "2026-03-24"
   },
   "specific testing frameworks": {
-    "count": 21,
+    "count": 23,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "robotics-specific skills": {
     "count": 9,
@@ -1310,9 +1310,9 @@
     "last_seen": "2026-03-24"
   },
   "specific cloud security skills": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "no specific full-stack framework mentioned in the resume": {
     "count": 1,
@@ -1570,7 +1570,7 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 30,
+    "count": 31,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -5050,9 +5050,9 @@
     "last_seen": "2026-03-26"
   },
   "5+ years of experience": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "linux": {
     "count": 5,
@@ -7460,9 +7460,9 @@
     "last_seen": "2026-03-22"
   },
   "specific hardware knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-27"
   },
   "low-level system troubleshooting": {
     "count": 1,
@@ -7545,9 +7545,9 @@
     "last_seen": "2026-03-22"
   },
   "firmware development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-27"
   },
   "specific knowledge of embedded systems": {
     "count": 1,
@@ -11130,7 +11130,7 @@
     "last_seen": "2026-03-27"
   },
   "robotics specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
   },
@@ -11630,6 +11630,101 @@
     "last_seen": "2026-03-27"
   },
   "but the resume lacks information on the specific skills required for the software engineer position": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with healthcare it systems": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with developer platforms": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with nutanix products": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "cdp": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with software development": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with onetrust products": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with apex systems products": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "direct experience with system engineering": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific tools like prometheus": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with cybersecurity": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with job search platforms": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "data engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with development frameworks": {
+    "count": 6,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "direct experience with robotics systems": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific cyber security skills": {
+    "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with security clearance": {
+    "count": 3,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific space systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific systems modeling": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "simulation skills": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
