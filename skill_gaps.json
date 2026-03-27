@@ -685,7 +685,7 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 75,
+    "count": 76,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -790,7 +790,7 @@
     "last_seen": "2026-03-25"
   },
   "testing frameworks": {
-    "count": 24,
+    "count": 26,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 120,
+    "count": 121,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -5415,9 +5415,9 @@
     "last_seen": "2026-03-20"
   },
   "financial industry experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-27"
   },
   "specific ai frameworks or tools": {
     "count": 2,
@@ -5430,9 +5430,9 @@
     "last_seen": "2026-03-20"
   },
   "specific verification skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-27"
   },
   "specific frameworks": {
     "count": 3,
@@ -9455,9 +9455,9 @@
     "last_seen": "2026-03-25"
   },
   "financial domain knowledge": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "no clear mention of cloud platforms used": {
     "count": 1,
@@ -11111,6 +11111,51 @@
   },
   "medical background": {
     "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific digital assets skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific model evaluation": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "benchmarking experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "robotics specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific ai workflow skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "aec research experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "structural": {
+    "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "dynamic systems skills": {
+    "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experimental skills": {
+    "count": 2,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
   }
