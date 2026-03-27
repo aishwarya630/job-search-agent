@@ -955,7 +955,7 @@
     "last_seen": "2026-03-15"
   },
   "game development experience": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 126,
+    "count": 128,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -1830,9 +1830,9 @@
     "last_seen": "2026-03-16"
   },
   "specific knowledge of game development frameworks": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-27"
   },
   "specific quality assurance experience": {
     "count": 1,
@@ -3020,9 +3020,9 @@
     "last_seen": "2026-03-17"
   },
   "specific backend development experience": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "latam region expertise": {
     "count": 2,
@@ -3475,9 +3475,9 @@
     "last_seen": "2026-03-18"
   },
   "senior-level skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-27"
   },
   "thermal protection systems experience": {
     "count": 1,
@@ -3805,7 +3805,7 @@
     "last_seen": "2026-03-18"
   },
   "specific networking skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-27"
   },
@@ -4995,9 +4995,9 @@
     "last_seen": "2026-03-19"
   },
   "full stack development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "some programming languages": {
     "count": 7,
@@ -10710,9 +10710,9 @@
     "last_seen": "2026-03-26"
   },
   "cloud platform experience": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "specific web development experience": {
     "count": 2,
@@ -11075,7 +11075,7 @@
     "last_seen": "2026-03-27"
   },
   "specific aws services": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
   },
@@ -11870,6 +11870,36 @@
     "last_seen": "2026-03-27"
   },
   "substation knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "data ingestion specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "knowledge of game development": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "network lab experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific product software experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "embedded system development experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "knowledge of specific embedded systems": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
