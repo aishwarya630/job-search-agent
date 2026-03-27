@@ -10,9 +10,9 @@
     "last_seen": "2026-03-14"
   },
   "migration": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "cost optimization": {
     "count": 2,
@@ -735,9 +735,9 @@
     "last_seen": "2026-03-15"
   },
   "frontend development experience": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "specific full stack skills": {
     "count": 2,
@@ -795,7 +795,7 @@
     "last_seen": "2026-03-27"
   },
   "security clearance": {
-    "count": 80,
+    "count": 82,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 72,
+    "count": 73,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -1390,9 +1390,9 @@
     "last_seen": "2026-03-16"
   },
   "none notable": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "most required skills are present": {
     "count": 1,
@@ -1435,9 +1435,9 @@
     "last_seen": "2026-03-22"
   },
   "kotlin": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "android apis": {
     "count": 5,
@@ -4655,14 +4655,14 @@
     "last_seen": "2026-03-26"
   },
   "cloud": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-27"
   },
   "devops": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "controls systems": {
     "count": 1,
@@ -4820,9 +4820,9 @@
     "last_seen": "2026-03-25"
   },
   "specific experience with required technologies": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "including mechanical engineering": {
     "count": 2,
@@ -5035,9 +5035,9 @@
     "last_seen": "2026-03-19"
   },
   "testing skills": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-27"
   },
   "frontend skills": {
     "count": 1,
@@ -5950,9 +5950,9 @@
     "last_seen": "2026-03-20"
   },
   "all mechanical engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-27"
   },
   "specific cloud platform development skills": {
     "count": 1,
@@ -6530,9 +6530,9 @@
     "last_seen": "2026-03-21"
   },
   "network engineering": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-27"
   },
   "field experience": {
     "count": 1,
@@ -6725,9 +6725,9 @@
     "last_seen": "2026-03-21"
   },
   "management": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-27"
   },
   "specific infrastructure development experience": {
     "count": 1,
@@ -6880,9 +6880,9 @@
     "last_seen": "2026-03-21"
   },
   "specific backend technologies used by dataannotation": {
-    "count": 3,
+    "count": 8,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-27"
   },
   "specific experience with dataannotation's technology stack": {
     "count": 5,
@@ -9345,9 +9345,9 @@
     "last_seen": "2026-03-25"
   },
   "specific financial industry experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "including programming languages": {
     "count": 1,
@@ -11410,6 +11410,66 @@
     "last_seen": "2026-03-27"
   },
   "specific knowledge of radio systems": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific cloud engineering skills like cloud architecture": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with powershell or similar scripting language": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "genai specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific technologies used by therapynotes": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific technologies used by tyler technologies": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "cisco specific networking skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific ai automation": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific software automation": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "powershell experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "which is a primary requirement": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific technologies used by dataannotation": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "trading systems": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
