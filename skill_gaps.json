@@ -1130,9 +1130,9 @@
     "last_seen": "2026-03-25"
   },
   "specific data engineering skills": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "data warehousing": {
     "count": 2,
@@ -1570,9 +1570,9 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 29,
+    "count": 30,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "specific cloud platform (aws/azure) experience": {
     "count": 1,
@@ -7690,9 +7690,9 @@
     "last_seen": "2026-03-22"
   },
   "specific requirements not mentioned in the job description": {
-    "count": 2,
+    "count": 5,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "bare metal infrastructure experience": {
     "count": 1,
@@ -8165,9 +8165,9 @@
     "last_seen": "2026-03-23"
   },
   "specific systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-27"
   },
   "infrastructure engineering experience": {
     "count": 1,
@@ -11360,6 +11360,56 @@
     "last_seen": "2026-03-27"
   },
   "operations skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with automotive industry platforms": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "execution engineering": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "databricks": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with event sourcing": {
+    "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "stream processing": {
+    "count": 3,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific skills related to event sourcing": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "rust programming language": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "ai evaluation experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "radio product systems engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific knowledge of radio systems": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
