@@ -685,9 +685,9 @@
     "last_seen": "2026-03-21"
   },
   "specific software development skills": {
-    "count": 67,
+    "count": 75,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "experience with specific technologies": {
     "count": 7,
@@ -790,9 +790,9 @@
     "last_seen": "2026-03-25"
   },
   "testing frameworks": {
-    "count": 23,
+    "count": 24,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-27"
   },
   "security clearance": {
     "count": 75,
@@ -1230,9 +1230,9 @@
     "last_seen": "2026-03-16"
   },
   "specific industry experience": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-27"
   },
   "specific programming languages required for the role": {
     "count": 7,
@@ -1325,9 +1325,9 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 23,
+    "count": 24,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "leadership skills": {
     "count": 8,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 117,
+    "count": 120,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "mobile development experience": {
     "count": 4,
@@ -1660,9 +1660,9 @@
     "last_seen": "2026-03-19"
   },
   "specific system engineering experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "specific systems engineering experience": {
     "count": 13,
@@ -1725,9 +1725,9 @@
     "last_seen": "2026-03-25"
   },
   "specific programming languages": {
-    "count": 28,
+    "count": 29,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "cloud provider expertise": {
     "count": 1,
@@ -2355,9 +2355,9 @@
     "last_seen": "2026-03-17"
   },
   "all technical skills": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "experience": {
     "count": 10,
@@ -2755,14 +2755,14 @@
     "last_seen": "2026-03-17"
   },
   "specific fullstack development experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-27"
   },
   "react or angular": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-27"
   },
   "hardware experience": {
     "count": 5,
@@ -2840,9 +2840,9 @@
     "last_seen": "2026-03-26"
   },
   "specific software engineering experience": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "programming languages": {
     "count": 9,
@@ -3070,9 +3070,9 @@
     "last_seen": "2026-03-17"
   },
   "specific lensa technology stack": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-27"
   },
   "specific lensa technologies": {
     "count": 3,
@@ -3235,9 +3235,9 @@
     "last_seen": "2026-03-18"
   },
   "relevant experience": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-27"
   },
   "specific cloud platform expertise beyond azure": {
     "count": 1,
@@ -3785,9 +3785,9 @@
     "last_seen": "2026-03-18"
   },
   "low-level system programming": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-27"
   },
   "banking domain knowledge": {
     "count": 2,
@@ -4645,9 +4645,9 @@
     "last_seen": "2026-03-19"
   },
   "specific platform engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-27"
   },
   "specific linux distribution experience": {
     "count": 2,
@@ -6060,9 +6060,9 @@
     "last_seen": "2026-03-20"
   },
   "data engineering specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-27"
   },
   "cybersecurity knowledge": {
     "count": 1,
@@ -11020,6 +11020,76 @@
     "last_seen": "2026-03-27"
   },
   "licensed therapist requirements": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific cloud services": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "detailed system design skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "detailed automation experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific tooling skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "machine learning or ai": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "storage-specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific azure services": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "supply chain systems specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "system administration skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "fullstack development": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific aws services": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "lead experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "application development skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "site reliability engineering specific skills": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
