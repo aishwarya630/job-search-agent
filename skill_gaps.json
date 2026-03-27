@@ -795,7 +795,7 @@
     "last_seen": "2026-03-27"
   },
   "security clearance": {
-    "count": 83,
+    "count": 84,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-27"
   },
@@ -1130,7 +1130,7 @@
     "last_seen": "2026-03-25"
   },
   "specific data engineering skills": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -1710,9 +1710,9 @@
     "last_seen": "2026-03-22"
   },
   "specific development skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-27"
   },
   "cloud platforms": {
     "count": 3,
@@ -2555,9 +2555,9 @@
     "last_seen": "2026-03-17"
   },
   "specific mlops skills": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "machine learning framework experience": {
     "count": 4,
@@ -5650,9 +5650,9 @@
     "last_seen": "2026-03-20"
   },
   "specific technical skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "experience with real estate": {
     "count": 1,
@@ -5675,9 +5675,9 @@
     "last_seen": "2026-03-20"
   },
   "none mentioned in the job description": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "specific experience with azure app gateway": {
     "count": 2,
@@ -6335,9 +6335,9 @@
     "last_seen": "2026-03-21"
   },
   "specific sql development skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-27"
   },
   "experience with sql development tools": {
     "count": 1,
@@ -11075,7 +11075,7 @@
     "last_seen": "2026-03-27"
   },
   "specific aws services": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
   },
@@ -11790,6 +11790,86 @@
     "last_seen": "2026-03-27"
   },
   "specific networking technologies": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific programming languages required by netapp": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with pittsburgh": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "pa infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with almont": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "co infrastructure": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience required by palex espa\u00f1a": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "pki specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "java development skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with voice systems": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "telecommunications": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "oracle integration cloud (oic) skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "thermal system design": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "thermal analysis": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "thermal testing skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "electrical engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "substation knowledge": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
