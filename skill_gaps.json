@@ -1050,9 +1050,9 @@
     "last_seen": "2026-03-16"
   },
   "specific programming languages or technologies required by the job": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-27"
   },
   "quality assurance experience": {
     "count": 9,
@@ -11003,5 +11003,25 @@
     "count": 1,
     "first_seen": "2026-03-26",
     "last_seen": "2026-03-26"
+  },
+  "specific experience with healthcare data": {
+    "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with wsi technology": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "clinical therapy skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "licensed therapist requirements": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
   }
 }
