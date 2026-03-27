@@ -995,9 +995,9 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 44,
+    "count": 45,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "unable to determine exact missing skills": {
     "count": 19,
@@ -2975,9 +2975,9 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "do-178 specific skills": {
     "count": 1,
@@ -11090,6 +11090,26 @@
     "last_seen": "2026-03-27"
   },
   "site reliability engineering specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "water/wastewater engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "project management skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "respiratory therapy skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "medical background": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
