@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "django": {
     "count": 1,
@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "crossplane": {
     "count": 1,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 123,
+    "count": 124,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -1695,9 +1695,9 @@
     "last_seen": "2026-03-16"
   },
   "ai-specific skills": {
-    "count": 8,
+    "count": 10,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "specific data infrastructure skills like data warehousing": {
     "count": 1,
@@ -1915,7 +1915,7 @@
     "last_seen": "2026-03-21"
   },
   "machine learning": {
-    "count": 19,
+    "count": 21,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-27"
   },
@@ -3150,9 +3150,9 @@
     "last_seen": "2026-03-19"
   },
   "full-stack development experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "specific front-end frameworks": {
     "count": 2,
@@ -4315,9 +4315,9 @@
     "last_seen": "2026-03-19"
   },
   "experience with ai platforms": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-27"
   },
   "relevant system protection experience": {
     "count": 1,
@@ -7050,9 +7050,9 @@
     "last_seen": "2026-03-21"
   },
   "ci/cd": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-27"
   },
   "specific experience with fennec software": {
     "count": 1,
@@ -11555,6 +11555,41 @@
     "last_seen": "2026-03-27"
   },
   "software engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "amazon connect": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific contact center experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific ai platform experience": {
+    "count": 3,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "detailed programming languages required": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific cloud software engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "reflexive concepts technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with ai platforms": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
