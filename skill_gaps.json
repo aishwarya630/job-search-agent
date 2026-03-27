@@ -65,9 +65,9 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-27"
   },
   "specific experience with github actions": {
     "count": 1,
@@ -2540,9 +2540,9 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "natural language processing experience": {
     "count": 1,
@@ -11191,6 +11191,86 @@
   },
   "knowledge of space-related systems": {
     "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific aws services like cloudwatch": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "cloudformation": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific software support experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "xifin's product knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific cloud platform skills like azure": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with snowflake's products": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "apache iceberg": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with on-board autonomy": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "java spring boot": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific skills in system architecture": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "nuclear industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific system planning skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with system planning tools": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with salesforce platform": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "java spring boot experience": {
+    "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "6+ years of experience": {
+    "count": 2,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
   }
