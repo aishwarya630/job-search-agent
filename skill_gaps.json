@@ -2185,9 +2185,9 @@
     "last_seen": "2026-03-25"
   },
   "specific experience with cloudflare products": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-27"
   },
   "specific q2 technology stack": {
     "count": 2,
@@ -2755,7 +2755,7 @@
     "last_seen": "2026-03-17"
   },
   "specific fullstack development experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-27"
   },
@@ -3645,9 +3645,9 @@
     "last_seen": "2026-03-26"
   },
   "specific software development experience": {
-    "count": 14,
+    "count": 16,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   ".net": {
     "count": 7,
@@ -10250,9 +10250,9 @@
     "last_seen": "2026-03-26"
   },
   "html/css skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "frontend development framework experience": {
     "count": 1,
@@ -11271,6 +11271,41 @@
   },
   "6+ years of experience": {
     "count": 2,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "systems reliability engineering": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific experience with load balancing software development": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "cloudflare products": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "c/c++ skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific i&c systems engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with industrial control systems": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "c programming skills": {
+    "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
   }
