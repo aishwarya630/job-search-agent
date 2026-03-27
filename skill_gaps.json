@@ -995,7 +995,7 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 46,
+    "count": 47,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-27"
   },
@@ -2975,7 +2975,7 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-27"
   },
@@ -3805,9 +3805,9 @@
     "last_seen": "2026-03-18"
   },
   "specific networking skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-27"
   },
   "us tax knowledge": {
     "count": 1,
@@ -10570,9 +10570,9 @@
     "last_seen": "2026-03-26"
   },
   "specific experience with financial systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-27"
   },
   "data analysis skills": {
     "count": 1,
@@ -11590,6 +11590,16 @@
     "last_seen": "2026-03-27"
   },
   "specific experience with ai platforms": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "specific fintech domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27"
+  },
+  "experience with certain fintech platforms": {
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
