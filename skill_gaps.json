@@ -685,7 +685,7 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 85,
+    "count": 88,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-28"
   },
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 128,
+    "count": 129,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "mobile development experience": {
     "count": 4,
@@ -1555,9 +1555,9 @@
     "last_seen": "2026-03-27"
   },
   "mechanical engineering": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-28"
   },
   "maintenance": {
     "count": 2,
@@ -2885,9 +2885,9 @@
     "last_seen": "2026-03-17"
   },
   "specific java skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "experience with required technologies": {
     "count": 4,
@@ -3470,9 +3470,9 @@
     "last_seen": "2026-03-18"
   },
   "experience with security tools": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-28"
   },
   "senior-level skills": {
     "count": 3,
@@ -3620,9 +3620,9 @@
     "last_seen": "2026-03-18"
   },
   "mechanical engineering skills": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-28"
   },
   "experience in launch infrastructure": {
     "count": 1,
@@ -6060,9 +6060,9 @@
     "last_seen": "2026-03-20"
   },
   "data engineering specific skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "cybersecurity knowledge": {
     "count": 1,
@@ -7605,9 +7605,9 @@
     "last_seen": "2026-03-22"
   },
   "programming languages other than python": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-28"
   },
   "specific deployment site experience": {
     "count": 1,
@@ -11935,6 +11935,51 @@
     "last_seen": "2026-03-28"
   },
   "specific java development skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific mention of lensa's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with lensa's technology stack": {
+    "count": 8,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with consumer experience software development": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "openshift experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific endpoint": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "software vulnerability skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "security specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "thermal systems": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "industrial systems skills": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
