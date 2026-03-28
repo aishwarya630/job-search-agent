@@ -685,7 +685,7 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 88,
+    "count": 92,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-28"
   },
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 140,
+    "count": 141,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-28"
   },
@@ -3110,9 +3110,9 @@
     "last_seen": "2026-03-21"
   },
   "experience with agile development methodologies": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-28"
   },
   "specific experience with lockheed martin's technology stack": {
     "count": 1,
@@ -12586,6 +12586,16 @@
   },
   "specific domain knowledge": {
     "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with audio or media streaming technologies": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "experience with epic systems": {
+    "count": 4,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
   }
