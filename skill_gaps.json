@@ -1910,9 +1910,9 @@
     "last_seen": "2026-03-17"
   },
   "experience with computer vision": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-28"
   },
   "machine learning": {
     "count": 21,
@@ -5445,9 +5445,9 @@
     "last_seen": "2026-03-20"
   },
   "ts/sci security clearance": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-28"
   },
   "specific experience with syncsketch": {
     "count": 1,
@@ -6135,9 +6135,9 @@
     "last_seen": "2026-03-20"
   },
   "experience with containerization": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-28"
   },
   "java programming skills": {
     "count": 2,
@@ -8520,9 +8520,9 @@
     "last_seen": "2026-03-24"
   },
   "networking specific skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-28"
   },
   "specific experience with snowflake database": {
     "count": 1,
@@ -12650,6 +12650,31 @@
     "last_seen": "2026-03-28"
   },
   "automation skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific mention of azure or aws experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "ci/cd pipeline experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific mention of machine learning or ai experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "cloud networking experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific mention of ai or machine learning experience": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
