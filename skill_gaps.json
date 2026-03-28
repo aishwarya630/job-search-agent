@@ -2885,7 +2885,7 @@
     "last_seen": "2026-03-17"
   },
   "specific java skills": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-28"
   },
@@ -8670,9 +8670,9 @@
     "last_seen": "2026-03-24"
   },
   "detailed networking knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-28"
   },
   "detailed systems engineering knowledge": {
     "count": 1,
@@ -12210,6 +12210,36 @@
     "last_seen": "2026-03-28"
   },
   "experience with wiraa's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "not enough information to determine missing skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "detailed knowledge of java frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "relevant ship building experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "engineering skills specific to the maritime industry": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "design engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific design tools or software": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
