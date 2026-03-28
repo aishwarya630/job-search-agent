@@ -1345,9 +1345,9 @@
     "last_seen": "2026-03-16"
   },
   "statistical modeling": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-28"
   },
   "no specific frontend framework or css experience mentioned in the resume": {
     "count": 1,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 141,
+    "count": 143,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-28"
   },
@@ -2465,9 +2465,9 @@
     "last_seen": "2026-03-17"
   },
   "e.g. proficiency in a particular programming language": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-28"
   },
   "specific cloud platform (aws/azure) not mentioned": {
     "count": 1,
@@ -8155,9 +8155,9 @@
     "last_seen": "2026-03-23"
   },
   "data analysis": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-28"
   },
   "specific experience with ptc products": {
     "count": 1,
@@ -10275,9 +10275,9 @@
     "last_seen": "2026-03-26"
   },
   "electrical engineering": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "all the required skills": {
     "count": 1,
@@ -10685,9 +10685,9 @@
     "last_seen": "2026-03-26"
   },
   "control systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "airport systems knowledge": {
     "count": 1,
@@ -12635,6 +12635,21 @@
     "last_seen": "2026-03-28"
   },
   "experience with global payment systems": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "experience with cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "data visualization skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "automation skills": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
