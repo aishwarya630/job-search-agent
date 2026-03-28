@@ -685,9 +685,9 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 82,
+    "count": 85,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "experience with specific technologies": {
     "count": 9,
@@ -1325,9 +1325,9 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 25,
+    "count": 26,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "leadership skills": {
     "count": 9,
@@ -1630,19 +1630,19 @@
     "last_seen": "2026-03-26"
   },
   "nursing degree": {
-    "count": 3,
-    "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
-  },
-  "medical experience": {
-    "count": 3,
-    "first_seen": "2026-03-16",
-    "last_seen": "2026-03-19"
-  },
-  "relevant certifications": {
     "count": 4,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-17"
+    "last_seen": "2026-03-28"
+  },
+  "medical experience": {
+    "count": 4,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-28"
+  },
+  "relevant certifications": {
+    "count": 5,
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-28"
   },
   "such as machine learning frameworks or natural language processing": {
     "count": 1,
@@ -7595,9 +7595,9 @@
     "last_seen": "2026-03-22"
   },
   "specific healthcare or medical software development experience": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-28"
   },
   "healthcare industry experience": {
     "count": 7,
@@ -11903,5 +11903,40 @@
     "count": 1,
     "first_seen": "2026-03-27",
     "last_seen": "2026-03-27"
+  },
+  "experience with agile development": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific tableau development skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "experience with data visualization": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "experience with freelance work": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific tech lead experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "technical skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific java development skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
   }
 }
