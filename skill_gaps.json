@@ -1325,7 +1325,7 @@
     "last_seen": "2026-03-16"
   },
   "senior-level experience": {
-    "count": 26,
+    "count": 27,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-28"
   },
@@ -2355,14 +2355,14 @@
     "last_seen": "2026-03-17"
   },
   "all technical skills": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "experience": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific programming languages required by the job": {
     "count": 1,
@@ -2380,9 +2380,9 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 19,
+    "count": 21,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "web application development": {
     "count": 1,
@@ -2540,9 +2540,9 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 19,
+    "count": 22,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "natural language processing experience": {
     "count": 1,
@@ -2960,9 +2960,9 @@
     "last_seen": "2026-03-17"
   },
   "software development skills": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-28"
   },
   "experience in care management or healthcare": {
     "count": 1,
@@ -3235,9 +3235,9 @@
     "last_seen": "2026-03-18"
   },
   "relevant experience": {
-    "count": 11,
+    "count": 13,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "specific cloud platform expertise beyond azure": {
     "count": 1,
@@ -4715,9 +4715,9 @@
     "last_seen": "2026-03-19"
   },
   "c++ skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "ios development skills": {
     "count": 1,
@@ -12265,6 +12265,21 @@
     "last_seen": "2026-03-28"
   },
   "automotive industry knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "experience with healthcare data": {
+    "count": 3,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific ai application engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific bim/cad experience": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
