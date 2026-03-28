@@ -1140,9 +1140,9 @@
     "last_seen": "2026-03-23"
   },
   "specific sre tools": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "technologies": {
     "count": 10,
@@ -1725,9 +1725,9 @@
     "last_seen": "2026-03-25"
   },
   "specific programming languages": {
-    "count": 29,
+    "count": 30,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "cloud provider expertise": {
     "count": 1,
@@ -4400,7 +4400,7 @@
     "last_seen": "2026-03-19"
   },
   "research experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-19",
     "last_seen": "2026-03-28"
   },
@@ -7970,9 +7970,9 @@
     "last_seen": "2026-03-23"
   },
   "technologies not mentioned in the resume": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific programming languages required by wiraa": {
     "count": 1,
@@ -10750,9 +10750,9 @@
     "last_seen": "2026-03-26"
   },
   "specific financial domain knowledge": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific software automation skills": {
     "count": 1,
@@ -12560,6 +12560,31 @@
     "last_seen": "2026-03-28"
   },
   "specific reliability engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific programming languages required by epic": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "iot experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "quantitative analysis": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "electric system control": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific domain knowledge": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
