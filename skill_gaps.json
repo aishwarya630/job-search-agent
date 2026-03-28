@@ -795,9 +795,9 @@
     "last_seen": "2026-03-27"
   },
   "security clearance": {
-    "count": 84,
+    "count": 85,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "us citizenship": {
     "count": 12,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 129,
+    "count": 132,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-28"
   },
@@ -1665,9 +1665,9 @@
     "last_seen": "2026-03-27"
   },
   "specific systems engineering experience": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "ios development experience": {
     "count": 9,
@@ -3645,9 +3645,9 @@
     "last_seen": "2026-03-26"
   },
   "specific software development experience": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   ".net": {
     "count": 7,
@@ -3880,9 +3880,9 @@
     "last_seen": "2026-03-18"
   },
   "model-based systems engineering experience": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific medical systems experience": {
     "count": 1,
@@ -5480,9 +5480,9 @@
     "last_seen": "2026-03-26"
   },
   "specific software testing skills": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-28"
   },
   "specific experience with full-stack development": {
     "count": 3,
@@ -9215,9 +9215,9 @@
     "last_seen": "2026-03-24"
   },
   "software engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-28"
   },
   "specific cloud systems engineer skills not mentioned in resume": {
     "count": 2,
@@ -9645,9 +9645,9 @@
     "last_seen": "2026-03-25"
   },
   "systems engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific technology stacks or frameworks not mentioned in the resume": {
     "count": 2,
@@ -12020,7 +12020,7 @@
     "last_seen": "2026-03-28"
   },
   "test engineering experience": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
   },
@@ -12080,6 +12080,51 @@
     "last_seen": "2026-03-28"
   },
   "space/defense skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "detailed tech stack": {
+    "count": 3,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific program protection experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific c5i platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "system engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific software integration experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "missile defense knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "defense industry knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "cameo/sysml": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific mission/event analysis experience": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
