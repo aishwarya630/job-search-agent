@@ -1505,9 +1505,9 @@
     "last_seen": "2026-03-16"
   },
   "web development skills": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-28"
   },
   "specific programming languages for web development": {
     "count": 1,
@@ -5035,9 +5035,9 @@
     "last_seen": "2026-03-19"
   },
   "testing skills": {
-    "count": 4,
+    "count": 7,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "frontend skills": {
     "count": 1,
@@ -5525,9 +5525,9 @@
     "last_seen": "2026-03-20"
   },
   "specific automotive industry experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-28"
   },
   "platform integration skills": {
     "count": 1,
@@ -9345,9 +9345,9 @@
     "last_seen": "2026-03-25"
   },
   "specific financial industry experience": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "including programming languages": {
     "count": 1,
@@ -12030,6 +12030,56 @@
     "last_seen": "2026-03-28"
   },
   "or banking experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific genai platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific medical device industry experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "embedded systems knowledge": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "sas": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific embedded systems experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "medical device industry knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "hardware": {
+    "count": 4,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "calibration skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "gnc": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "space/defense skills": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
