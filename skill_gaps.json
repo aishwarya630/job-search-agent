@@ -45,9 +45,9 @@
     "last_seen": "2026-03-14"
   },
   "processes": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-14"
+    "last_seen": "2026-03-28"
   },
   "reporting": {
     "count": 1,
@@ -10820,9 +10820,9 @@
     "last_seen": "2026-03-26"
   },
   "experience with manufacturing systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific mention of soar365's tech stack": {
     "count": 1,
@@ -12675,6 +12675,11 @@
     "last_seen": "2026-03-28"
   },
   "specific mention of ai or machine learning experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "manufacturing engineering skills": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
