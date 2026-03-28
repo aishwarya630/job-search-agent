@@ -1225,9 +1225,9 @@
     "last_seen": "2026-03-18"
   },
   "most technical skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-28"
   },
   "specific industry experience": {
     "count": 16,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 134,
+    "count": 136,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-28"
   },
@@ -1570,14 +1570,14 @@
     "last_seen": "2026-03-16"
   },
   "none mentioned": {
-    "count": 32,
+    "count": 33,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "specific cloud platform (aws/azure) experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-28"
   },
   "data engineering experience": {
     "count": 2,
@@ -3570,9 +3570,9 @@
     "last_seen": "2026-03-18"
   },
   "specific industry knowledge": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-28"
   },
   "specific vision system deployment experience": {
     "count": 1,
@@ -4655,14 +4655,14 @@
     "last_seen": "2026-03-26"
   },
   "cloud": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "devops": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "controls systems": {
     "count": 1,
@@ -6585,9 +6585,9 @@
     "last_seen": "2026-03-21"
   },
   "ai/ml expertise": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-28"
   },
   "specific experience with ai solutions architecture": {
     "count": 1,
@@ -7280,9 +7280,9 @@
     "last_seen": "2026-03-22"
   },
   "relevant engineering skills": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-28"
   },
   "specific experience with wiraa's tech stack": {
     "count": 1,
@@ -12310,6 +12310,61 @@
     "last_seen": "2026-03-28"
   },
   "relevant mechanical engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific ocm system skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "experience with pharmaceutical industry": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific engineering tooling expertise": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "industry expertise": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific health industry knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "power plant software expertise": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "all technical skills required": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "android development experience": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "mobile platform expertise": {
+    "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "energy systems": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "ot/scada experience": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
