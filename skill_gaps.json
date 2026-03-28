@@ -1135,9 +1135,9 @@
     "last_seen": "2026-03-28"
   },
   "data warehousing": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-28"
   },
   "specific sre tools": {
     "count": 8,
@@ -2380,7 +2380,7 @@
     "last_seen": "2026-03-17"
   },
   "specific full-stack development experience": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-28"
   },
@@ -2760,9 +2760,9 @@
     "last_seen": "2026-03-28"
   },
   "react or angular": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "hardware experience": {
     "count": 5,
@@ -12695,6 +12695,36 @@
     "last_seen": "2026-03-28"
   },
   "specific experience with dragonfly portfolio": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with cloud data platforms": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "data engineering": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with ai frameworks like tensorflow or pytorch": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with agile development methodologies": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with react native": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "mobile app development": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
