@@ -685,7 +685,7 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 92,
+    "count": 93,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-28"
   },
@@ -710,9 +710,9 @@
     "last_seen": "2026-03-15"
   },
   "programming languages required for the role": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-28"
   },
   "specific devops tools like jenkins": {
     "count": 24,
@@ -12725,6 +12725,16 @@
     "last_seen": "2026-03-28"
   },
   "mobile app development": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific model-based engineering skills or experience with similar technologies": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific medical device or software development experience": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
