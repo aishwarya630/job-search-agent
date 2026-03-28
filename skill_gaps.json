@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 23,
+    "count": 24,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -715,9 +715,9 @@
     "last_seen": "2026-03-15"
   },
   "specific devops tools like jenkins": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "or ansible not mentioned in the resume": {
     "count": 4,
@@ -1155,9 +1155,9 @@
     "last_seen": "2026-03-16"
   },
   "specific sre experience": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-28"
   },
   "specific latam requirements": {
     "count": 1,
@@ -4215,9 +4215,9 @@
     "last_seen": "2026-03-18"
   },
   "all technical skills required for the role": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-18"
+    "last_seen": "2026-03-28"
   },
   "specific software development skills for microchip technology": {
     "count": 1,
@@ -7825,9 +7825,9 @@
     "last_seen": "2026-03-23"
   },
   "specific technology stack used by the company": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-28"
   },
   "specific experience with ai models": {
     "count": 1,
@@ -11235,9 +11235,9 @@
     "last_seen": "2026-03-27"
   },
   "java spring boot": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "specific skills in system architecture": {
     "count": 1,
@@ -11270,9 +11270,9 @@
     "last_seen": "2026-03-27"
   },
   "6+ years of experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "systems reliability engineering": {
     "count": 1,
@@ -12166,6 +12166,26 @@
   },
   "detailed job description not provided": {
     "count": 2,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific cloud architecture experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "cloud security knowledge": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "programming languages like java or c++": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "4+ years of experience": {
+    "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
   }
