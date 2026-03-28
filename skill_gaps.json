@@ -3475,9 +3475,9 @@
     "last_seen": "2026-03-28"
   },
   "senior-level skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-18",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-28"
   },
   "thermal protection systems experience": {
     "count": 1,
@@ -5150,9 +5150,9 @@
     "last_seen": "2026-03-25"
   },
   "system engineering expertise": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-28"
   },
   "consulting experience": {
     "count": 1,
@@ -8315,9 +8315,9 @@
     "last_seen": "2026-03-23"
   },
   "teaching experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-28"
   },
   "expertise in mechanical engineering systems": {
     "count": 1,
@@ -10630,9 +10630,9 @@
     "last_seen": "2026-03-26"
   },
   "specific api development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-28"
   },
   "specific skills required for the job are not mentioned": {
     "count": 1,
@@ -12170,7 +12170,7 @@
     "last_seen": "2026-03-28"
   },
   "specific cloud architecture experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
   },
@@ -12470,6 +12470,31 @@
     "last_seen": "2026-03-28"
   },
   "specific vp-level skills": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific ltamds platform experience": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "specific experience with additive manufacturing": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "aerospace industry": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "academic": {
+    "count": 1,
+    "first_seen": "2026-03-28",
+    "last_seen": "2026-03-28"
+  },
+  "space systems engineering expertise": {
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
