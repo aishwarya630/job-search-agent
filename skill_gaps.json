@@ -995,7 +995,7 @@
     "last_seen": "2026-03-16"
   },
   "job description not provided": {
-    "count": 49,
+    "count": 50,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-29"
   },
@@ -2975,9 +2975,9 @@
     "last_seen": "2026-03-17"
   },
   "unable to determine missing skills": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-29"
   },
   "do-178 specific skills": {
     "count": 1,
@@ -12855,6 +12855,16 @@
     "last_seen": "2026-03-29"
   },
   "red teaming skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "aviation systems engineering experience": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific aviation-related skills": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
