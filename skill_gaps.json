@@ -795,9 +795,9 @@
     "last_seen": "2026-03-29"
   },
   "security clearance": {
-    "count": 89,
+    "count": 91,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "us citizenship": {
     "count": 12,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 77,
+    "count": 78,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-29"
   },
@@ -1250,9 +1250,9 @@
     "last_seen": "2026-03-16"
   },
   "leadership experience": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific technical skills required for the role": {
     "count": 6,
@@ -4510,9 +4510,9 @@
     "last_seen": "2026-03-24"
   },
   "onsite requirement": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-19"
+    "last_seen": "2026-03-29"
   },
   "specific systems administration experience": {
     "count": 1,
@@ -8315,9 +8315,9 @@
     "last_seen": "2026-03-23"
   },
   "teaching experience": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "expertise in mechanical engineering systems": {
     "count": 1,
@@ -8740,9 +8740,9 @@
     "last_seen": "2026-03-24"
   },
   "specific infrastructure engineering skills": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-24",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-29"
   },
   "experience with azure development": {
     "count": 1,
@@ -12790,6 +12790,26 @@
     "last_seen": "2026-03-29"
   },
   "or specific cloud platforms like azure or google cloud": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with aerospace industry": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "phd in relevant field": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with edi": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with government projects": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
