@@ -685,7 +685,7 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 102,
+    "count": 104,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-29"
   },
@@ -1795,9 +1795,9 @@
     "last_seen": "2026-03-16"
   },
   "relevant technical skills": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific security clearance or us citizenship requirements not mentioned in provided job details": {
     "count": 1,
@@ -2355,9 +2355,9 @@
     "last_seen": "2026-03-17"
   },
   "all technical skills": {
-    "count": 19,
+    "count": 22,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "experience": {
     "count": 13,
@@ -10540,9 +10540,9 @@
     "last_seen": "2026-03-26"
   },
   "spacecraft systems engineering experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-29"
   },
   "specific skills related to spacecraft engineering": {
     "count": 1,
@@ -13046,6 +13046,31 @@
   },
   "mobile app development skills": {
     "count": 2,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific sandboxing experience": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "low-level systems programming skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with haystack's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with jvm": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with relevant technologies": {
+    "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
   }
