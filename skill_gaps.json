@@ -2240,7 +2240,7 @@
     "last_seen": "2026-03-19"
   },
   "ai/ml experience": {
-    "count": 5,
+    "count": 9,
     "first_seen": "2026-03-17",
     "last_seen": "2026-03-29"
   },
@@ -12600,9 +12600,9 @@
     "last_seen": "2026-03-29"
   },
   "specific ai frameworks": {
-    "count": 4,
+    "count": 8,
     "first_seen": "2026-03-28",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific experience with ascension's tech stack": {
     "count": 1,
@@ -13115,6 +13115,16 @@
     "last_seen": "2026-03-29"
   },
   "azure data bricks experience": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "all required skills for the role (nursing skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "healthcare experience)": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
