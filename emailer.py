@@ -6,7 +6,7 @@ import os
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime
-from config import YOUR_EMAIL, YOUR_NAME
+from config import RECIPIENT_EMAILS, YOUR_NAME
 
 def send_email(jobs):
     if not jobs:
@@ -78,13 +78,14 @@ def send_email(jobs):
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = smtp_user
-    msg["To"] = YOUR_EMAIL
+    from config import RECIPIENT_EMAILS
+    msg["To"] = ", ".join(RECIPIENT_EMAILS)    
     msg.attach(MIMEText(html, "html"))
 
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(smtp_user, smtp_password)
-            server.sendmail(smtp_user, YOUR_EMAIL, msg.as_string())
+            server.sendmail(smtp_user, RECIPIENT_EMAILS, msg.as_string())
             print(f"✅ Email sent — {len(jobs)} matches")
     except Exception as e:
         print(f"❌ Email failed: {e}")

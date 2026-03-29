@@ -57,6 +57,8 @@ def run():
                 print(f"  ⚠️  {keyword} in {location} — scraper blocked")
             elif status == "no_matches":
                 print(f"  ℹ️  {keyword} in {location} — no matches above {MIN_SCORE}/10")
+            elif status == "already_seen":
+                print(f"  ⏭️  {keyword} in {location} — all jobs already seen")
             else:
                 print(f"  ✅ {keyword} in {location} — {len(new_jobs)} new matches")
                 for job in new_jobs:
@@ -78,7 +80,10 @@ def run():
         for skill, count in recommendations[:10]:
             print(f"   {skill}: seen in {count} jobs")
 
+    all_jobs = [j for j in all_jobs if j.get("score", 0) >= MIN_SCORE]
+    print(f"Total new matches above {MIN_SCORE}/10: {len(all_jobs)}")
     send_email(all_jobs)
+
 
 if __name__ == "__main__":
     run()

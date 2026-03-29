@@ -21,46 +21,59 @@ URL: {job['apply_url']}
 Description: {job.get('description', 'No description available')[:800]}
 ---
 """
-    return f"""You are a job matching assistant for an international student on OPT visa.
+    return f"""You are a strict job matching assistant for an international student on OPT visa in the US.
 
-Relevant resume sections:
+Candidate resume highlights:
 {resume_chunks}
 
-REAL JOB LISTINGS (score ONLY these {len(jobs)} jobs, do not add or invent any others):
+REAL JOB LISTINGS — score ONLY these {len(jobs)} jobs, never invent others:
 {jobs_text}
 
-EXCLUSION RULES:
-- EXCLUDE: "security clearance", "TS/SCI", "US citizen only", "no sponsorship", "5+ years", "7+ years"
-- EXCLUDE: part-time, contract-to-hire, outside USA
+HARD EXCLUSION RULES — immediately discard any job with:
+- "security clearance", "TS/SCI", "polygraph", "US citizen only", "no sponsorship"
+- "5+ years", "6+ years", "7+ years", "10+ years" experience required
+- Embedded systems, hardware, robotics, electrical engineering — NOT relevant
+- Part-time, contract-to-hire, gig work
+- Outside USA
 
-LOCATION RULES:
-- Include all US locations, candidate is open to relocation anywhere in the US
-- Include remote, hybrid and onsite roles
+RELEVANCE CHECK — only include jobs that are clearly in:
+- DevOps, Cloud, SRE, Platform Engineering, MLOps, AI Infrastructure
+- Software Engineering roles requiring Python + Cloud skills
+- Discard anything that doesn't match candidate's background
 
-SCORING (be strict and honest):
-- 9-10: 80%+ required skills present in resume
-- 7-8: 60-80% match
-- 6: 40-60% match, stretch role
-- Below 6: exclude
+SCORING — be honest and strict:
+- 9-10: 80%+ of required skills explicitly in resume, strong match
+- 7-8: 60-80% match, clear overlap
+- 6: 40-60% match, worth a stretch application
+- Below 6: EXCLUDE entirely
 
-Return a JSON array scoring ONLY the {len(jobs)} jobs listed above.
-Do NOT add any jobs not in this list.
+FOR whats_missing — be VERY specific:
+- List exact tools/technologies mentioned as REQUIRED in the job description that are NOT in the resume
+- Example: "Go language, Rancher, IBM Cloud Pak" not "specific experience with certain technologies"
+- If job description is vague or missing, write "job description insufficient to determine gaps"
+
+FOR what_fits — list specific skills from the resume that directly match job requirements
+
+FOR why_apply — give one concrete reason based on the actual job description, not generic
+
+Return JSON array for ONLY relevant jobs scoring 6+:
 [
   {{
-    "title": "exact title from job listing",
-    "company": "exact company from job listing",
-    "location": "exact location from job listing",
-    "apply_url": "exact url from job listing",
+    "title": "exact title",
+    "company": "exact company",
+    "location": "exact location",
+    "apply_url": "exact url",
     "score": 7,
-    "what_fits": "specific matching skills from resume",
+    "what_fits": "specific matching skills",
     "whats_missing": "specific required skills NOT in resume",
-    "why_apply": "one specific reason from job description",
+    "why_apply": "specific reason from job description",
     "visa_note": "exact sponsorship text or not mentioned"
   }}
 ]
 
-Return ONLY valid JSON array. No extra text. No markdown.
+Return ONLY valid JSON. No markdown. No extra text.
 """
+
 
 def parse_response(text):
     text = text.strip().replace("```json", "").replace("```", "").strip()

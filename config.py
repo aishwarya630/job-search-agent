@@ -1,8 +1,10 @@
 from dotenv import load_dotenv
 load_dotenv()
 
-RESUME_PATH = "resume.pdf"# Your details
-YOUR_EMAIL = "aanair4@wisc.edu"
+RECIPIENT_EMAILS = [
+    "aanair4@wisc.edu",
+    "aishunair0607@gmail.com",  # add any email here
+]
 YOUR_NAME = "Aishwarya Aravind Nair"
 
 # Job search preferences

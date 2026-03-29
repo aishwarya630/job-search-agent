@@ -28,16 +28,24 @@ def track_missing_skills(jobs):
         # Split by comma, semicolon or "and"
         skills = [s.strip() for s in missing.replace(";", ",").replace(" and ", ",").split(",")]
         
+        # Skip obvious non-skills
+        SKIP_PHRASES = ["specific experience", "certain technologies", "not mentioned",
+    "which are not", "as well as", "or vue", "tflite)", "or mongodb",
+    "experience with specific", "specific details", "relevant technologies"
+]
+
         for skill in skills:
             skill = skill.strip().lower()
-            if len(skill) < 3:
+            if len(skill) < 3 or len(skill) > 50:
+                continue
+            if any(skip in skill for skip in SKIP_PHRASES):
                 continue
             if skill not in data:
                 data[skill] = {"count": 0, "first_seen": today, "last_seen": today}
             data[skill]["count"] += 1
             data[skill]["last_seen"] = today
 
-    save_skill_gaps(data)
+            save_skill_gaps(data)
 
 def get_skill_recommendations(threshold=5):
     """Return skills that appear in more than threshold jobs"""
