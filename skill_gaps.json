@@ -2630,9 +2630,9 @@
     "last_seen": "2026-03-17"
   },
   "required skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-29"
   },
   "compliance experience": {
     "count": 1,
@@ -5055,9 +5055,9 @@
     "last_seen": "2026-03-27"
   },
   "linux": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-19",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-29"
   },
   "endpoint security experience": {
     "count": 1,
@@ -7825,9 +7825,9 @@
     "last_seen": "2026-03-23"
   },
   "specific technology stack used by the company": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific experience with ai models": {
     "count": 1,
@@ -9955,9 +9955,9 @@
     "last_seen": "2026-03-25"
   },
   "specific experience with ai": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-25",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-29"
   },
   "specific experience with agentic commerce": {
     "count": 1,
@@ -11380,14 +11380,14 @@
     "last_seen": "2026-03-27"
   },
   "specific experience with event sourcing": {
-    "count": 2,
-    "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27"
-  },
-  "stream processing": {
     "count": 3,
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-29"
+  },
+  "stream processing": {
+    "count": 4,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-29"
   },
   "specific skills related to event sourcing": {
     "count": 1,
@@ -11470,9 +11470,9 @@
     "last_seen": "2026-03-27"
   },
   "trading systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-27",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-29"
   },
   "but likely includes additional backend engineering skills": {
     "count": 1,
@@ -12900,6 +12900,76 @@
     "last_seen": "2026-03-29"
   },
   "specific security-related skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with verkada's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "deep knowledge of networking protocols": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with the company's technology stack": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with mail software": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "exact match for required skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with risk management": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific details about the role": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "machine learning technologies": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with identity security": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with c++": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "ood/oop": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with energy systems": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "ot/scada": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with operational technology systems": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
