@@ -1545,9 +1545,9 @@
     "last_seen": "2026-03-26"
   },
   "embedded software development": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16"
+    "last_seen": "2026-03-29"
   },
   "systems engineering experience": {
     "count": 7,
@@ -12775,6 +12775,16 @@
     "last_seen": "2026-03-29"
   },
   "or aerospace engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "vhdl": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "electronics engineering": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
