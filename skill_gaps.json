@@ -205,9 +205,9 @@
     "last_seen": "2026-03-15"
   },
   "sagemaker": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-29"
   },
   "aws glue": {
     "count": 1,
@@ -685,7 +685,7 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 113,
+    "count": 114,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-29"
   },
@@ -790,7 +790,7 @@
     "last_seen": "2026-03-25"
   },
   "testing frameworks": {
-    "count": 29,
+    "count": 30,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-29"
   },
@@ -1080,9 +1080,9 @@
     "last_seen": "2026-03-16"
   },
   "specific machine learning skills": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-23"
+    "last_seen": "2026-03-29"
   },
   "experience with bioinformatics": {
     "count": 1,
@@ -1240,7 +1240,7 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 78,
+    "count": 79,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-29"
   },
@@ -1305,9 +1305,9 @@
     "last_seen": "2026-03-16"
   },
   "gitlab": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-24"
+    "last_seen": "2026-03-29"
   },
   "specific cloud security skills": {
     "count": 18,
@@ -1425,7 +1425,7 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 145,
+    "count": 147,
     "first_seen": "2026-03-16",
     "last_seen": "2026-03-29"
   },
@@ -5280,9 +5280,9 @@
     "last_seen": "2026-03-20"
   },
   "quality assurance skills": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-03-29"
   },
   "specific research experience": {
     "count": 2,
@@ -12085,9 +12085,9 @@
     "last_seen": "2026-03-28"
   },
   "detailed tech stack": {
-    "count": 3,
+    "count": 5,
     "first_seen": "2026-03-28",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific program protection experience": {
     "count": 1,
@@ -13125,6 +13125,26 @@
     "last_seen": "2026-03-29"
   },
   "healthcare experience)": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with dice's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with mcdermott's tech stack": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "flight test experience": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "systems engineering skills specific to aerospace": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
