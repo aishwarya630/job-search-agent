@@ -685,9 +685,9 @@
     "last_seen": "2026-03-27"
   },
   "specific software development skills": {
-    "count": 93,
+    "count": 101,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "experience with specific technologies": {
     "count": 9,
@@ -1240,9 +1240,9 @@
     "last_seen": "2026-03-24"
   },
   "specific systems engineering skills": {
-    "count": 76,
+    "count": 77,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific infrastructure engineer skills like network architecture": {
     "count": 1,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-03-16"
   },
   "specific software engineering skills": {
-    "count": 143,
+    "count": 144,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "mobile development experience": {
     "count": 4,
@@ -1860,9 +1860,9 @@
     "last_seen": "2026-03-17"
   },
   "cloud experience": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "experience with chewy's tech stack": {
     "count": 1,
@@ -2540,9 +2540,9 @@
     "last_seen": "2026-03-17"
   },
   "specific ai/ml skills": {
-    "count": 24,
+    "count": 25,
     "first_seen": "2026-03-17",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "natural language processing experience": {
     "count": 1,
@@ -6355,9 +6355,9 @@
     "last_seen": "2026-03-21"
   },
   "systems": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-21"
+    "last_seen": "2026-03-29"
   },
   "specific cloud engineer skills like ansible": {
     "count": 1,
@@ -7050,9 +7050,9 @@
     "last_seen": "2026-03-21"
   },
   "ci/cd": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-21",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-03-29"
   },
   "specific experience with fennec software": {
     "count": 1,
@@ -10375,9 +10375,9 @@
     "last_seen": "2026-03-26"
   },
   "mlops experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-29"
   },
   "specific ai/intelligent systems experience": {
     "count": 1,
@@ -12753,5 +12753,30 @@
     "count": 1,
     "first_seen": "2026-03-28",
     "last_seen": "2026-03-28"
+  },
+  "specific lensa technologies or tools": {
+    "count": 2,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific flight software skills": {
+    "count": 2,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with starlink": {
+    "count": 2,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "mechanical": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "or aerospace engineering skills": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
   }
 }
