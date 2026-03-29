@@ -1505,9 +1505,9 @@
     "last_seen": "2026-03-16"
   },
   "web development skills": {
-    "count": 10,
+    "count": 18,
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-29"
   },
   "specific programming languages for web development": {
     "count": 1,
@@ -7475,9 +7475,9 @@
     "last_seen": "2026-03-22"
   },
   "mobile app development experience": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-22",
-    "last_seen": "2026-03-22"
+    "last_seen": "2026-03-29"
   },
   "html": {
     "count": 9,
@@ -10420,9 +10420,9 @@
     "last_seen": "2026-03-26"
   },
   "design experience": {
-    "count": 1,
+    "count": 9,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26"
+    "last_seen": "2026-03-29"
   },
   "space systems experience": {
     "count": 1,
@@ -13070,6 +13070,36 @@
     "last_seen": "2026-03-29"
   },
   "experience with relevant technologies": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with gateway systems": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with networking protocols": {
+    "count": 2,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with ai/ml": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with specific api frameworks": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "experience with specific mobile platforms": {
+    "count": 1,
+    "first_seen": "2026-03-29",
+    "last_seen": "2026-03-29"
+  },
+  "specific experience with fortinet products": {
     "count": 1,
     "first_seen": "2026-03-29",
     "last_seen": "2026-03-29"
