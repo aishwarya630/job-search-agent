@@ -34,7 +34,7 @@ HARD EXCLUSION RULES — immediately discard any job with:
 - "5+ years", "6+ years", "7+ years", "10+ years" experience required
 - Embedded systems, hardware, robotics, electrical engineering — NOT relevant
 - Part-time, contract-to-hire, gig work
-- Outside USA
+- federal government client 
 
 RELEVANCE CHECK — only include jobs that are clearly in:
 - DevOps, Cloud, SRE, Platform Engineering, MLOps, AI Infrastructure
