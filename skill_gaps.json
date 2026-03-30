@@ -205,9 +205,9 @@
     "last_seen": "2026-03-15"
   },
   "sagemaker": {
-    "count": 8,
+    "count": 10,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-29"
+    "last_seen": "2026-03-30"
   },
   "aws glue": {
     "count": 1,
@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 26,
+    "count": 27,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-29"
+    "last_seen": "2026-03-30"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -675,8 +675,43 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 4,
+    "count": 19,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-30"
+  },
+  "security-specific tools": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
+  },
+  "technologies": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
+  },
+  "gitlab experience": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
+  },
+  "azure devops": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
+  },
+  "gitlab": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
+  },
+  "aws": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
+  },
+  "oracle cloud": {
+    "count": 1,
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30"
   }
 }
