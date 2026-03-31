@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-28"
+    "last_seen": "2026-03-31"
   },
   "crossplane": {
     "count": 1,
@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 125,
+    "count": 128,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
