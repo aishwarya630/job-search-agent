@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 157,
+    "count": 161,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
@@ -825,6 +825,16 @@
     "last_seen": "2026-03-31"
   },
   "specific nvidia technologies": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "security clearance required": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "but assuming that's not a skill": {
     "count": 1,
     "first_seen": "2026-03-31",
     "last_seen": "2026-03-31"
