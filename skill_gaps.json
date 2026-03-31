@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 148,
+    "count": 153,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
@@ -785,6 +785,26 @@
     "last_seen": "2026-03-31"
   },
   "or pytorch": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "gcp specific skills": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "ai platforms experience": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "android development experience": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "mobile app development skills": {
     "count": 1,
     "first_seen": "2026-03-31",
     "last_seen": "2026-03-31"
