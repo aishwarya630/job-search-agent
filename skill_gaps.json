@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 144,
+    "count": 148,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
@@ -745,7 +745,7 @@
     "last_seen": "2026-03-30"
   },
   "specific mlops tools like mlflow": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-31",
     "last_seen": "2026-03-31"
   },
@@ -775,6 +775,16 @@
     "last_seen": "2026-03-31"
   },
   "apache kafka": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "tensorflow": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "or pytorch": {
     "count": 1,
     "first_seen": "2026-03-31",
     "last_seen": "2026-03-31"
