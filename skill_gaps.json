@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 153,
+    "count": 155,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
@@ -805,6 +805,16 @@
     "last_seen": "2026-03-31"
   },
   "mobile app development skills": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "specific sre tools like pagerduty": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "specific monitoring tools": {
     "count": 1,
     "first_seen": "2026-03-31",
     "last_seen": "2026-03-31"
