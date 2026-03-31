@@ -20,9 +20,9 @@
     "last_seen": "2026-03-26"
   },
   "pytorch": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-25"
+    "last_seen": "2026-03-31"
   },
   "gpu provisioning": {
     "count": 1,
@@ -743,5 +743,20 @@
     "count": 1,
     "first_seen": "2026-03-30",
     "last_seen": "2026-03-30"
+  },
+  "specific mlops tools like mlflow": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "kubeflow": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "specific ai/ml frameworks like tensorflow": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
   }
 }
