@@ -390,7 +390,7 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
@@ -640,9 +640,9 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-03-31"
   },
   "consul": {
     "count": 1,
@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 130,
+    "count": 139,
     "first_seen": "2026-03-15",
     "last_seen": "2026-03-31"
   },
@@ -695,9 +695,9 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-03-30"
+    "last_seen": "2026-03-31"
   },
   "gitlab": {
     "count": 1,
@@ -765,6 +765,16 @@
     "last_seen": "2026-03-31"
   },
   "java language": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "spring boot": {
+    "count": 1,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31"
+  },
+  "apache kafka": {
     "count": 1,
     "first_seen": "2026-03-31",
     "last_seen": "2026-03-31"
