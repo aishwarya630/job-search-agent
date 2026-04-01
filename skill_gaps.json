@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 199,
+    "count": 205,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-01"
   },
@@ -740,9 +740,9 @@
     "last_seen": "2026-03-30"
   },
   "go language": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-03-30"
+    "last_seen": "2026-04-01"
   },
   "specific mlops tools like mlflow": {
     "count": 2,
@@ -865,6 +865,11 @@
     "last_seen": "2026-04-01"
   },
   "mobile app development experience": {
+    "count": 1,
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-01"
+  },
+  "security clearance": {
     "count": 1,
     "first_seen": "2026-04-01",
     "last_seen": "2026-04-01"
