@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 265,
+    "count": 268,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-03"
   },
@@ -880,6 +880,11 @@
     "last_seen": "2026-04-03"
   },
   "experience with low-latency systems": {
+    "count": 1,
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03"
+  },
+  "ml tooling experience": {
     "count": 1,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03"
