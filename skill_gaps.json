@@ -675,9 +675,9 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 264,
+    "count": 265,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-02"
+    "last_seen": "2026-04-03"
   },
   "security-specific tools": {
     "count": 1,
@@ -873,5 +873,15 @@
     "count": 1,
     "first_seen": "2026-04-01",
     "last_seen": "2026-04-01"
+  },
+  "specific trading domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03"
+  },
+  "experience with low-latency systems": {
+    "count": 1,
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-03"
   }
 }
