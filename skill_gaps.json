@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 329,
+    "count": 337,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-04"
   },
@@ -910,6 +910,16 @@
     "last_seen": "2026-04-04"
   },
   "or envoy": {
+    "count": 1,
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04"
+  },
+  "hpc storage experience": {
+    "count": 1,
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04"
+  },
+  "specific hpc technologies": {
     "count": 1,
     "first_seen": "2026-04-04",
     "last_seen": "2026-04-04"
