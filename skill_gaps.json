@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 27,
+    "count": 28,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-30"
+    "last_seen": "2026-04-04"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -740,9 +740,9 @@
     "last_seen": "2026-03-30"
   },
   "go language": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-01"
+    "last_seen": "2026-04-04"
   },
   "specific mlops tools like mlflow": {
     "count": 2,
@@ -893,5 +893,15 @@
     "count": 1,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03"
+  },
+  "but docker is in the resume": {
+    "count": 1,
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04"
+  },
+  "or ai-related technologies": {
+    "count": 1,
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04"
   }
 }
