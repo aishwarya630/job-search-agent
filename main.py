@@ -12,78 +12,71 @@ import json
 from skill_tracker import track_missing_skills, get_skill_recommendations
 
 def search_and_match(keyword, location, resume_text):
-    print(f"  Starting: {keyword} in {location}...")
-
-    # Step 1 — scrape (pure Python, no AI)
-    jobs = search_jobs(keyword, location)
+    # Step 1 — scrape (Updated to receive logs)
+    jobs, logs = search_jobs(keyword, location)
 
     if not jobs:
-        return keyword, location, [], "blocked"
+        return keyword, location, [], "blocked", logs
 
     # Step 2 — deduplicate
     new_jobs = filter_new_jobs(jobs)
-
     if not new_jobs:
-        return keyword, location, [], "already_seen"
+        return keyword, location, [], "already_seen", logs
 
-    # Step 3 — AI matching (only on real scraped jobs)
+    # Step 3 — AI matching
     matched = match_jobs(new_jobs, resume_text)
-
     if not matched:
-        return keyword, location, [], "no_matches"
+        return keyword, location, [], "no_matches", logs
 
-    return keyword, location, matched, "ok"
+    return keyword, location, matched, "ok", logs
 
 def run():
-    resume_text = extract_resume_text(RESUME_PATH)
-    all_jobs = []
-    seen = set()
+        resume_text = extract_resume_text(RESUME_PATH)
+        all_jobs = []
+        system_logs = []  # <--- Initialize logs here
+        seen = set()
 
-    # Build all search tasks
-    tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
-    print(f"Running {len(tasks)} searches in parallel...\n")
+        tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
+        print(f"Running {len(tasks)} searches in parallel...\n")
 
-    # Run in parallel — 3 at a time to avoid rate limiting
-    with ThreadPoolExecutor(max_workers=3) as executor:
-        futures = {
-            executor.submit(search_and_match, kw, loc, resume_text): (kw, loc)
-            for kw, loc in tasks
-        }
+        # Use 3 workers to stay under the radar
+        with ThreadPoolExecutor(max_workers=3) as executor:
+            futures = {
+                executor.submit(search_and_match, kw, loc, resume_text): (kw, loc)
+                for kw, loc in tasks
+            }
 
-        for future in as_completed(futures):
-            keyword, location, new_jobs, status = future.result()
+            for future in as_completed(futures):
+                # 1. Update search_and_match to return logs (see below)
+                keyword, location, new_jobs, status, logs = future.result()
+                system_logs.extend(logs) # Collect logs from every thread
 
-            if status == "blocked":
-                print(f"  ⚠️  {keyword} in {location} — scraper blocked")
-            elif status == "no_matches":
-                print(f"  ℹ️  {keyword} in {location} — no matches above {MIN_SCORE}/10")
-            elif status == "already_seen":
-                print(f"  ⏭️  {keyword} in {location} — all jobs already seen")
-            else:
-                print(f"  ✅ {keyword} in {location} — {len(new_jobs)} new matches")
-                for job in new_jobs:
-                    key = job.get('apply_url', f"{job['title']}-{job['company']}")
-                    if key not in seen:
-                        seen.add(key)
-                        all_jobs.append(job)
+                if status == "blocked":
+                    print(f"  ⚠️  {keyword} — scraper blocked")
+                elif status == "already_seen":
+                    print(f"  ⏭️  {keyword} — all jobs already seen")
+                else:
+                    print(f"  ✅ {keyword} — {len(new_jobs)} new matches")
+                    for job in new_jobs:
+                        # Deduplicate within this single run
+                        url = job.get('apply_url', '')
+                        if url not in seen:
+                            seen.add(url)
+                            all_jobs.append(job)
 
-    all_jobs.sort(key=lambda x: x["score"], reverse=True)
-    print(f"\nTotal new matches: {len(all_jobs)}")
+        all_jobs.sort(key=lambda x: x.get("score", 0), reverse=True)
+        
+        # Track skills before filtering by score
+        track_missing_skills(all_jobs)
+        
+        # Filter for the email report
+        high_score_matches = [j for j in all_jobs if j.get("score", 0) >= MIN_SCORE]
+        
+        print(f"\nTotal matches found: {len(all_jobs)}")
+        print(f"High-quality matches (>{MIN_SCORE}): {len(high_score_matches)}")
 
-    # Track missing skills
-    track_missing_skills(all_jobs)
-    
-    # Check for skill recommendations
-    recommendations = get_skill_recommendations(threshold=5)
-    if recommendations:
-        print("\n📚 Skills appearing frequently in jobs you're missing:")
-        for skill, count in recommendations[:10]:
-            print(f"   {skill}: seen in {count} jobs")
-
-    all_jobs = [j for j in all_jobs if j.get("score", 0) >= MIN_SCORE]
-    print(f"Total new matches above {MIN_SCORE}/10: {len(all_jobs)}")
-    send_email(all_jobs)
-
+        # Final step: Send the single unified email
+        send_email(high_score_matches, system_logs)
 
 if __name__ == "__main__":
     run()

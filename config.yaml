@@ -1,0 +1,9 @@
+model_list:
+  - model_name: "claude-3-5-sonnet-20241022"
+    litellm_params:
+      model: openai/nvidia/nemotron-3-super-120b-a12b
+      api_key: "nvapi-YOUR-KEY"
+      api_base: "https://integrate.api.nvidia.com/v1"
+      drop_params: true
+      # Add this line to transform Claude's complex messages into simple strings
+      mock_response: "I can see your files. What would you like me to do?"

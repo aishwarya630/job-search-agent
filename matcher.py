@@ -12,15 +12,26 @@ groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 def build_prompt(jobs, resume_chunks):
     jobs_text = ""
     for i, job in enumerate(jobs):
+        # Increased from 800 to 5000 to ensure we catch the bottom of the text
+        full_description = job.get('description', 'No description available')
+        
+        # If the description is massive, we take the start AND the end 
+        # (Where the visa/citizenship info usually hides)
+        if len(full_description) > 6000:
+            desc_sample = full_description[:3000] + "\n[...]\n" + full_description[-2000:]
+        else:
+            desc_sample = full_description
+
         jobs_text += f"""
 JOB {i+1}:
 Title: {job['title']}
 Company: {job['company']}
 Location: {job['location']}
 URL: {job['apply_url']}
-Description: {job.get('description', 'No description available')[:800]}
+Description: {desc_sample}
 ---
 """
+
     return f"""You are a strict job matching assistant for an international student on OPT visa in the US.
 
 Candidate resume highlights:

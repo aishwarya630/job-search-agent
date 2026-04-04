@@ -6,3 +6,5 @@ resume_chunks.pkl
 chroma_db/
 *.bin
 *.safetensors
+bot.html
+bot/
