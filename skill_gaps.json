@@ -675,7 +675,7 @@
     "last_seen": "2026-03-15"
   },
   "job description insufficient to determine gaps": {
-    "count": 327,
+    "count": 329,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-04"
   },
@@ -900,6 +900,16 @@
     "last_seen": "2026-04-04"
   },
   "or ai-related technologies": {
+    "count": 1,
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04"
+  },
+  "istio": {
+    "count": 1,
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04"
+  },
+  "or envoy": {
     "count": 1,
     "first_seen": "2026-04-04",
     "last_seen": "2026-04-04"
