@@ -1,8 +1,20 @@
-httpx
-groq
-pdfplumber
-python-dotenv
-faiss-cpu
-sentence-transformers
-rank-bm25
+# --- Scraping & Networking ---
+python-jobspy>=1.1.82
+tls-client
+curl-cffi
+beautifulsoup4
+markdownify
 requests
+httpx
+
+# --- AI & Search ---
+groq
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy>=2.0.0
+pandas>=2.0.0
+
+# --- Utilities ---
+python-dotenv
+pdfplumber
