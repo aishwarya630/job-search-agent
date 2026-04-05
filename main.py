@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 load_dotenv()
 
-from jobsearch import search_jobs
+from jobsearch import scrape_jobs
 from matcher import match_jobs
 from emailer import send_email
 from resume import extract_resume_text
@@ -13,7 +13,7 @@ from skill_tracker import track_missing_skills, get_skill_recommendations
 
 def search_and_match(keyword, location, resume_text):
     # Step 1 — scrape (Updated to receive logs)
-    jobs, logs =    (keyword, location)
+    jobs, logs =  scrape_jobs(keyword, location)
 
     if not jobs:
         return keyword, location, [], "blocked", logs
