@@ -13,7 +13,7 @@ from skill_tracker import track_missing_skills, get_skill_recommendations
 
 def search_and_match(keyword, location, resume_text):
     # Step 1 — scrape (Updated to receive logs)
-    jobs, logs = search_jobs(keyword, location)
+    jobs, logs =    (keyword, location)
 
     if not jobs:
         return keyword, location, [], "blocked", logs

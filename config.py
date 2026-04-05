@@ -2,8 +2,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 RECIPIENT_EMAILS = [
-    "aanair4@wisc.edu",
-    "aishunair0607@gmail.com",  # add any email here
+    "aanair4@wisc.edu" # add any email here
 ]
 YOUR_NAME = "Aishwarya Aravind Nair"
 
@@ -23,7 +22,7 @@ LOCATIONS = ["United States"]
 MIN_SCORE = 6
 
 # How often to run (in hours)
-SCHEDULE_INTERVAL_HOURS = 24
+SCHEDULE_INTERVAL_HOURS = 1
 
 # Your resume path
 RESUME_PATH = "resume.pdf"

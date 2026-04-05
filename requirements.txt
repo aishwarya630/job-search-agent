@@ -1,5 +1,3 @@
-tls-client
-curl-cffi
 beautifulsoup4
 markdownify
 requests
@@ -10,3 +8,6 @@ faiss-cpu
 rank-bm25
 python-dotenv
 pdfplumber
+selenium
+webdriver-manager
+openai
