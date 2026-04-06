@@ -100,7 +100,7 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 15,
+    "count": 17,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -115,7 +115,7 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 13,
+    "count": 15,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 40,
+    "count": 44,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -640,7 +640,7 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -650,9 +650,9 @@
     "last_seen": "2026-03-15"
   },
   "google cloud platform": {
-    "count": 3,
+    "count": 6,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-05"
+    "last_seen": "2026-04-06"
   },
   "experience with specific distributed systems technologies like apache cassandra": {
     "count": 1,
@@ -695,9 +695,9 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 4,
+    "count": 7,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-05"
+    "last_seen": "2026-04-06"
   },
   "gitlab": {
     "count": 3,
@@ -775,12 +775,12 @@
     "last_seen": "2026-03-31"
   },
   "apache kafka": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-31",
     "last_seen": "2026-04-06"
   },
   "tensorflow": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-31",
     "last_seen": "2026-04-06"
   },
@@ -890,7 +890,7 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 8,
+    "count": 11,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-06"
   },
@@ -1000,9 +1000,9 @@
     "last_seen": "2026-04-06"
   },
   "agile development": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "version control systems": {
     "count": 1,
@@ -1090,9 +1090,9 @@
     "last_seen": "2026-04-05"
   },
   "apache spark": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-05"
+    "last_seen": "2026-04-06"
   },
   "gitlab ci/cd": {
     "count": 1,
@@ -1110,7 +1110,7 @@
     "last_seen": "2026-04-06"
   },
   "apache cassandra": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1135,7 +1135,7 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 2,
+    "count": 7,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1145,12 +1145,12 @@
     "last_seen": "2026-04-06"
   },
   "vmware": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
   "openstack": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1165,6 +1165,41 @@
     "last_seen": "2026-04-06"
   },
   "experience with financial systems": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "google cloud": {
+    "count": 4,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "saltstack": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "apache hadoop": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "specific mlops tools": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "specific machine learning frameworks": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "specific llm knowledge": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "large language model experience": {
     "count": 1,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
