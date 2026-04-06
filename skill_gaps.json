@@ -20,9 +20,9 @@
     "last_seen": "2026-03-26"
   },
   "pytorch": {
-    "count": 7,
+    "count": 9,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "gpu provisioning": {
     "count": 1,
@@ -30,9 +30,9 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-05"
   },
   "django": {
     "count": 1,
@@ -100,9 +100,9 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 3,
+    "count": 15,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-04-06"
   },
   "github actions": {
     "count": 1,
@@ -115,9 +115,9 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 5,
+    "count": 13,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "powershell": {
     "count": 1,
@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 29,
+    "count": 40,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -390,9 +390,9 @@
     "last_seen": "2026-03-15"
   },
   "java": {
-    "count": 24,
+    "count": 31,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "crossplane": {
     "count": 1,
@@ -420,9 +420,9 @@
     "last_seen": "2026-03-24"
   },
   "datadog": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-04-06"
   },
   "experience with palantir-specific tools like palantir foundry": {
     "count": 2,
@@ -485,9 +485,9 @@
     "last_seen": "2026-03-15"
   },
   "apache beam": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-04-05"
   },
   "specific google technologies": {
     "count": 1,
@@ -620,9 +620,9 @@
     "last_seen": "2026-03-15"
   },
   "aws cloudformation": {
-    "count": 1,
+    "count": 4,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-15"
+    "last_seen": "2026-04-06"
   },
   "encryption": {
     "count": 1,
@@ -640,9 +640,9 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 3,
+    "count": 6,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "consul": {
     "count": 1,
@@ -650,9 +650,9 @@
     "last_seen": "2026-03-15"
   },
   "google cloud platform": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-20"
+    "last_seen": "2026-04-05"
   },
   "experience with specific distributed systems technologies like apache cassandra": {
     "count": 1,
@@ -695,9 +695,9 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-03-31"
+    "last_seen": "2026-04-05"
   },
   "gitlab": {
     "count": 3,
@@ -740,9 +740,9 @@
     "last_seen": "2026-03-30"
   },
   "go language": {
-    "count": 3,
+    "count": 10,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "specific mlops tools like mlflow": {
     "count": 2,
@@ -750,9 +750,9 @@
     "last_seen": "2026-03-31"
   },
   "kubeflow": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-03-31"
+    "last_seen": "2026-04-06"
   },
   "specific ai/ml frameworks like tensorflow": {
     "count": 1,
@@ -775,14 +775,14 @@
     "last_seen": "2026-03-31"
   },
   "apache kafka": {
-    "count": 1,
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-03-31"
-  },
-  "tensorflow": {
     "count": 2,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
+  },
+  "tensorflow": {
+    "count": 4,
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-06"
   },
   "or pytorch": {
     "count": 1,
@@ -890,9 +890,9 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 1,
+    "count": 8,
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03"
+    "last_seen": "2026-04-06"
   },
   "but docker is in the resume": {
     "count": 1,
@@ -980,9 +980,9 @@
     "last_seen": "2026-04-04"
   },
   "aws iam": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-05"
   },
   "specific software development skills": {
     "count": 1,
@@ -995,9 +995,9 @@
     "last_seen": "2026-04-04"
   },
   "c++": {
-    "count": 1,
+    "count": 5,
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-06"
   },
   "agile development": {
     "count": 1,
@@ -1008,5 +1008,165 @@
     "count": 1,
     "first_seen": "2026-04-04",
     "last_seen": "2026-04-04"
+  },
+  "ruby": {
+    "count": 2,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "node.js": {
+    "count": 3,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "aws ecs": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "azure kubernetes service": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "vmware vsphere": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "vrealize automation": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "etcd": {
+    "count": 3,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "scikit-learn": {
+    "count": 2,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-06"
+  },
+  "numpy": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "mlops tools (e.g.": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "mlflow": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "kubeflow)": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "swift": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "rust language": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "apache airflow": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "aws sagemaker": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "apache spark": {
+    "count": 2,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "gitlab ci/cd": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "bitbucket": {
+    "count": 1,
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-05"
+  },
+  "new relic": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "apache cassandra": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure monitor": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure cost estimator": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure advisor": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "experience with open connect": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure": {
+    "count": 2,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "puppet": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "vmware": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "openstack": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "aws cloudwatch": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure active directory": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "experience with financial systems": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
   }
 }
