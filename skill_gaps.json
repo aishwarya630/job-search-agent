@@ -1265,7 +1265,7 @@
     "last_seen": "2026-04-06"
   },
   "containerization": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1360,7 +1360,7 @@
     "last_seen": "2026-04-06"
   },
   "specific mention of agile development": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1430,7 +1430,7 @@
     "last_seen": "2026-04-06"
   },
   "specific mention of mobile app development": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1440,6 +1440,21 @@
     "last_seen": "2026-04-06"
   },
   "java programming": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "cdn systems": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "geospatial systems": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "content protection": {
     "count": 1,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
