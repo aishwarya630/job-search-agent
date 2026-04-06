@@ -100,7 +100,7 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 20,
+    "count": 21,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -115,7 +115,7 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 20,
+    "count": 22,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 53,
+    "count": 55,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -695,7 +695,7 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-06"
   },
@@ -735,7 +735,7 @@
     "last_seen": "2026-03-30"
   },
   "kubernetes cluster management": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-06"
   },
@@ -890,7 +890,7 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 12,
+    "count": 14,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-06"
   },
@@ -1095,7 +1095,7 @@
     "last_seen": "2026-04-06"
   },
   "gitlab ci/cd": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-04-05",
     "last_seen": "2026-04-06"
   },
@@ -1135,17 +1135,17 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
   "puppet": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
   "vmware": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1170,7 +1170,7 @@
     "last_seen": "2026-04-06"
   },
   "google cloud": {
-    "count": 6,
+    "count": 9,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1265,7 +1265,7 @@
     "last_seen": "2026-04-06"
   },
   "containerization": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1275,7 +1275,7 @@
     "last_seen": "2026-04-06"
   },
   "api gateway": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1320,7 +1320,7 @@
     "last_seen": "2026-04-06"
   },
   "experience with azure": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1330,7 +1330,7 @@
     "last_seen": "2026-04-06"
   },
   "circleci": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1360,7 +1360,7 @@
     "last_seen": "2026-04-06"
   },
   "specific mention of agile development": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1410,6 +1410,36 @@
     "last_seen": "2026-04-06"
   },
   "specific mention of cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "cdn technologies": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "experience with openshift": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "chef": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "specific mention of mobile app development": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "geospatial technologies": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "java programming": {
     "count": 1,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
