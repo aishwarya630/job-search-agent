@@ -39,7 +39,7 @@ jobs:
       - name: Run job alert
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
