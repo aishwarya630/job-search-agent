@@ -20,7 +20,7 @@
     "last_seen": "2026-03-26"
   },
   "pytorch": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -115,7 +115,7 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 44,
+    "count": 47,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -695,7 +695,7 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-06"
   },
@@ -1045,7 +1045,7 @@
     "last_seen": "2026-04-05"
   },
   "scikit-learn": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-05",
     "last_seen": "2026-04-06"
   },
@@ -1200,6 +1200,76 @@
     "last_seen": "2026-04-06"
   },
   "large language model experience": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "leadership experience": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "fintech": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "specific automation tools like ansible": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "experience with large-scale e-commerce systems": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure storage": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "control plane": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "helm": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "cloud security": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "grafana": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "senior-level experience": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "leadership skills": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "financial domain knowledge": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "containerization": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "orchestration": {
     "count": 1,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
