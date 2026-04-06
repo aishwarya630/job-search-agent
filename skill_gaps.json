@@ -20,7 +20,7 @@
     "last_seen": "2026-03-26"
   },
   "pytorch": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-06"
   },
@@ -65,9 +65,9 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-03"
+    "last_seen": "2026-04-06"
   },
   "specific experience with github actions": {
     "count": 1,
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 49,
+    "count": 50,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -640,7 +640,7 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 8,
+    "count": 9,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -650,7 +650,7 @@
     "last_seen": "2026-03-15"
   },
   "google cloud platform": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-06"
   },
@@ -695,7 +695,7 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 9,
+    "count": 10,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-06"
   },
@@ -720,9 +720,9 @@
     "last_seen": "2026-03-30"
   },
   "docker compose": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-03-30"
+    "last_seen": "2026-04-06"
   },
   "snowflake": {
     "count": 1,
@@ -735,7 +735,7 @@
     "last_seen": "2026-03-30"
   },
   "kubernetes cluster management": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-06"
   },
@@ -780,7 +780,7 @@
     "last_seen": "2026-04-06"
   },
   "tensorflow": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-31",
     "last_seen": "2026-04-06"
   },
@@ -1095,9 +1095,9 @@
     "last_seen": "2026-04-06"
   },
   "gitlab ci/cd": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-05"
+    "last_seen": "2026-04-06"
   },
   "bitbucket": {
     "count": 2,
@@ -1135,7 +1135,7 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1265,7 +1265,7 @@
     "last_seen": "2026-04-06"
   },
   "containerization": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1320,7 +1320,7 @@
     "last_seen": "2026-04-06"
   },
   "experience with azure": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
   },
@@ -1330,6 +1330,56 @@
     "last_seen": "2026-04-06"
   },
   "circleci": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "experience with jenkins": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "control plane development": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "azure service health": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "experience with containerization": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "or other cloud platforms": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "specific mention of agile development": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "solutions engineering": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "microservices architecture": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "nlp": {
+    "count": 1,
+    "first_seen": "2026-04-06",
+    "last_seen": "2026-04-06"
+  },
+  "transformers": {
     "count": 1,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06"
