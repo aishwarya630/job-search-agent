@@ -11,3 +11,5 @@ pdfplumber
 selenium
 webdriver-manager
 openai
+streamlit
+pandas

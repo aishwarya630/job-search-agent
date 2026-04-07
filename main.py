@@ -1,9 +1,9 @@
 import os
 import json
+from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 
-# Import your modules
 from jobsearch import scrape_jobs, pre_install_driver
 from matcher import match_jobs
 from emailer import send_email
@@ -14,77 +14,82 @@ from skill_tracker import track_missing_skills
 
 load_dotenv()
 
+def update_dashboard(new_matches):
+    """Saves high-quality matches to a persistent JSON file for the Streamlit dashboard."""
+    file_path = "dashboard_data.json"
+    dashboard_data = []
+    
+    if os.path.exists(file_path):
+        with open(file_path, "r") as f:
+            try:
+                dashboard_data = json.load(f)
+            except:
+                dashboard_data = []
+
+    existing_urls = {job.get("apply_url") for job in dashboard_data}
+    
+    for job in new_matches:
+        if job.get("apply_url") not in existing_urls:
+            job["saved_at"] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            dashboard_data.append(job)
+
+    with open(file_path, "w") as f:
+        json.dump(dashboard_data, f, indent=4)
+
 def search_and_match(keyword, location, resume_text):
     try:
-        # Step 1 — Scrape
         jobs, logs = scrape_jobs(keyword, location)
+        if not jobs: return keyword, location, [], "blocked", logs
 
-        if not jobs:
-            return keyword, location, [], "blocked", logs
-
-        # Step 2 — Deduplicate
         new_jobs = filter_new_jobs(jobs)
-        if not new_jobs:
-            return keyword, location, [], "already_seen", logs
+        if not new_jobs: return keyword, location, [], "already_seen", logs
 
-        # Step 3 — AI Matching
         matched = match_jobs(new_jobs, resume_text)
-        if not matched:
-            return keyword, location, [], "no_matches", logs
-
         return keyword, location, matched, "ok", logs
     except Exception as e:
         return keyword, location, [], "error", [f"❌ Error: {str(e)}"]
 
 def run():
     print("🚀 Starting Job Alert Agent...")
-    
-    # CRITICAL: Pre-install driver to prevent Race Condition on GitHub
     pre_install_driver()
-    
     resume_text = extract_resume_text(RESUME_PATH)
+    
     all_jobs = []
     system_logs = []
     seen = set()
 
-    tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
-    print(f"Running {len(tasks)} searches in parallel (3 workers)...\n")
-
-    with ThreadPoolExecutor(max_workers=3) as executor:
-        futures = {
-            executor.submit(search_and_match, kw, loc, resume_text): (kw, loc)
-            for kw, loc in tasks
-        }
+    # Use 1 worker for absolute stability with AI API Rate Limits
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
+        futures = {executor.submit(search_and_match, kw, loc, resume_text): (kw, loc) for kw in tasks}
 
         for future in as_completed(futures):
-            keyword, location, new_jobs, status, logs = future.result()
+            kw, loc, new_jobs, status, logs = future.result()
             system_logs.extend(logs)
-
-            if status == "blocked":
-                print(f"  ⚠️  {keyword} — scraper blocked")
-            elif status == "already_seen":
-                print(f"  ⏭️  {keyword} — all jobs already seen")
-            elif status == "error":
-                print(f"  ❌  {keyword} — crashed (Check Logs)")
-            else:
-                print(f"  ✅ {keyword} — {len(new_jobs)} new matches")
+            if status == "ok":
                 for job in new_jobs:
-                    url = job.get('apply_url', '')
-                    if url not in seen:
-                        seen.add(url)
+                    if job.get('apply_url') not in seen:
+                        seen.add(job.get('apply_url'))
                         all_jobs.append(job)
 
-    # Final Processing
     if all_jobs:
+        # 1. Sort by score
         all_jobs.sort(key=lambda x: x.get("score", 0), reverse=True)
-        track_missing_skills(all_jobs)
         
-        high_score_matches = [j for j in all_jobs if j.get("score", 0) >= MIN_SCORE]
+        # 2. Strict Blacklist (Manual Filter)
+        blacklist = ["lead", "staff", "principal", "manager", "director"]
+        filtered = [j for j in all_jobs if not any(b in j.get("title", "").lower() for b in blacklist)]
         
-        print(f"\nTotal matches: {len(all_jobs)} | High-quality: {len(high_score_matches)}")
-        send_email(high_score_matches, system_logs)
+        # 3. Final thresholds
+        high_score_matches = [j for j in filtered if j.get("score", 0) >= MIN_SCORE]
+
+        if high_score_matches:
+            update_dashboard(high_score_matches)
+            track_missing_skills(high_score_matches)
+            send_email(high_score_matches, system_logs)
+            print(f"✅ Run Complete: {len(high_score_matches)} jobs sent.")
     else:
-        print("\nℹ️ No new jobs found in this run.")
+        print("ℹ️ No new matches found.")
 
 if __name__ == "__main__":
     run()

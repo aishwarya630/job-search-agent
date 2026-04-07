@@ -45,6 +45,12 @@ Candidate resume highlights:
 REAL JOB LISTINGS — score ONLY these {len(jobs)} jobs, never invent others:
 {jobs_text}
 
+CRITICAL INSTRUCTIONS:
+- I have 0-2 years of experience. 
+- If the job title contains ""Lead", "Staff", "Principal", or "Manager", SCORE = 0.
+- If the description explicitly asks for 5+, 8+, or 10+ years of experience, SCORE = 0.
+- Do NOT be "too optimistic". If I am unqualified due to years of experience, set 'match' to false and 'score' to 0.
+
 HARD EXCLUSION RULES — immediately discard any job with:
 - "security clearance", "TS/SCI", "polygraph", "US citizen only", "no sponsorship"
 - "5+ years", "6+ years", "7+ years", "10+ years" experience required

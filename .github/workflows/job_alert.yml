@@ -2,7 +2,8 @@ name: Job Alert Agent
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # Staggered 15-min intervals to avoid peak GitHub traffic
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,33 +23,31 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Install Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          
+          # Ensure numpy and pandas are ready for JobSpy/Trackers
           pip install "numpy>=2.0.0" "pandas>=2.0.0"
-          pip install python-jobspy --no-deps
           pip install -r requirements.txt --ignore-installed
 
       - name: Run job alert
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          # Ensure this matches the variable name used in your matcher.py
           OPENAI_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          YOUR_NAME: "Aishwarya"
         run: python main.py
 
-      - name: Commit tracker updates
+      - name: Commit tracker and dashboard updates
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add -f seen_jobs.json skill_gaps.json || true
-          git diff --staged --quiet || git commit -m "update tracker [skip ci]"
-          git push
+          # CRITICAL: Added dashboard_data.json to the save list
+          git add -f seen_jobs.json skill_gaps.json dashboard_data.json || true
+          # Commit and push only if changes exist
+          git diff --staged --quiet || (git commit -m "update tracker & dashboard [skip ci]" && git push)
