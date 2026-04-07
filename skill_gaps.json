@@ -100,7 +100,7 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 58,
+    "count": 60,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -890,7 +890,7 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 18,
+    "count": 19,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-07"
   },
@@ -1265,7 +1265,7 @@
     "last_seen": "2026-04-06"
   },
   "containerization": {
-    "count": 10,
+    "count": 12,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
@@ -1275,9 +1275,9 @@
     "last_seen": "2026-04-06"
   },
   "api gateway": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "azure networking": {
     "count": 1,
@@ -1546,6 +1546,21 @@
   },
   "experience with microservices": {
     "count": 4,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with ansible": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with openstack": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with google cloud": {
+    "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
   }
