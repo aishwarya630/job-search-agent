@@ -1,74 +1,68 @@
 import streamlit as st
 from streamlit_gsheets import GSheetsConnection
-import pandas as pd
 
-# 1. SECURITY & CONFIG
-st.set_page_config(page_title="Job CRM", layout="wide")
+# 1. SETUP
+st.set_page_config(page_title="Job Search CRM", layout="wide")
 
-# Fetch PIN and URL from Secrets (Safe from GitHub prying eyes)
-PIN = st.secrets["ACCESS_PIN"]
-SHEET_URL = st.secrets["GSHEETS_URL"]
-
-# --- PIN GATE ---
+# 2. PIN PROTECTION
 if "auth" not in st.session_state:
     st.session_state.auth = False
 
 if not st.session_state.auth:
     st.title("🔒 Private Job CRM")
-    user_input = st.text_input("Enter Access PIN", type="password")
-    if st.button("Unlock Dashboard"):
-        if user_input == PIN:
+    user_pin = st.text_input("Enter PIN to Access", type="password")
+    if st.button("Unlock"):
+        if user_pin == st.secrets["ACCESS_PIN"]:
             st.session_state.auth = True
             st.rerun()
         else:
-            st.error("Invalid PIN")
+            st.error("Incorrect PIN")
     st.stop()
 
-# --- GOOGLE SHEETS CONNECTION ---
+# 3. CONNECTION (Uses the [connections.gsheets] block from secrets)
 conn = st.connection("gsheets", type=GSheetsConnection)
 
 try:
-    # Read the 'Jobs' worksheet
-    df = conn.read(spreadsheet=SHEET_URL, worksheet="Jobs", ttl="1m")
+    # We don't pass the URL here because it's already in the Secrets
+    df = conn.read(ttl="1m")
 except Exception as e:
-    st.error(f"Connection Error: Ensure the Sheet URL is correct and shared. {e}")
+    st.error(f"Connection Error: {e}")
+    st.info("Check that your Streamlit Secrets have the [connections.gsheets] block.")
     st.stop()
 
-st.title("💼 Professional Job Tracker")
+# 4. INTERACTIVE DASHBOARD
+st.title("💼 My Job Search CRM")
 
 if not df.empty:
-    # --- SIDEBAR FILTERS ---
-    st.sidebar.header("Filters")
+    st.sidebar.header("Filter Board")
     
-    # Fill missing status with 'Interested'
-    df['status'] = df['status'].fillna('Interested')
-    
-    status_options = ["Interested", "Applied", "Interviewing", "Rejected", "Ghosted", "Offer"]
-    selected_status = st.sidebar.multiselect("Filter by Status", status_options, default=["Interested", "Applied", "Interviewing"])
-    
-    # Filter the Data
+    # Check if 'status' column exists, if not, create it
+    if 'status' not in df.columns:
+        df['status'] = "Interested"
+
+    all_status = ["Interested", "Applied", "Interviewing", "Rejected", "Ghosted", "Offer"]
+    selected_status = st.sidebar.multiselect("Status Filter", all_status, default=["Interested", "Applied"])
+
+    # Filtered View
     filtered_df = df[df['status'].isin(selected_status)]
 
-    # --- THE INTERACTIVE EDITOR ---
     st.subheader("Manage Your Applications")
-    st.info("💡 Edit cells directly and click 'Save Changes' below.")
-    
     updated_df = st.data_editor(
         filtered_df,
         column_config={
-            "apply_url": st.column_config.LinkColumn("Link"),
-            "status": st.column_config.SelectboxColumn("Status", options=status_options),
+            "apply_url": st.column_config.LinkColumn("Job Link"),
+            "status": st.column_config.SelectboxColumn("Status", options=all_status),
             "applied_date": st.column_config.DateColumn("Date Applied"),
-            "score": st.column_config.NumberColumn("Score", format="%d ⭐"),
+            "score": st.column_config.NumberColumn("Score", format="%d ⭐")
         },
-        width="stretch", # Replaced use_container_width per your logs
+        width="stretch",
         hide_index=True
     )
 
     if st.button("💾 Save Changes to Google Sheets"):
-        # This pushes updates back to the Google Sheet
-        conn.update(spreadsheet=SHEET_URL, worksheet="Jobs", data=updated_df)
-        st.success("CRM Updated Permanently!")
+        # The .update() method sends the data back to the sheet
+        conn.update(data=updated_df)
+        st.success("Changes Saved Permanently!")
         st.balloons()
 else:
-    st.warning("Sheet found but it is empty. Check your headers!")
+    st.warning("The Google Sheet is currently empty.")
