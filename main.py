@@ -59,18 +59,27 @@ def run():
     seen = set()
 
     # Use 1 worker for absolute stability with AI API Rate Limits
+    # Find this section in your main.py and replace it:
     with ThreadPoolExecutor(max_workers=1) as executor:
-        tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
-        futures = {executor.submit(search_and_match, kw, loc, resume_text): (kw, loc) for kw in tasks}
+        futures = {}
+        for kw, loc in tasks:
+            # We explicitly pass the variables to the submit function
+            job_task = executor.submit(search_and_match, kw, loc, resume_text)
+            futures[job_task] = (kw, loc)
 
         for future in as_completed(futures):
-            kw, loc, new_jobs, status, logs = future.result()
-            system_logs.extend(logs)
-            if status == "ok":
-                for job in new_jobs:
-                    if job.get('apply_url') not in seen:
-                        seen.add(job.get('apply_url'))
-                        all_jobs.append(job)
+            kw, loc = futures[future]  # Get the keywords back from the map
+            try:
+                keyword, location, new_jobs, status, logs = future.result()
+                system_logs.extend(logs)
+                
+                if status == "ok":
+                    for job in new_jobs:
+                        if job.get('apply_url') not in seen:
+                            seen.add(job.get('apply_url'))
+                            all_jobs.append(job)
+            except Exception as e:
+                print(f"❌ Critical error in thread for {kw}: {e}")
 
     if all_jobs:
         # 1. Sort by score
