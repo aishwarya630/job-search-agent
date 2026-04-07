@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 56,
+    "count": 58,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -640,7 +640,7 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -685,9 +685,9 @@
     "last_seen": "2026-03-30"
   },
   "technologies": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-03-30"
+    "last_seen": "2026-04-07"
   },
   "gitlab experience": {
     "count": 1,
@@ -695,9 +695,9 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 12,
+    "count": 14,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "gitlab": {
     "count": 4,
@@ -705,9 +705,9 @@
     "last_seen": "2026-04-06"
   },
   "aws": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "oracle cloud": {
     "count": 1,
@@ -890,7 +890,7 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 15,
+    "count": 18,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-07"
   },
@@ -970,9 +970,9 @@
     "last_seen": "2026-04-04"
   },
   "aws lambda": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-04",
-    "last_seen": "2026-04-04"
+    "last_seen": "2026-04-07"
   },
   "aws api gateway": {
     "count": 1,
@@ -1135,9 +1135,9 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "puppet": {
     "count": 4,
@@ -1170,7 +1170,7 @@
     "last_seen": "2026-04-06"
   },
   "google cloud": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
@@ -1235,7 +1235,7 @@
     "last_seen": "2026-04-06"
   },
   "helm": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
@@ -1395,9 +1395,9 @@
     "last_seen": "2026-04-06"
   },
   "prometheus": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "experience with kubernetes": {
     "count": 1,
@@ -1506,6 +1506,26 @@
   },
   "java or c++ programming languages": {
     "count": 4,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "azure functions": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with tessera labs specific tools": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with dexian specific technology stack": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "terraform": {
+    "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
   }
