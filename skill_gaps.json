@@ -100,7 +100,7 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 23,
+    "count": 24,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -115,7 +115,7 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 23,
+    "count": 24,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -480,9 +480,9 @@
     "last_seen": "2026-03-15"
   },
   "openshift": {
-    "count": 4,
+    "count": 5,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "apache beam": {
     "count": 2,
@@ -1100,9 +1100,9 @@
     "last_seen": "2026-04-06"
   },
   "bitbucket": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-05",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "new relic": {
     "count": 2,
@@ -1425,9 +1425,9 @@
     "last_seen": "2026-04-06"
   },
   "chef": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "specific mention of mobile app development": {
     "count": 2,
@@ -1580,6 +1580,36 @@
     "last_seen": "2026-04-07"
   },
   "azure devops experience": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with azure devops": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with vmware": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "vrealize": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with circleci": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with saltstack": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "cloudformation": {
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
