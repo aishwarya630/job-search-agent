@@ -30,7 +30,7 @@
     "last_seen": "2026-03-14"
   },
   "react": {
-    "count": 19,
+    "count": 22,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -65,7 +65,7 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -100,7 +100,7 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 24,
+    "count": 25,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -115,7 +115,7 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 24,
+    "count": 25,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -480,7 +480,7 @@
     "last_seen": "2026-03-15"
   },
   "openshift": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -640,7 +640,7 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -650,9 +650,9 @@
     "last_seen": "2026-03-15"
   },
   "google cloud platform": {
-    "count": 7,
+    "count": 8,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "experience with specific distributed systems technologies like apache cassandra": {
     "count": 1,
@@ -695,7 +695,7 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 16,
+    "count": 17,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-07"
   },
@@ -890,7 +890,7 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-07"
   },
@@ -1015,7 +1015,7 @@
     "last_seen": "2026-04-05"
   },
   "node.js": {
-    "count": 6,
+    "count": 9,
     "first_seen": "2026-04-05",
     "last_seen": "2026-04-07"
   },
@@ -1350,9 +1350,9 @@
     "last_seen": "2026-04-06"
   },
   "experience with containerization": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "or other cloud platforms": {
     "count": 1,
@@ -1620,6 +1620,21 @@
     "last_seen": "2026-04-07"
   },
   "kubernetes dashboard": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific full-stack experience": {
+    "count": 2,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific web development experience": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific backend frameworks": {
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
