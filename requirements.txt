@@ -13,3 +13,6 @@ webdriver-manager
 openai
 streamlit
 pandas
+st-gsheets-connection
+gspread
+oauth2client
