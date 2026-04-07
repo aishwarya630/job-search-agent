@@ -65,7 +65,7 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -100,7 +100,11 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
+<<<<<<< HEAD
     "count": 28,
+=======
+    "count": 25,
+>>>>>>> 86b240663486c8ab9f4660d736693398917a77af
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -115,7 +119,11 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
+<<<<<<< HEAD
     "count": 27,
+=======
+    "count": 25,
+>>>>>>> 86b240663486c8ab9f4660d736693398917a77af
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -480,7 +488,7 @@
     "last_seen": "2026-03-15"
   },
   "openshift": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -640,7 +648,11 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
+<<<<<<< HEAD
     "count": 15,
+=======
+    "count": 14,
+>>>>>>> 86b240663486c8ab9f4660d736693398917a77af
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -890,7 +902,11 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
+<<<<<<< HEAD
     "count": 22,
+=======
+    "count": 20,
+>>>>>>> 86b240663486c8ab9f4660d736693398917a77af
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-07"
   },
@@ -1015,7 +1031,11 @@
     "last_seen": "2026-04-05"
   },
   "node.js": {
+<<<<<<< HEAD
     "count": 8,
+=======
+    "count": 9,
+>>>>>>> 86b240663486c8ab9f4660d736693398917a77af
     "first_seen": "2026-04-05",
     "last_seen": "2026-04-07"
   },
@@ -1350,9 +1370,9 @@
     "last_seen": "2026-04-06"
   },
   "experience with containerization": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "or other cloud platforms": {
     "count": 1,
@@ -1655,6 +1675,21 @@
     "last_seen": "2026-04-07"
   },
   "5+ years of experience": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific full-stack experience": {
+    "count": 2,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific web development experience": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific backend frameworks": {
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
