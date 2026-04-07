@@ -12,6 +12,9 @@ from tracker import filter_new_jobs
 from config import JOB_KEYWORDS, LOCATIONS, RESUME_PATH, MIN_SCORE
 from skill_tracker import track_missing_skills
 
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+
 load_dotenv()
 
 def update_dashboard(new_matches):
@@ -100,6 +103,24 @@ def run():
             print(f"✅ Run Complete: {len(high_score_matches)} jobs sent.")
     else:
         print("ℹ️ No new matches found.")
+        
+def upload_to_gsheets(new_jobs_list):
+    # 1. Setup credentials (You'll need a service_account.json from Google Cloud)
+    scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+    creds = ServiceAccountCredentials.from_json_keyfile_name("service_account.json", scope)
+    client = gspread.authorize(creds)
+    
+    # 2. Open the sheet
+    sheet = client.open("JobTracker").worksheet("Jobs")
+    
+    # 3. Append data
+    for job in new_jobs_list:
+        row = [
+            job.get("saved_at"), job.get("title"), job.get("company"), 
+            job.get("score"), job.get("why_apply"), job.get("apply_url"),
+            "Interested", "", "" # Default status, applied_date, and notes
+        ]
+        sheet.append_row(row)
 
 if __name__ == "__main__":
     run()
