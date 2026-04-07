@@ -4,6 +4,7 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 
+# Local Imports
 from jobsearch import scrape_jobs, pre_install_driver
 from matcher import match_jobs
 from emailer import send_email
@@ -12,40 +13,47 @@ from tracker import filter_new_jobs
 from config import JOB_KEYWORDS, LOCATIONS, RESUME_PATH, MIN_SCORE
 from skill_tracker import track_missing_skills
 
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-
 load_dotenv()
 
 def update_dashboard(new_matches):
-    """Saves high-quality matches to a persistent JSON file for the Streamlit dashboard."""
+    """Saves high-quality matches to a persistent JSON file for the Streamlit CRM."""
     file_path = "dashboard_data.json"
     dashboard_data = []
     
+    # 1. Load existing data if it exists
     if os.path.exists(file_path):
-        with open(file_path, "r") as f:
+        with open(file_path, "r", encoding="utf-8") as f:
             try:
                 dashboard_data = json.load(f)
-            except:
+            except json.JSONDecodeError:
                 dashboard_data = []
 
     existing_urls = {job.get("apply_url") for job in dashboard_data}
     
+    # 2. Add new jobs with CRM default fields
     for job in new_matches:
         if job.get("apply_url") not in existing_urls:
             job["saved_at"] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            # CRM tracking fields (initialized for the interactive tracker)
+            job["status"] = "Interested"
+            job["applied_date"] = ""
+            job["notes"] = ""
             dashboard_data.append(job)
 
-    with open(file_path, "w") as f:
+    # 3. Save back to JSON
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(dashboard_data, f, indent=4)
+    print(f"✅ Dashboard updated with {len(new_matches)} jobs.")
 
 def search_and_match(keyword, location, resume_text):
     try:
         jobs, logs = scrape_jobs(keyword, location)
-        if not jobs: return keyword, location, [], "blocked", logs
+        if not jobs: 
+            return keyword, location, [], "blocked", logs
 
         new_jobs = filter_new_jobs(jobs)
-        if not new_jobs: return keyword, location, [], "already_seen", logs
+        if not new_jobs: 
+            return keyword, location, [], "already_seen", logs
 
         matched = match_jobs(new_jobs, resume_text)
         return keyword, location, matched, "ok", logs
@@ -62,17 +70,16 @@ def run():
     seen = set()
 
     tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
-    # Use 1 worker for absolute stability with AI API Rate Limits
-    # Find this section in your main.py and replace it:
+    
+    # Use 1 worker for stability with AI API Rate Limits
     with ThreadPoolExecutor(max_workers=1) as executor:
         futures = {}
         for kw, loc in tasks:
-            # We explicitly pass the variables to the submit function
             job_task = executor.submit(search_and_match, kw, loc, resume_text)
             futures[job_task] = (kw, loc)
 
         for future in as_completed(futures):
-            kw, loc = futures[future]  # Get the keywords back from the map
+            kw, loc = futures[future]
             try:
                 keyword, location, new_jobs, status, logs = future.result()
                 system_logs.extend(logs)
@@ -89,38 +96,20 @@ def run():
         # 1. Sort by score
         all_jobs.sort(key=lambda x: x.get("score", 0), reverse=True)
         
-        # 2. Strict Blacklist (Manual Filter)
+        # 2. Filter out senior/management roles if necessary
         blacklist = ["lead", "staff", "principal", "manager", "director"]
         filtered = [j for j in all_jobs if not any(b in j.get("title", "").lower() for b in blacklist)]
         
-        # 3. Final thresholds
+        # 3. Apply Minimum Score Threshold
         high_score_matches = [j for j in filtered if j.get("score", 0) >= MIN_SCORE]
 
         if high_score_matches:
             update_dashboard(high_score_matches)
             track_missing_skills(high_score_matches)
             send_email(high_score_matches, system_logs)
-            print(f"✅ Run Complete: {len(high_score_matches)} jobs sent.")
+            print(f"✅ Run Complete: {len(high_score_matches)} high-score jobs processed.")
     else:
-        print("ℹ️ No new matches found.")
-        
-def upload_to_gsheets(new_jobs_list):
-    # 1. Setup credentials (You'll need a service_account.json from Google Cloud)
-    scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("service_account.json", scope)
-    client = gspread.authorize(creds)
-    
-    # 2. Open the sheet
-    sheet = client.open("JobTracker").worksheet("Jobs")
-    
-    # 3. Append data
-    for job in new_jobs_list:
-        row = [
-            job.get("saved_at"), job.get("title"), job.get("company"), 
-            job.get("score"), job.get("why_apply"), job.get("apply_url"),
-            "Interested", "", "" # Default status, applied_date, and notes
-        ]
-        sheet.append_row(row)
+        print("ℹ️ No new matches found during this run.")
 
 if __name__ == "__main__":
     run()
