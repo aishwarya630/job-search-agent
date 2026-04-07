@@ -65,9 +65,9 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "specific experience with github actions": {
     "count": 1,
@@ -115,9 +115,9 @@
     "last_seen": "2026-03-15"
   },
   "ansible": {
-    "count": 22,
+    "count": 23,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "powershell": {
     "count": 1,
@@ -640,7 +640,7 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 11,
+    "count": 12,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -695,7 +695,7 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-07"
   },
@@ -1135,7 +1135,7 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 13,
+    "count": 14,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
