@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 71,
+    "count": 72,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -365,9 +365,9 @@
     "last_seen": "2026-03-15"
   },
   "tools": {
-    "count": 10,
+    "count": 11,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-03-27"
+    "last_seen": "2026-04-07"
   },
   "experience with ibm-specific tools like ibm cloud private": {
     "count": 2,
@@ -640,7 +640,7 @@
     "last_seen": "2026-03-15"
   },
   "docker swarm": {
-    "count": 17,
+    "count": 18,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -1135,7 +1135,7 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 19,
+    "count": 20,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
@@ -1615,7 +1615,7 @@
     "last_seen": "2026-04-07"
   },
   "none mentioned": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
   },
@@ -1680,6 +1680,51 @@
     "last_seen": "2026-04-07"
   },
   "kubernetes experience": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "industry": {
+    "count": 2,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "experience with revspring's specific tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific full-stack framework experience": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "paypal's technology stack": {
+    "count": 2,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "backend frameworks": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "client needs": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "sre practices": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "financial industry": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "insider risk domain": {
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"

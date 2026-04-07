@@ -634,5 +634,29 @@
         "why_apply": "Build and maintain large-scale machine learning infrastructure",
         "visa_note": "not mentioned",
         "saved_at": "2026-04-07 15:01"
+    },
+    {
+        "title": "DevOps Engineer \u2013 Kubernetes | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/devops-engineer-%E2%80%93-kubernetes-remote-at-crossing-hurdles-4394772407",
+        "score": 8,
+        "what_fits": "Kubernetes, DevOps, CI/CD pipelines, Terraform, AWS",
+        "whats_missing": "None mentioned",
+        "why_apply": "Chance to work on Kubernetes infrastructure and improve deployment efficiency",
+        "visa_note": "No sponsorship information mentioned",
+        "saved_at": "2026-04-07 20:06"
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CardioOne",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-cardioone-4397064066",
+        "score": 7,
+        "what_fits": "DevOps experience, Cloud, AWS, Terraform, Docker, Kubernetes",
+        "whats_missing": "Specific experience with CardioOne's healthcare industry and SRE practices",
+        "why_apply": "Chance to ensure high availability and reliability of CardioOne's systems",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-07 20:06"
     }
 ]
