@@ -100,9 +100,9 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 21,
+    "count": 22,
     "first_seen": "2026-03-14",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "github actions": {
     "count": 1,
@@ -890,9 +890,9 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 14,
+    "count": 15,
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "but docker is in the resume": {
     "count": 1,
@@ -1245,9 +1245,9 @@
     "last_seen": "2026-04-06"
   },
   "grafana": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "senior-level experience": {
     "count": 1,
@@ -1405,9 +1405,9 @@
     "last_seen": "2026-04-06"
   },
   "aks": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "specific mention of cloud platforms": {
     "count": 1,
