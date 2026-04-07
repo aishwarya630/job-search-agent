@@ -65,7 +65,7 @@
     "last_seen": "2026-03-14"
   },
   "gcp": {
-    "count": 11,
+    "count": 13,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 60,
+    "count": 62,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-07"
   },
@@ -695,7 +695,7 @@
     "last_seen": "2026-03-30"
   },
   "azure devops": {
-    "count": 15,
+    "count": 16,
     "first_seen": "2026-03-30",
     "last_seen": "2026-04-07"
   },
@@ -735,9 +735,9 @@
     "last_seen": "2026-03-30"
   },
   "kubernetes cluster management": {
-    "count": 6,
+    "count": 7,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-07"
   },
   "go language": {
     "count": 15,
@@ -1135,7 +1135,7 @@
     "last_seen": "2026-04-06"
   },
   "azure": {
-    "count": 14,
+    "count": 16,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
@@ -1265,7 +1265,7 @@
     "last_seen": "2026-04-06"
   },
   "containerization": {
-    "count": 12,
+    "count": 13,
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-07"
   },
@@ -1610,6 +1610,16 @@
     "last_seen": "2026-04-07"
   },
   "cloudformation": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "none mentioned": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "kubernetes dashboard": {
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
