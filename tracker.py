@@ -25,6 +25,22 @@ def load_seen_jobs():
         # Corrupted file? Start fresh
         return {}
 
+def load_skill_gaps():
+    file_path = "skill_gaps.json"
+    if not os.path.exists(file_path):
+        return []
+    
+    with open(file_path, "r") as f:
+        try:
+            content = f.read().strip()
+            if not content:
+                return []
+            data = json.loads(content)
+            # Ensure the data is actually a list, not a dictionary
+            return data if isinstance(data, list) else []
+        except json.JSONDecodeError:
+            print("⚠️ skill_gaps.json corrupted or wrong format. Resetting.")
+            return []
 
 def save_seen_jobs(seen):
     """Save seen jobs to file"""

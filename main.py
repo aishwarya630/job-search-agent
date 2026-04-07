@@ -58,6 +58,7 @@ def run():
     system_logs = []
     seen = set()
 
+    tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
     # Use 1 worker for absolute stability with AI API Rate Limits
     # Find this section in your main.py and replace it:
     with ThreadPoolExecutor(max_workers=1) as executor:
