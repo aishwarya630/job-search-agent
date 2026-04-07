@@ -4,7 +4,10 @@ import pandas as pd
 
 # 1. SECURITY & CONFIG
 st.set_page_config(page_title="Job CRM", layout="wide")
+
+# Fetch PIN and URL from Secrets (Safe from GitHub prying eyes)
 PIN = st.secrets["ACCESS_PIN"]
+SHEET_URL = st.secrets["GSHEETS_URL"]
 
 # --- PIN GATE ---
 if "auth" not in st.session_state:
@@ -22,53 +25,50 @@ if not st.session_state.auth:
     st.stop()
 
 # --- GOOGLE SHEETS CONNECTION ---
-# This pulls live data from your spreadsheet
 conn = st.connection("gsheets", type=GSheetsConnection)
 
 try:
-    df = conn.read(ttl="1m") # Refresh data every minute
+    # Read the 'Jobs' worksheet
+    df = conn.read(spreadsheet=SHEET_URL, worksheet="Jobs", ttl="1m")
 except Exception as e:
-    st.error("Could not connect to Google Sheets. Check your URL in Secrets.")
+    st.error(f"Connection Error: Ensure the Sheet URL is correct and shared. {e}")
     st.stop()
 
 st.title("💼 Professional Job Tracker")
 
-# --- SIDEBAR FILTERS ---
-st.sidebar.header("Filters")
 if not df.empty:
-    status_list = df['status'].unique().tolist()
-    selected_status = st.sidebar.multiselect("Filter by Status", status_list, default=status_list)
+    # --- SIDEBAR FILTERS ---
+    st.sidebar.header("Filters")
     
-    # Hide Columns
-    all_cols = df.columns.tolist()
-    visible_cols = st.sidebar.multiselect("Show Columns", all_cols, default=["title", "company", "status", "applied_date", "score"])
+    # Fill missing status with 'Interested'
+    df['status'] = df['status'].fillna('Interested')
+    
+    status_options = ["Interested", "Applied", "Interviewing", "Rejected", "Ghosted", "Offer"]
+    selected_status = st.sidebar.multiselect("Filter by Status", status_options, default=["Interested", "Applied", "Interviewing"])
+    
+    # Filter the Data
+    filtered_df = df[df['status'].isin(selected_status)]
 
     # --- THE INTERACTIVE EDITOR ---
-    # This is where you actually manage your jobs
-    filtered_df = df[df['status'].isin(selected_status)]
-    
-    st.subheader("Edit Your Applications")
-    st.info("Tip: Edit the 'Status' or 'Notes' below, then click the Save button.")
+    st.subheader("Manage Your Applications")
+    st.info("💡 Edit cells directly and click 'Save Changes' below.")
     
     updated_df = st.data_editor(
-        filtered_df[visible_cols],
+        filtered_df,
         column_config={
-            "apply_url": st.column_config.LinkColumn("Job Link"),
-            "status": st.column_config.SelectboxColumn(
-                "Status", options=["Interested", "Applied", "Interviewing", "Rejected", "Ghosted", "Offer"]
-            ),
+            "apply_url": st.column_config.LinkColumn("Link"),
+            "status": st.column_config.SelectboxColumn("Status", options=status_options),
             "applied_date": st.column_config.DateColumn("Date Applied"),
-            "score": st.column_config.NumberColumn("Match", format="%d/10 ⭐"),
+            "score": st.column_config.NumberColumn("Score", format="%d ⭐"),
         },
-        use_container_width=True,
-        hide_index=True,
-        num_rows="dynamic" # Allows you to manually add jobs!
+        width="stretch", # Replaced use_container_width per your logs
+        hide_index=True
     )
 
     if st.button("💾 Save Changes to Google Sheets"):
-        # This pushes your edits back to the cloud permanently
-        conn.update(data=updated_df)
-        st.success("CRM Updated!")
+        # This pushes updates back to the Google Sheet
+        conn.update(spreadsheet=SHEET_URL, worksheet="Jobs", data=updated_df)
+        st.success("CRM Updated Permanently!")
         st.balloons()
 else:
-    st.warning("No data found in Google Sheets.")
+    st.warning("Sheet found but it is empty. Check your headers!")
