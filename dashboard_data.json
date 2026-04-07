@@ -658,5 +658,50 @@
         "why_apply": "Chance to ensure high availability and reliability of CardioOne's systems",
         "visa_note": "Not mentioned",
         "saved_at": "2026-04-07 20:06"
+    },
+    {
+        "title": "DevOps Engineer - Entry Level",
+        "company": "Talent Glider",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/devops-engineer-entry-level-at-talent-glider-4395479988",
+        "score": 8,
+        "what_fits": "DevOps experience, Python, Terraform, AWS, Kubernetes, CI/CD pipelines",
+        "whats_missing": "Specific mention of Agile methodologies or IT service management",
+        "why_apply": "Entry-level position with opportunities for growth and development",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-07 22:26",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
+    },
+    {
+        "title": "Azure Cloud/DevOps Engineer",
+        "company": "LightFeather",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/azure-cloud-devops-engineer-at-lightfeather-4398912005",
+        "score": 8,
+        "what_fits": "Azure experience, DevOps, Python, Terraform, CI/CD pipelines",
+        "whats_missing": "Specific mention of Azure Active Directory or Azure Policy",
+        "why_apply": "Opportunity to work on designing and implementing Azure-based cloud solutions",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-07 22:26",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "LightFeather",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/devops-engineer-at-lightfeather-4398594840",
+        "score": 7,
+        "what_fits": "DevOps experience, Python, Terraform, AWS, Kubernetes, CI/CD pipelines",
+        "whats_missing": "Specific mention of cloud security, compliance, or cost optimization",
+        "why_apply": "Chance to work on deploying and managing applications on cloud platforms",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-07 22:26",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
     }
 ]

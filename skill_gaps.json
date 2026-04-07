@@ -100,7 +100,7 @@
     "last_seen": "2026-03-14"
   },
   "jenkins": {
-    "count": 30,
+    "count": 31,
     "first_seen": "2026-03-14",
     "last_seen": "2026-04-07"
   },
@@ -1490,7 +1490,7 @@
     "last_seen": "2026-04-07"
   },
   "compliance": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
   },
@@ -1615,7 +1615,7 @@
     "last_seen": "2026-04-07"
   },
   "none mentioned": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
   },
@@ -1725,6 +1725,41 @@
     "last_seen": "2026-04-07"
   },
   "insider risk domain": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific mention of docker": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "or other containerization tools": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific mention of cloud security": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "or cost optimization": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "specific mention of containerization": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "microservices": {
+    "count": 1,
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-07"
+  },
+  "or serverless architecture": {
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
