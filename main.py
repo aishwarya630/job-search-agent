@@ -1,115 +1,58 @@
 import os
 import json
+import gspread # NEW: Add to requirements.txt
 from datetime import datetime
+from google.oauth2.service_account import Credentials # NEW
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 
-# Local Imports
-from jobsearch import scrape_jobs, pre_install_driver
-from matcher import match_jobs
-from emailer import send_email
-from resume import extract_resume_text
-from tracker import filter_new_jobs
-from config import JOB_KEYWORDS, LOCATIONS, RESUME_PATH, MIN_SCORE
-from skill_tracker import track_missing_skills
+# ... (Keep your other imports) ...
 
-load_dotenv()
-
-def update_dashboard(new_matches):
-    """Saves high-quality matches to a persistent JSON file for the Streamlit CRM."""
-    file_path = "dashboard_data.json"
-    dashboard_data = []
+def update_sheets(new_matches):
+    """Pushes high-quality matches directly to Google Sheets."""
+    # 1. Setup Authentication from GitHub Secrets
+    scope = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
     
-    # 1. Load existing data if it exists
-    if os.path.exists(file_path):
-        with open(file_path, "r", encoding="utf-8") as f:
-            try:
-                dashboard_data = json.load(f)
-            except json.JSONDecodeError:
-                dashboard_data = []
-
-    existing_urls = {job.get("apply_url") for job in dashboard_data}
+    # Load JSON from environment variable (GitHub Secrets)
+    creds_json = json.loads(os.getenv("GCP_SERVICE_ACCOUNT_JSON"))
+    creds = Credentials.from_service_account_info(creds_json, scopes=scope)
+    client = gspread.authorize(creds)
     
-    # 2. Add new jobs with CRM default fields
+    # 2. Open the Sheet (Use your Sheet ID from the URL)
+    sheet_url = os.getenv("GSHEET_URL") 
+    sheet = client.open_by_url(sheet_url).sheet1 # Targets the first tab
+    
+    # 3. Get existing URLs to avoid duplicates
+    existing_urls = sheet.col_values(4) # Column D is apply_url
+    
+    new_rows = []
     for job in new_matches:
-        if job.get("apply_url") not in existing_urls:
-            job["saved_at"] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            # CRM tracking fields (initialized for the interactive tracker)
-            job["status"] = "Interested"
-            job["applied_date"] = ""
-            job["notes"] = ""
-            dashboard_data.append(job)
-
-    # 3. Save back to JSON
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(dashboard_data, f, indent=4)
-    print(f"✅ Dashboard updated with {len(new_matches)} jobs.")
-
-def search_and_match(keyword, location, resume_text):
-    try:
-        jobs, logs = scrape_jobs(keyword, location)
-        if not jobs: 
-            return keyword, location, [], "blocked", logs
-
-        new_jobs = filter_new_jobs(jobs)
-        if not new_jobs: 
-            return keyword, location, [], "already_seen", logs
-
-        matched = match_jobs(new_jobs, resume_text)
-        return keyword, location, matched, "ok", logs
-    except Exception as e:
-        return keyword, location, [], "error", [f"❌ Error: {str(e)}"]
-
-def run():
-    print("🚀 Starting Job Alert Agent...")
-    pre_install_driver()
-    resume_text = extract_resume_text(RESUME_PATH)
+        url = job.get("apply_url")
+        if url not in existing_urls:
+            # Match the column order: Title, Company, Location, URL, Status, Date, Score, Notes
+            new_rows.append([
+                job.get("title"),
+                job.get("company"),
+                job.get("location"),
+                url,
+                "Not Applied", # Default Status
+                "",            # Date Applied (Empty)
+                job.get("score"),
+                ""             # Notes (Empty)
+            ])
     
-    all_jobs = []
-    system_logs = []
-    seen = set()
-
-    tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
-    
-    # Use 1 worker for stability with AI API Rate Limits
-    with ThreadPoolExecutor(max_workers=1) as executor:
-        futures = {}
-        for kw, loc in tasks:
-            job_task = executor.submit(search_and_match, kw, loc, resume_text)
-            futures[job_task] = (kw, loc)
-
-        for future in as_completed(futures):
-            kw, loc = futures[future]
-            try:
-                keyword, location, new_jobs, status, logs = future.result()
-                system_logs.extend(logs)
-                
-                if status == "ok":
-                    for job in new_jobs:
-                        if job.get('apply_url') not in seen:
-                            seen.add(job.get('apply_url'))
-                            all_jobs.append(job)
-            except Exception as e:
-                print(f"❌ Critical error in thread for {kw}: {e}")
-
-    if all_jobs:
-        # 1. Sort by score
-        all_jobs.sort(key=lambda x: x.get("score", 0), reverse=True)
-        
-        # 2. Filter out senior/management roles if necessary
-        blacklist = ["lead", "staff", "principal", "manager", "director"]
-        filtered = [j for j in all_jobs if not any(b in j.get("title", "").lower() for b in blacklist)]
-        
-        # 3. Apply Minimum Score Threshold
-        high_score_matches = [j for j in filtered if j.get("score", 0) >= MIN_SCORE]
-
-        if high_score_matches:
-            update_dashboard(high_score_matches)
-            track_missing_skills(high_score_matches)
-            send_email(high_score_matches, system_logs)
-            print(f"✅ Run Complete: {len(high_score_matches)} high-score jobs processed.")
+    # 4. Batch Append
+    if new_rows:
+        sheet.append_rows(new_rows)
+        print(f"✅ Google Sheets updated with {len(new_rows)} new jobs.")
     else:
-        print("ℹ️ No new matches found during this run.")
+        print("ℹ️ No unique jobs to add to Sheets.")
 
-if __name__ == "__main__":
-    run()
+# --- Update your run() function to call update_sheets instead of update_dashboard ---
+def run():
+    # ... (Keep your scraping logic) ...
+    if high_score_matches:
+        update_sheets(high_score_matches) # <--- Changed this
+        track_missing_skills(high_score_matches)
+        send_email(high_score_matches, system_logs)
+    # ...
