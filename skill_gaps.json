@@ -350,9 +350,9 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 74,
+    "count": 75,
     "first_seen": "2026-03-15",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "which are not extensively mentioned in the candidate's resume": {
     "count": 1,
@@ -890,9 +890,9 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 24,
+    "count": 25,
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "but docker is in the resume": {
     "count": 1,
@@ -1395,9 +1395,9 @@
     "last_seen": "2026-04-06"
   },
   "prometheus": {
-    "count": 2,
+    "count": 3,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "experience with kubernetes": {
     "count": 1,
@@ -1405,9 +1405,9 @@
     "last_seen": "2026-04-06"
   },
   "aks": {
-    "count": 4,
+    "count": 6,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "specific mention of cloud platforms": {
     "count": 1,
@@ -1763,5 +1763,55 @@
     "count": 1,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-07"
+  },
+  "specific mention of laminar's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of glean's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of remi's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of glossgenius's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of hackajob's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of tessera labs' tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of paypal's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "experience with web development": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of morgan stanley's tech stack": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "experience with financial services": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
   }
 }
