@@ -3,7 +3,8 @@ name: Job Alert Agent
 on:
   schedule:
     # Staggered 15-min intervals to avoid peak GitHub traffic
-    - cron: '7,22,37,52 * * * *'
+    - cron: '7,37 * * * *'
+    - cron: '22,52 * * * *'
   workflow_dispatch:
 
 jobs:
