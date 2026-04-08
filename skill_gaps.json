@@ -685,9 +685,9 @@
     "last_seen": "2026-03-30"
   },
   "technologies": {
-    "count": 2,
+    "count": 4,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "gitlab experience": {
     "count": 1,
@@ -1615,7 +1615,7 @@
     "last_seen": "2026-04-07"
   },
   "none mentioned": {
-    "count": 5,
+    "count": 6,
     "first_seen": "2026-04-07",
     "last_seen": "2026-04-08"
   },
@@ -1851,6 +1851,16 @@
   },
   "specific mention of aws": {
     "count": 4,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "experience with esimplicity's specific tools": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "experience with raas infotek's specific tools": {
+    "count": 1,
     "first_seen": "2026-04-08",
     "last_seen": "2026-04-08"
   }

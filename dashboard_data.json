@@ -1048,5 +1048,35 @@
         "status": "Interested",
         "applied_date": "",
         "notes": ""
+    },
+    {
+        "title": "Junior DevOps Engineer",
+        "company": "eSimplicity",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/junior-devops-engineer-at-esimplicity-4386971881",
+        "score": 7,
+        "what_fits": "DevOps, Python, CI/CD",
+        "whats_missing": "Experience with eSimplicity's specific tools and technologies",
+        "why_apply": "Entry-level opportunity to grow in DevOps",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-08 12:41",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Raas Infotek",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/devops-engineer-at-raas-infotek-4398933266",
+        "score": 7,
+        "what_fits": "DevOps, Python, CI/CD",
+        "whats_missing": "Experience with Raas Infotek's specific tools and technologies",
+        "why_apply": "Chance to work on improving infrastructure and deployment",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-08 12:41",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
     }
 ]
