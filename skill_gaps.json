@@ -1823,5 +1823,30 @@
     "count": 7,
     "first_seen": "2026-04-08",
     "last_seen": "2026-04-08"
+  },
+  "specific ai workflow tools": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "tensorflow or pytorch": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "java or javascript": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "javascript or typescript": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "java or c++": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
   }
 }

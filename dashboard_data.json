@@ -1018,5 +1018,35 @@
         "status": "Interested",
         "applied_date": "",
         "notes": ""
+    },
+    {
+        "title": "Software Engineer, AI Workflows",
+        "company": "Notion",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-ai-workflows-at-notion-4398969742",
+        "score": 8,
+        "what_fits": "Python, Cloud, DevOps, AI-workflow integration",
+        "whats_missing": "Specific AI workflow tools, TensorFlow or PyTorch",
+        "why_apply": "Opportunity to work on AI workflows and infrastructure",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-08 06:50",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "hackajob",
+        "location": "United States",
+        "apply_url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-hackajob-4362144450",
+        "score": 7,
+        "what_fits": "Python, Cloud, DevOps",
+        "whats_missing": "Specific experience with hackajob's tech stack, JavaScript or TypeScript",
+        "why_apply": "Opportunity to work on innovative software projects",
+        "visa_note": "Not mentioned",
+        "saved_at": "2026-04-08 06:50",
+        "status": "Interested",
+        "applied_date": "",
+        "notes": ""
     }
 ]
