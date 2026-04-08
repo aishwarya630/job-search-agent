@@ -98,3 +98,4 @@ if not df.empty:
             # Prevent users from editing AI-generated data to keep things clean
             "title": st.column
         }
+    )
