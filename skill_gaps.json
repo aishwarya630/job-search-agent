@@ -1863,5 +1863,30 @@
     "count": 1,
     "first_seen": "2026-04-08",
     "last_seen": "2026-04-08"
+  },
+  "specific ai frameworks": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "machine learning libraries": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific cloud platforms": {
+    "count": 4,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "containerization tools": {
+    "count": 4,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "frontend skills": {
+    "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
   }
 }
