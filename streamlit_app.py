@@ -95,7 +95,8 @@ if not df.empty:
             "status": st.column_config.SelectboxColumn("Status", options=all_status),
             "applied_date": st.column_config.DateColumn("Date Applied"),
             "score": st.column_config.NumberColumn("Score", format="%d ⭐"),
-            # Prevent users from editing AI-generated data to keep things clean
-            "title": st.column
+            "title": st.column_config.Column(disabled=True),
+            "company": st.column_config.Column(disabled=True),
+            "saved_at": st.column_config.Column(disabled=True),
         }
     )
