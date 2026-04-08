@@ -1,97 +1,38 @@
-import json
+import gspread
 import os
-from datetime import datetime, timedelta
-
-SEEN_FILE = "seen_jobs.json"
-
-
-def is_real_job_url(url):
-    """Only track real job URLs, not hallucinated ones"""
-    if not url or "123456" in url:
-        return False
-    if not url.startswith("https://"):
-        return False
-    return True
-
-
-def load_seen_jobs():
-    """Load previously seen jobs from file"""
-    if not os.path.exists(SEEN_FILE):
-        return {}
-    try:
-        with open(SEEN_FILE, "r") as f:
-            return json.load(f)
-    except Exception:
-        # Corrupted file? Start fresh
-        return {}
-
-def load_skill_gaps():
-    file_path = "skill_gaps.json"
-    if not os.path.exists(file_path):
-        return []
-    
-    with open(file_path, "r") as f:
-        try:
-            content = f.read().strip()
-            if not content:
-                return []
-            data = json.loads(content)
-            # Ensure the data is actually a list, not a dictionary
-            return data if isinstance(data, list) else []
-        except json.JSONDecodeError:
-            print("⚠️ skill_gaps.json corrupted or wrong format. Resetting.")
-            return []
-
-def save_seen_jobs(seen):
-    """Save seen jobs to file"""
-    try:
-        with open(SEEN_FILE, "w") as f:
-            json.dump(seen, f, indent=2)
-    except Exception as e:
-        print(f"Error saving seen jobs: {e}")
-
-
-def cleanup_old_jobs(seen, days=7):
-    """Remove jobs older than X days"""
-    cutoff = datetime.now() - timedelta(days=days)
-    cleaned = {}
-
-    for key, timestamp in seen.items():
-        try:
-            job_time = datetime.fromisoformat(timestamp)
-            if job_time > cutoff:
-                cleaned[key] = timestamp
-        except Exception:
-            # Skip bad timestamps
-            continue
-
-    return cleaned
-
+import json
+from google.oauth2.service_account import Credentials
 
 def filter_new_jobs(jobs):
+    """Checks Google Sheets directly to see if jobs are duplicates."""
     if not jobs:
         return []
 
-    jobs = [j for j in jobs if isinstance(j, dict)]
-    if not jobs:
-        return []
-
-    seen = load_seen_jobs()
-    seen = cleanup_old_jobs(seen)
+    # 1. Connect to Google Sheets
+    scope = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
+    creds_json = json.loads(os.getenv("GCP_SERVICE_ACCOUNT_JSON"))
+    creds = Credentials.from_service_account_info(creds_json, scopes=scope)
+    client = gspread.authorize(creds)
+    
+    sheet_url = os.getenv("GSHEET_URL")
+    sheet = client.open_by_url(sheet_url).sheet1
+    
+    # 2. Get every URL currently in Column D (adjust if your URL is in a different column)
+    # col_values(4) is Column D
+    existing_urls = set(sheet.col_values(4)) 
 
     new_jobs = []
-    now = datetime.now().isoformat()
-
     for job in jobs:
-        key = job.get("apply_url") or f"{job.get('title')}-{job.get('company')}"
-
-        if not is_real_job_url(key):
-            print(f"  Skipping suspected hallucinated URL: {str(key)[:60]}")
+        url = job.get("apply_url")
+        
+        # Validation
+        if not url or "123456" in url or not url.startswith("https://"):
             continue
-
-        if key not in seen:
+            
+        # Check against Google Sheet data
+        if url not in existing_urls:
             new_jobs.append(job)
-            seen[key] = now
+            # Add to set immediately so duplicates within the SAME run are caught
+            existing_urls.add(url) 
 
-    save_seen_jobs(seen)
     return new_jobs
