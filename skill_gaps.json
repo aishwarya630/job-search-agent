@@ -350,7 +350,7 @@
     "last_seen": "2026-03-15"
   },
   "docker": {
-    "count": 75,
+    "count": 77,
     "first_seen": "2026-03-15",
     "last_seen": "2026-04-08"
   },
@@ -890,7 +890,7 @@
     "last_seen": "2026-04-03"
   },
   "kubernetes": {
-    "count": 26,
+    "count": 29,
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-08"
   },
@@ -1240,9 +1240,9 @@
     "last_seen": "2026-04-07"
   },
   "cloud security": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-06"
+    "last_seen": "2026-04-08"
   },
   "grafana": {
     "count": 4,
@@ -1265,9 +1265,9 @@
     "last_seen": "2026-04-06"
   },
   "containerization": {
-    "count": 13,
+    "count": 15,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "orchestration": {
     "count": 1,
@@ -1525,9 +1525,9 @@
     "last_seen": "2026-04-07"
   },
   "terraform": {
-    "count": 1,
+    "count": 3,
     "first_seen": "2026-04-07",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "specific netflix technology stack": {
     "count": 2,
@@ -1730,9 +1730,9 @@
     "last_seen": "2026-04-07"
   },
   "specific mention of docker": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-04-07",
-    "last_seen": "2026-04-07"
+    "last_seen": "2026-04-08"
   },
   "or other containerization tools": {
     "count": 1,
@@ -1846,6 +1846,11 @@
   },
   "java or c++": {
     "count": 1,
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-08"
+  },
+  "specific mention of aws": {
+    "count": 4,
     "first_seen": "2026-04-08",
     "last_seen": "2026-04-08"
   }
