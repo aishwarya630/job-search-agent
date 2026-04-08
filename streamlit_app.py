@@ -97,3 +97,4 @@ if not df.empty:
             "score": st.column_config.NumberColumn("Score", format="%d ⭐"),
             # Prevent users from editing AI-generated data to keep things clean
             "title": st.column
+        }
