@@ -60,19 +60,32 @@ def update_sheets(new_matches):
 
 def search_and_match(keyword, location, resume_text):
     """Scrapes and matches jobs for a specific keyword/location pair."""
+    # ADDED: Clear start log
+    print(f"🔍 Starting search: [{keyword}] in [{location}]...") 
+    
     try:
         jobs, logs = scrape_jobs(keyword, location)
+        
         if not jobs: 
-            return keyword, location, [], "blocked", logs
+            print(f"⚠️  No raw jobs found for {keyword}")
+            return keyword, location, [], "no_results", logs
 
-        # This now pulls existing URLs from GSheets to prevent duplicates
+        print(f"Found {len(jobs)} raw results for {keyword}. Checking for duplicates...")
+
+        # This checks the Google Sheet
         new_jobs = filter_new_jobs(jobs)
+        
         if not new_jobs: 
+            print(f"⏭️  All {len(jobs)} jobs for {keyword} were already in your Google Sheet.")
             return keyword, location, [], "already_seen", logs
 
+        print(f"✨ {len(new_jobs)} NEW jobs to analyze for {keyword}...")
+        
         matched = match_jobs(new_jobs, resume_text)
         return keyword, location, matched, "ok", logs
+        
     except Exception as e:
+        print(f"❌ Error in search_and_match for {keyword}: {e}")
         return keyword, location, [], "error", [f"❌ Error: {str(e)}"]
 
 def run():
@@ -85,45 +98,56 @@ def run():
     seen_urls = set()
 
     tasks = [(kw, loc) for kw in JOB_KEYWORDS for loc in LOCATIONS]
+    print(f"📋 Total Keyword/Location combinations to check: {len(tasks)}")
     
-    # Use 1-2 workers for stability with AI API Rate Limits
+    # We use a loop or ThreadPool. If workers=1, it's basically a sequential loop.
     with ThreadPoolExecutor(max_workers=1) as executor:
         futures = {executor.submit(search_and_match, kw, loc, resume_text): (kw, loc) for kw, loc in tasks}
 
         for future in as_completed(futures):
             kw, loc = futures[future]
             try:
+                # This line waits for the individual search to finish
                 keyword, location, new_jobs, status, logs = future.result()
                 system_logs.extend(logs)
                 
                 if status == "ok":
                     for job in new_jobs:
                         url = job.get('apply_url')
+                        # Internal de-duplication (in case different keywords find the same job)
                         if url and url not in seen_urls:
                             seen_urls.add(url)
                             all_jobs.append(job)
+                
+                print(f"✅ Finished {kw} | Total new jobs found so far: {len(all_jobs)}")
+
             except Exception as e:
                 print(f"❌ Critical error in thread for {kw}: {e}")
 
+    # --- AFTER THE LOOP ---
     if all_jobs:
-        # 1. Basic Cleaning
+        print(f"📊 Final processing for {len(all_jobs)} jobs...")
+        
+        # 1. Basic Cleaning & Sorting
         all_jobs.sort(key=lambda x: x.get("score", 0), reverse=True)
         
-        # 2. Filtering Senior Roles
-        blacklist = ["lead", "staff", "principal", "manager", "director"]
+        # 2. Filtering Senior Roles (Double check this isn't too strict!)
+        blacklist = ["senior", "lead", "staff", "principal", "manager", "director"]
         filtered = [j for j in all_jobs if not any(b in j.get("title", "").lower() for b in blacklist)]
         
+        print(f"Filtered out {len(all_jobs) - len(filtered)} senior roles.")
+
         # 3. Apply Minimum Score Threshold
         high_score_matches = [j for j in filtered if j.get("score", 0) >= MIN_SCORE]
 
         if high_score_matches:
-            # UPDATED: Direct push to Sheets, no more local JSON!
             update_sheets(high_score_matches) 
             track_missing_skills(high_score_matches)
             send_email(high_score_matches, system_logs)
-            print(f"✅ Run Complete: {len(high_score_matches)} jobs pushed to Sheet.")
+            print(f"🎉 Run Complete: {len(high_score_matches)} high-quality matches saved!")
+        else:
+            print(f"📉 Found {len(filtered)} jobs, but none met the score threshold of {MIN_SCORE}.")
     else:
-        print("ℹ️ No new matches found during this run.")
-
+        print("ℹ️ No new matches found during this run. (Either nothing new on LinkedIn or all are duplicates).")
 if __name__ == "__main__":
     run()
