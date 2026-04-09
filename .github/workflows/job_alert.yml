@@ -43,6 +43,8 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          GCP_SERVICE_ACCOUNT_JSON: ${{secrets.GCP_SERVICE_ACCOUNT_JSON}}
+          GSHEET_URL: ${{secrets.GSHEET_URL}}
           YOUR_NAME: "Aishwarya"
         run: python main.py
 
