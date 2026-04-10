@@ -16,3 +16,4 @@ pandas
 st-gsheets-connection
 gspread
 google-auth
+apify-client
