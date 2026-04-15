@@ -56,87 +56,91 @@ class LinkedInJobCrawler:
         return not any(keyword.lower() in title_lower for keyword in self.config['excluded_keywords'])
 
     def scrape_linkedin_jobs(self):
-        """Scrape job data from LinkedIn including full descriptions."""
-        jobs = []
-        try:
+            jobs = []
             if self.driver is None:
                 self.setup_driver()
-                
-            print(f"🔍 Fetching LinkedIn jobs from: {self.config['job_url']}")
-            self.driver.get(self.config['job_url'])
-            
-            # Initial wait for page load
-            time.sleep(5)
-            
-            # Scroll to load more cards
-            print("📜 Scrolling to load more listings...")
-            for _ in range(2):
-                self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(2)
-            
-            # Find job cards using Selenium to enable interaction
-            job_cards = self.driver.find_elements(By.CLASS_NAME, 'base-card')
-            print(f"📊 Found {len(job_cards)} potential job cards.")
-            
-            for i in range(len(job_cards)):
+    
+            try:
+                print(f"🔍 Fetching: {self.config['job_url']}")
+                self.driver.get(self.config['job_url'])
+                time.sleep(4)
+    
+                # --- POP-UP DISMISSAL ---
                 try:
-                    # Re-find elements to avoid StaleElementReferenceException
-                    current_cards = self.driver.find_elements(By.CLASS_NAME, 'base-card')
-                    if i >= len(current_cards): break
-                    card = current_cards[i]
-                    
-                    # 1. CLICK the card to reveal description in the right pane
-                    self.driver.execute_script("arguments[0].click();", card)
-                    time.sleep(random.uniform(2.0, 3.5)) # Give it time to load details
-
-                    # 2. Extract Title and metadata from card
-                    soup_card = BeautifulSoup(card.get_attribute('outerHTML'), 'html.parser')
-                    title_element = soup_card.find('h3', class_='base-search-card__title')
-                    
-                    if not title_element: continue
-                    title = title_element.text.strip()
-                    
-                    if not self.is_job_relevant(title):
-                        continue
-
-                    # 3. SCRAPE THE DESCRIPTION (Now loaded in the detail pane)
+                    # Try to find the 'X' on a login modal if it exists
+                    close_button = self.driver.find_element(By.XPATH, "//button[@aria-label='Dismiss']")
+                    close_button.click()
+                    print("🛡️ Dismissed LinkedIn login modal.")
+                except:
+                    pass
+    
+                # Scroll to load initial cards
+                self.driver.execute_script("window.scrollTo(0, 500);")
+                time.sleep(2)
+    
+                # Get initial count
+                job_cards = self.driver.find_elements(By.CLASS_NAME, 'base-card')
+                print(f"📊 Cards detected: {len(job_cards)}")
+    
+                for i in range(len(job_cards)):
                     try:
-                        # LinkedIn uses this class for the job details section
-                        desc_box = self.driver.find_element(By.CLASS_NAME, "show-more-less-html__markup")
-                        description_text = desc_box.text.strip()
-                    except:
-                        description_text = ""
-
-                    company_element = soup_card.find('h4', class_='base-search-card__subtitle')
-                    company = company_element.text.strip() if company_element else "Unknown"
-                    
-                    location_element = soup_card.find('span', class_='job-search-card__location')
-                    location = location_element.text.strip() if location_element else "Unknown"
-                    
-                    link_element = soup_card.find('a', class_='base-card__full-link', href=True)
-                    job_url = link_element['href'].split('?')[0] if link_element else ""
-                    
-                    if job_url and description_text:
-                        jobs.append({
-                            'title': title,
-                            'company': company,
-                            'location': location,
-                            'url': job_url,
-                            'description': description_text, # AI matching is now possible
-                            'source': 'LinkedIn',
-                            'scraped_date': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        })
-                        print(f"✅ Scraped: {title} at {company}")
-                    else:
-                        print(f"⚠️ Skipped {title}: Missing URL or Description.")
-
-                except Exception as e:
-                    print(f"❌ Error extracting card {i}: {e}")
+                        # RE-FETCH to avoid StaleElementReferenceException
+                        current_cards = self.driver.find_elements(By.CLASS_NAME, 'base-card')
+                        if i >= len(current_cards): break
+                        card = current_cards[i]
+    
+                        # Scroll card into view
+                        self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", card)
+                        time.sleep(0.5)
+    
+                        # CLICK the card
+                        try:
+                            card.click()
+                        except:
+                            # Backup: JS Click if something is overlapping
+                            self.driver.execute_script("arguments[0].click();", card)
+    
+                        # WAIT for the description to load
+                        wait = WebDriverWait(self.driver, 5)
+                        try:
+                            # Targeted class for the description area
+                            desc_selector = "show-more-less-html__markup"
+                            wait.until(EC.presence_of_element_located((By.CLASS_NAME, desc_selector)))
+                            description_element = self.driver.find_element(By.CLASS_NAME, desc_selector)
+                            description_text = description_element.text.strip()
+                        except TimeoutException:
+                            print(f"⚠️ Skip {i}: Description didn't load in time.")
+                            continue
+    
+                        # Metadata Extraction
+                        soup_html = card.get_attribute('outerHTML')
+                        # (Your existing parsing logic for title/company/url goes here)
+                        # For speed, let's grab title and URL directly via Selenium:
+                        title = card.find_element(By.CLASS_NAME, 'base-search-card__title').text.strip()
+                        url = card.find_element(By.TAG_NAME, 'a').get_attribute('href').split('?')[0]
+                        company = card.find_element(By.CLASS_NAME, 'base-search-card__subtitle').text.strip()
+    
+                        if description_text and url:
+                            jobs.append({
+                                'title': title,
+                                'company': company,
+                                'url': url,
+                                'description': description_text,
+                                'scraped_date': time.strftime("%Y-%m-%d %H:%M")
+                            })
+                            print(f"✅ Scraped: {title}")
+    
+                    except StaleElementReferenceException:
+                        print(f"🔄 Stale element at card {i}, retrying...")
+                        continue
+                    except Exception as e:
+                        print(f"❌ Card {i} error: {str(e)[:50]}")
+                        continue
+    
+            except Exception as e:
+                print(f"🚨 Critical Scraper Error: {e}")
             
-        except Exception as e:
-            print(f"🚨 Scraper Error: {e}")
-        
-        return jobs
+            return jobs
 
     def cleanup(self):
         """Clean up resources."""
