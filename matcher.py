@@ -32,7 +32,7 @@ JOB {i+1}:
 Title: {job['title']}
 Company: {job['company']}
 Location: {job['location']}
-URL: {job['apply_url']}
+URL: {job['url']}
 Description: {desc_sample}
 ---
 """
