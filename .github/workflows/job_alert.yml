@@ -47,12 +47,3 @@ jobs:
           GSHEET_URL: ${{secrets.GSHEET_URL}}
           YOUR_NAME: "Aishwarya"
         run: python main.py
-
-      - name: Commit tracker and dashboard updates
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          # CRITICAL: Added dashboard_data.json to the save list
-          git add -f seen_jobs.json skill_gaps.json dashboard_data.json || true
-          # Commit and push only if changes exist
-          git diff --staged --quiet || (git commit -m "update tracker & dashboard [skip ci]" && git push)
